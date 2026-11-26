@@ -18,3 +18,10 @@ normal (not inflated) reference price, a reliable seller and long-term usefulnes
 ## Rules
 No purchases, no sign-ups, no payment details, no accounts. Historical prices are never invented:
 if no price history was found, the report says so.
+
+## User priorities (added 26 Nov)
+The user is in Bangladesh. Rank deals they can actually buy and use from Bangladesh first, but keep researching globally.
+Focus: AI subscriptions and lifetime software deals; Claude, ChatGPT and other AI services; developer tools, APIs and
+automation; laptops, smartphones and productivity equipment; business and financial intelligence tools.
+International physical goods count only if the EST landed cost in Bangladesh beats the best local price by at least 10%
+(see `deals.json` → `priorities`). Exceptional deals trigger an immediate notification.
