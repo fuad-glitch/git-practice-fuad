@@ -25,3 +25,18 @@ Total: 70 hosts.
 
 Known limitation: Amazon UK, Currys and John Lewis use bot protection. They may still refuse automated reads after
 being allowed. Deals that can only be confirmed there may stay UNVERIFIED.
+
+## Applied 26 Nov 2026: 34 essential hosts only (two approval cards)
+Network access stays Limited, package managers stay allowed, no wildcards. The 36 optional hosts were not added.
+
+### Access test, 26 Nov ~14:00 UTC
+- **Product page readable with prices (11):** elevenlabs.io/pricing, apple.com/uk (iPhone and MacBook Pro shop),
+  backmarket.co.uk/en-gb, scan.co.uk laptops, hostinger.com Black Friday page, ovhcloud.com/en-gb/black-friday,
+  digitalocean.com/pricing, runpod.io/pricing, lenovo.com/gb/en, cursor.com/pricing, claude.com/pricing.
+- **Home page loads (200; product pages not yet tested):** gemini.google.com, openai.com, chatgpt.com, anthropic.com,
+  perplexity.ai, hetzner.com, cloudflare.com, vast.ai.
+- **Proxy allows these, but the site blocks automated requests:** adobe.com, argos.co.uk and dell.com (Akamai
+  "Access Denied"); currys.co.uk, contabo.com, vultr.com and namecheap.com (Cloudflare); johnlewis.com (connection reset);
+  amazon.co.uk (empty 202). Deals at these sellers stay UNVERIFIED unless another primary page can be read.
+- **Redirect to a host not on the list (proxy blocks the destination):** runwayml.com -> runway.com,
+  lambda.ai -> lambda.com, www.box.co.uk -> box.co.uk. ovhcloud.com works via its /en-gb/ paths.
