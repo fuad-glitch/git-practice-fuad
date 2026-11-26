@@ -12,7 +12,7 @@
    "discount_pct": 55,
    "final_cost": "$99 + card FX fees",
    "conditions": "First year only, renews at full price; refund only if no credits used",
-   "rating": "Strong",
+   "rating": "UNVERIFIED",
    "verification": "V2",
    "links": [
     "https://elevenlabs.io/pricing",
@@ -21,7 +21,15 @@
    "deadline": "1 Dec 2026",
    "status": "active",
    "last_checked": "2026-11-26T13:00Z",
-   "bd_access": "Card payment; BD availability not verified"
+   "bd_access": "Card payment; BD availability not verified",
+   "primary_source_link": null,
+   "last_verified_at": null,
+   "exact_config": "ElevenLabs Creator, annual",
+   "payable_price": null,
+   "renewal_or_long_term_cost": null,
+   "eligibility": null,
+   "limitations": "First year only, renews at full price; refund only if no credits used",
+   "provisional_rating": "Strong"
   },
   {
    "section": "A",
@@ -33,7 +41,7 @@
    "discount_pct": 57,
    "final_cost": "$359.88 + FX",
    "conditions": "New subscribers only; first year; annual commitment with early-cancellation fee",
-   "rating": "Strong (Exceptional only for existing heavy Adobe users)",
+   "rating": "UNVERIFIED",
    "verification": "V2",
    "links": [
     "https://www.adobe.com/creativecloud/plans.html",
@@ -41,7 +49,15 @@
    ],
    "deadline": "conflicting: 27 Nov vs 6 Dec",
    "status": "active",
-   "last_checked": "2026-11-26T13:00Z"
+   "last_checked": "2026-11-26T13:00Z",
+   "primary_source_link": null,
+   "last_verified_at": null,
+   "exact_config": "Adobe Creative Cloud Pro (includes Firefly), individual",
+   "payable_price": null,
+   "renewal_or_long_term_cost": null,
+   "eligibility": null,
+   "limitations": "New subscribers only; first year; annual commitment with early-cancellation fee",
+   "provisional_rating": "Strong (Exceptional only for existing heavy Adobe users)"
   },
   {
    "section": "A",
@@ -53,14 +69,22 @@
    "discount_pct": 50,
    "final_cost": "not determined",
    "conditions": "First 6 months only",
-   "rating": "Good",
+   "rating": "UNVERIFIED",
    "verification": "V1",
    "links": [
     "https://contentstudio.io/blog/black-friday-software-deals"
    ],
    "deadline": "not verified",
    "status": "active",
-   "last_checked": "2026-11-26T13:00Z"
+   "last_checked": "2026-11-26T13:00Z",
+   "primary_source_link": null,
+   "last_verified_at": null,
+   "exact_config": "Adobe Firefly Pro",
+   "payable_price": null,
+   "renewal_or_long_term_cost": null,
+   "eligibility": null,
+   "limitations": "First 6 months only",
+   "provisional_rating": "Good"
   },
   {
    "section": "A",
@@ -72,14 +96,22 @@
    "discount_pct": 50,
    "final_cost": "not determined",
    "conditions": "Existing subscribers only; sources conflict on whether it is live",
-   "rating": "Good (unconfirmed)",
+   "rating": "UNVERIFIED",
    "verification": "V1",
    "links": [
     "https://whichaitopay.com/guides/ai-subscription-black-friday-deals-2026"
    ],
    "deadline": "26 Nov 2026 (one source)",
    "status": "needs-recheck",
-   "last_checked": "2026-11-26T13:00Z"
+   "last_checked": "2026-11-26T13:00Z",
+   "primary_source_link": null,
+   "last_verified_at": null,
+   "exact_config": "Google AI Pro annual / AI Plus (existing Google One subscribers)",
+   "payable_price": null,
+   "renewal_or_long_term_cost": null,
+   "eligibility": null,
+   "limitations": "Existing subscribers only; sources conflict on whether it is live",
+   "provisional_rating": "Good (unconfirmed)"
   },
   {
    "section": "A",
@@ -91,7 +123,7 @@
    "discount_pct": 30,
    "final_cost": "depends on usage",
    "conditions": "Paid plans only; plan prices unchanged",
-   "rating": "Good (heavy users only)",
+   "rating": "UNVERIFIED",
    "verification": "V2",
    "links": [
     "https://github.com/features/copilot/plans",
@@ -99,7 +131,15 @@
    ],
    "deadline": "conflicting: 30 Nov vs 31 Dec",
    "status": "active",
-   "last_checked": "2026-11-26T13:00Z"
+   "last_checked": "2026-11-26T13:00Z",
+   "primary_source_link": null,
+   "last_verified_at": null,
+   "exact_config": "GitHub Copilot: 30% off Fusion model usage",
+   "payable_price": null,
+   "renewal_or_long_term_cost": null,
+   "eligibility": null,
+   "limitations": "Paid plans only; plan prices unchanged",
+   "provisional_rating": "Good (heavy users only)"
   },
   {
    "section": "A",
@@ -111,14 +151,22 @@
    "discount_pct": 25,
    "final_cost": "depends on usage",
    "conditions": "Plan prices unchanged",
-   "rating": "Good (video-gen users only)",
+   "rating": "UNVERIFIED",
    "verification": "V1",
    "links": [
     "https://www.zemith.com/en/contents/ai-black-friday-deals"
    ],
    "deadline": "30 Nov 2026",
    "status": "active",
-   "last_checked": "2026-11-26T13:00Z"
+   "last_checked": "2026-11-26T13:00Z",
+   "primary_source_link": null,
+   "last_verified_at": null,
+   "exact_config": "Runway: 25% off Kling 4.0 generations",
+   "payable_price": null,
+   "renewal_or_long_term_cost": null,
+   "eligibility": null,
+   "limitations": "Plan prices unchanged",
+   "provisional_rating": "Good (video-gen users only)"
   },
   {
    "section": "A",
@@ -137,7 +185,14 @@
    ],
    "deadline": "not verified",
    "status": "info",
-   "last_checked": "2026-11-26T13:00Z"
+   "last_checked": "2026-11-26T13:00Z",
+   "primary_source_link": null,
+   "last_verified_at": null,
+   "exact_config": "Perplexity Pro: $40 bonus Computer credits",
+   "payable_price": null,
+   "renewal_or_long_term_cost": null,
+   "eligibility": null,
+   "limitations": "Bonus credits, not a discount"
   },
   {
    "section": "A",
@@ -149,14 +204,22 @@
    "discount_pct": null,
    "final_cost": "$34",
    "conditions": "Lifetime-deal vendor risk; AppSumo 60-day refund (standard policy, verify)",
-   "rating": "Good",
+   "rating": "UNVERIFIED",
    "verification": "V1",
    "links": [
     "https://appsumo.com/collections/black-friday-2026-all-drops/"
    ],
    "deadline": "27 Nov 2026 (listing)",
    "status": "needs-recheck",
-   "last_checked": "2026-11-26T13:00Z"
+   "last_checked": "2026-11-26T13:00Z",
+   "primary_source_link": null,
+   "last_verified_at": null,
+   "exact_config": "Headroom lifetime deal (context compression for Claude Code/Codex)",
+   "payable_price": null,
+   "renewal_or_long_term_cost": null,
+   "eligibility": null,
+   "limitations": "Lifetime-deal vendor risk; AppSumo 60-day refund (standard policy, verify)",
+   "provisional_rating": "Good"
   },
   {
    "section": "A",
@@ -168,14 +231,22 @@
    "discount_pct": 28,
    "final_cost": "depends on usage",
    "conditions": "Third-party API reseller: data-handling and reliability risk; not an official provider",
-   "rating": "Good (with caution)",
+   "rating": "UNVERIFIED",
    "verification": "V1",
    "links": [
     "https://www.cometapi.com/cometapi-black-friday-2026-preview/"
    ],
    "deadline": "2 Dec 2026",
    "status": "active",
-   "last_checked": "2026-11-26T13:00Z"
+   "last_checked": "2026-11-26T13:00Z",
+   "primary_source_link": null,
+   "last_verified_at": null,
+   "exact_config": "CometAPI: up to 28% below official API price on 14 models",
+   "payable_price": null,
+   "renewal_or_long_term_cost": null,
+   "eligibility": null,
+   "limitations": "Third-party API reseller: data-handling and reliability risk; not an official provider",
+   "provisional_rating": "Good (with caution)"
   },
   {
    "section": "A",
@@ -187,14 +258,22 @@
    "discount_pct": 50,
    "final_cost": "not determined",
    "conditions": "No dates published; third-party gateway",
-   "rating": "Watch",
+   "rating": "UNVERIFIED",
    "verification": "V1",
    "links": [
     "https://llm.svc-utility-belt.optimizely.com/blog/black-friday-llmgateway-credits"
    ],
    "deadline": "not verified",
    "status": "watch",
-   "last_checked": "2026-11-26T13:00Z"
+   "last_checked": "2026-11-26T13:00Z",
+   "primary_source_link": null,
+   "last_verified_at": null,
+   "exact_config": "LLM Gateway: 50% off credits, code BLACKFRIDAY",
+   "payable_price": null,
+   "renewal_or_long_term_cost": null,
+   "eligibility": null,
+   "limitations": "No dates published; third-party gateway",
+   "provisional_rating": "Watch"
   },
   {
    "section": "A",
@@ -214,7 +293,14 @@
    ],
    "deadline": "not verified",
    "status": "info",
-   "last_checked": "2026-11-26T13:00Z"
+   "last_checked": "2026-11-26T13:00Z",
+   "primary_source_link": null,
+   "last_verified_at": null,
+   "exact_config": "Claude Pro/Max, ChatGPT Plus/Pro, Cursor, Midjourney, DeepSeek",
+   "payable_price": null,
+   "renewal_or_long_term_cost": null,
+   "eligibility": null,
+   "limitations": "Annual billing is the only saving"
   },
   {
    "section": "B",
@@ -226,7 +312,7 @@
    "discount_pct": null,
    "final_cost": "not determined",
    "conditions": "Check setup fees and minimum commitment per server",
-   "rating": "Watch (promotion confirmed live; prices not yet verified)",
+   "rating": "UNVERIFIED",
    "verification": "V2 (sale live) / V1 (prices)",
    "links": [
     "https://www.ovhcloud.com/en/black-friday/",
@@ -235,7 +321,15 @@
    ],
    "deadline": "1 Dec 2026 (pepper.pl)",
    "status": "active",
-   "last_checked": "2026-11-26T13:00Z"
+   "last_checked": "2026-11-26T13:00Z",
+   "primary_source_link": null,
+   "last_verified_at": null,
+   "exact_config": "OVHcloud Black Friday: VPS, dedicated (Kimsufi/So You Start), web, domains",
+   "payable_price": null,
+   "renewal_or_long_term_cost": null,
+   "eligibility": null,
+   "limitations": "Check setup fees and minimum commitment per server",
+   "provisional_rating": "Watch (promotion confirmed live; prices not yet verified)"
   },
   {
    "section": "B",
@@ -247,7 +341,7 @@
    "discount_pct": 20,
    "final_cost": "not determined",
    "conditions": "Discount reported tied to a 24-month term; Contabo is known for oversold CPU (reputation, check reviews)",
-   "rating": "Good",
+   "rating": "UNVERIFIED",
    "verification": "V1",
    "links": [
     "https://www.newcoupons.info/contabo-black-friday-2026-deals/",
@@ -255,7 +349,15 @@
    ],
    "deadline": "not verified",
    "status": "active",
-   "last_checked": "2026-11-26T13:00Z"
+   "last_checked": "2026-11-26T13:00Z",
+   "primary_source_link": null,
+   "last_verified_at": null,
+   "exact_config": "Contabo Cloud VPS (Core/Performance)",
+   "payable_price": null,
+   "renewal_or_long_term_cost": null,
+   "eligibility": null,
+   "limitations": "Discount reported tied to a 24-month term; Contabo is known for oversold CPU (reputation, check reviews)",
+   "provisional_rating": "Good"
   },
   {
    "section": "B",
@@ -267,14 +369,22 @@
    "discount_pct": null,
    "final_cost": "not determined",
    "conditions": "24-month prepaid term; renewal higher",
-   "rating": "Good",
+   "rating": "UNVERIFIED",
    "verification": "V1",
    "links": [
     "https://www.hostinger.com/black-friday-web-hosting-deals"
    ],
    "deadline": "14 Dec 2026",
    "status": "active",
-   "last_checked": "2026-11-26T13:00Z"
+   "last_checked": "2026-11-26T13:00Z",
+   "primary_source_link": null,
+   "last_verified_at": null,
+   "exact_config": "Hostinger KVM 1 VPS (4 GB RAM)",
+   "payable_price": null,
+   "renewal_or_long_term_cost": null,
+   "eligibility": null,
+   "limitations": "24-month prepaid term; renewal higher",
+   "provisional_rating": "Good"
   },
   {
    "section": "B",
@@ -286,14 +396,22 @@
    "discount_pct": 82,
    "final_cost": "$95.52 for 48 months, then $10.99/mo",
    "conditions": "48-month prepay; renewal 5.5x the promo",
-   "rating": "Good (only if you need 4 years of shared hosting)",
+   "rating": "UNVERIFIED",
    "verification": "V1",
    "links": [
     "https://gauravtiwari.org/best-web-hosting-black-friday-deals/"
    ],
    "deadline": "14 Dec 2026",
    "status": "active",
-   "last_checked": "2026-11-26T13:00Z"
+   "last_checked": "2026-11-26T13:00Z",
+   "primary_source_link": null,
+   "last_verified_at": null,
+   "exact_config": "Hostinger Premium web hosting",
+   "payable_price": null,
+   "renewal_or_long_term_cost": null,
+   "eligibility": null,
+   "limitations": "48-month prepay; renewal 5.5x the promo",
+   "provisional_rating": "Good (only if you need 4 years of shared hosting)"
   },
   {
    "section": "B",
@@ -305,14 +423,22 @@
    "discount_pct": null,
    "final_cost": "~$40 over 3 years (EST: $0.01 + 2 x $19.99)",
    "conditions": "Requires a 3-year term; renewal $19.99 is above Cloudflare at-cost .com pricing",
-   "rating": "Not worthwhile",
+   "rating": "UNVERIFIED",
    "verification": "V1",
    "links": [
     "https://gauravtiwari.org/deal/domain-black-friday-deals/"
    ],
    "deadline": "14 Dec 2026",
    "status": "active",
-   "last_checked": "2026-11-26T13:00Z"
+   "last_checked": "2026-11-26T13:00Z",
+   "primary_source_link": null,
+   "last_verified_at": null,
+   "exact_config": "Hostinger .com domain $0.01",
+   "payable_price": null,
+   "renewal_or_long_term_cost": null,
+   "eligibility": null,
+   "limitations": "Requires a 3-year term; renewal $19.99 is above Cloudflare at-cost .com pricing",
+   "provisional_rating": "Not worthwhile"
   },
   {
    "section": "B",
@@ -324,14 +450,22 @@
    "discount_pct": null,
    "final_cost": "not determined",
    "conditions": "First year only",
-   "rating": "Watch",
+   "rating": "UNVERIFIED",
    "verification": "V1",
    "links": [
     "https://www.devtoolrank.com/review/black-friday-domain-server-deals-2026-namecheap-discount"
    ],
    "deadline": "not verified",
    "status": "watch",
-   "last_checked": "2026-11-26T13:00Z"
+   "last_checked": "2026-11-26T13:00Z",
+   "primary_source_link": null,
+   "last_verified_at": null,
+   "exact_config": "Namecheap .com first year",
+   "payable_price": null,
+   "renewal_or_long_term_cost": null,
+   "eligibility": null,
+   "limitations": "First year only",
+   "provisional_rating": "Watch"
   },
   {
    "section": "B",
@@ -351,7 +485,14 @@
    ],
    "deadline": "not verified",
    "status": "info",
-   "last_checked": "2026-11-26T13:00Z"
+   "last_checked": "2026-11-26T13:00Z",
+   "primary_source_link": null,
+   "last_verified_at": null,
+   "exact_config": "Hetzner Server Auction (used dedicated servers)",
+   "payable_price": null,
+   "renewal_or_long_term_cost": null,
+   "eligibility": null,
+   "limitations": "Not a Black Friday sale; ID verification may be required for new accounts"
   },
   {
    "section": "B",
@@ -371,7 +512,14 @@
    ],
    "deadline": "not verified",
    "status": "info",
-   "last_checked": "2026-11-26T13:00Z"
+   "last_checked": "2026-11-26T13:00Z",
+   "primary_source_link": null,
+   "last_verified_at": null,
+   "exact_config": "DigitalOcean, Vultr, Hetzner Cloud, RunPod, Vast.ai, Lambda",
+   "payable_price": null,
+   "renewal_or_long_term_cost": null,
+   "eligibility": null,
+   "limitations": "-"
   },
   {
    "section": "C",
@@ -383,7 +531,7 @@
    "discount_pct": null,
    "final_cost": "\u00a3799",
    "conditions": "New, 1-yr Apple warranty (John Lewis adds 2-yr on some Apple; verify). John Lewis Oxford Street store, London delivery",
-   "rating": "Strong (record low per TechRadar)",
+   "rating": "UNVERIFIED",
    "verification": "V2",
    "links": [
     "https://www.techradar.com/phones/iphone/black-friday-iphone-deals-record-low-iphone-air-discounts-plus-big-savings-on-iphone-18-pro-iphone-duo-and-more",
@@ -391,7 +539,15 @@
    ],
    "deadline": "not verified",
    "status": "active",
-   "last_checked": "2026-11-26T13:00Z"
+   "last_checked": "2026-11-26T13:00Z",
+   "primary_source_link": null,
+   "last_verified_at": null,
+   "exact_config": "iPhone Air (storage not stated - verify), new",
+   "payable_price": null,
+   "renewal_or_long_term_cost": null,
+   "eligibility": null,
+   "limitations": "New, 1-yr Apple warranty (John Lewis adds 2-yr on some Apple; verify). John Lewis Oxford Street store, London delivery",
+   "provisional_rating": "Strong (record low per TechRadar)"
   },
   {
    "section": "C",
@@ -403,7 +559,7 @@
    "discount_pct": 9,
    "final_cost": "\u00a3999",
    "conditions": "Previous gen (iPhone 18 Pro is current); limited stock",
-   "rating": "Good",
+   "rating": "UNVERIFIED",
    "verification": "V2",
    "links": [
     "https://www.techradar.com/seasonal-sales/not-a-drill-amazon-is-discounting-the-iphone-17-pro-for-black-friday-but-theres-a-better-deal-at-another-retailer",
@@ -411,7 +567,15 @@
    ],
    "deadline": "not verified",
    "status": "active",
-   "last_checked": "2026-11-26T13:00Z"
+   "last_checked": "2026-11-26T13:00Z",
+   "primary_source_link": null,
+   "last_verified_at": null,
+   "exact_config": "iPhone 17 Pro 256GB, Silver only, new (previous generation)",
+   "payable_price": null,
+   "renewal_or_long_term_cost": null,
+   "eligibility": null,
+   "limitations": "Previous gen (iPhone 18 Pro is current); limited stock",
+   "provisional_rating": "Good"
   },
   {
    "section": "C",
@@ -423,14 +587,22 @@
    "discount_pct": 8,
    "final_cost": "\u00a31,099",
    "conditions": "Forbes: out of stock in all colours at Currys",
-   "rating": "Good (if in stock)",
+   "rating": "UNVERIFIED",
    "verification": "V1",
    "links": [
     "https://www.forbes.com/sites/jaymcgregor/2026/11/15/apple-iphone-17-black-friday-deals-prices-iphone-17-pro-max-discount/"
    ],
    "deadline": "not verified",
    "status": "needs-recheck",
-   "last_checked": "2026-11-26T13:00Z"
+   "last_checked": "2026-11-26T13:00Z",
+   "primary_source_link": null,
+   "last_verified_at": null,
+   "exact_config": "iPhone 17 Pro Max 256GB, new (previous generation)",
+   "payable_price": null,
+   "renewal_or_long_term_cost": null,
+   "eligibility": null,
+   "limitations": "Forbes: out of stock in all colours at Currys",
+   "provisional_rating": "Good (if in stock)"
   },
   {
    "section": "C",
@@ -442,14 +614,22 @@
    "discount_pct": 11,
    "final_cost": "\u00a3775-799",
    "conditions": "Check the reference price against Apple UK",
-   "rating": "Good",
+   "rating": "UNVERIFIED",
    "verification": "V1",
    "links": [
     "https://www.forbes.com/sites/jaymcgregor/2026/11/17/iphone-black-friday-deals-iphone-17-pro-max-deal-vs-samsung-galaxy/"
    ],
    "deadline": "not verified",
    "status": "active",
-   "last_checked": "2026-11-26T13:00Z"
+   "last_checked": "2026-11-26T13:00Z",
+   "primary_source_link": null,
+   "last_verified_at": null,
+   "exact_config": "iPhone 17 256GB, new",
+   "payable_price": null,
+   "renewal_or_long_term_cost": null,
+   "eligibility": null,
+   "limitations": "Check the reference price against Apple UK",
+   "provisional_rating": "Good"
   },
   {
    "section": "C",
@@ -468,7 +648,14 @@
    ],
    "deadline": "30 Nov 2026",
    "status": "info",
-   "last_checked": "2026-11-26T13:00Z"
+   "last_checked": "2026-11-26T13:00Z",
+   "primary_source_link": null,
+   "last_verified_at": null,
+   "exact_config": "Apple Store UK: \u00a380 gift card with iPhone Air (smaller with iPhone 17/16)",
+   "payable_price": null,
+   "renewal_or_long_term_cost": null,
+   "eligibility": null,
+   "limitations": "27-30 Nov; gift card, not a price cut"
   },
   {
    "section": "D",
@@ -480,14 +667,22 @@
    "discount_pct": 12,
    "final_cost": "\u00a31,149",
    "conditions": "New",
-   "rating": "Good",
+   "rating": "UNVERIFIED",
    "verification": "V1",
    "links": [
     "https://www.techradar.com/seasonal-sales/black-friday-2026-laptop-deals-nov-24"
    ],
    "deadline": "not verified",
    "status": "active",
-   "last_checked": "2026-11-26T13:00Z"
+   "last_checked": "2026-11-26T13:00Z",
+   "primary_source_link": null,
+   "last_verified_at": null,
+   "exact_config": "MacBook Air 13in M5 (config not stated - verify)",
+   "payable_price": null,
+   "renewal_or_long_term_cost": null,
+   "eligibility": null,
+   "limitations": "New",
+   "provisional_rating": "Good"
   },
   {
    "section": "D",
@@ -499,14 +694,22 @@
    "discount_pct": 13,
    "final_cost": "\u00a31,299",
    "conditions": "Retailer to confirm",
-   "rating": "Good",
+   "rating": "UNVERIFIED",
    "verification": "V2",
    "links": [
     "https://www.tomsguide.com/computing/laptops/uk-black-friday-laptop-deals-november-19-2026"
    ],
    "deadline": "not verified",
    "status": "needs-recheck",
-   "last_checked": "2026-11-26T13:00Z"
+   "last_checked": "2026-11-26T13:00Z",
+   "primary_source_link": null,
+   "last_verified_at": null,
+   "exact_config": "MacBook Air 15in M5 (config not stated)",
+   "payable_price": null,
+   "renewal_or_long_term_cost": null,
+   "eligibility": null,
+   "limitations": "Retailer to confirm",
+   "provisional_rating": "Good"
   },
   {
    "section": "D",
@@ -518,14 +721,22 @@
    "discount_pct": 8,
    "final_cost": "\u00a31,829.97",
    "conditions": "New",
-   "rating": "Good",
+   "rating": "UNVERIFIED",
    "verification": "V1",
    "links": [
     "https://www.macworld.com/article/1375970/best-apple-black-friday-deals-2026-nov-25.html"
    ],
    "deadline": "not verified",
    "status": "active",
-   "last_checked": "2026-11-26T13:00Z"
+   "last_checked": "2026-11-26T13:00Z",
+   "primary_source_link": null,
+   "last_verified_at": null,
+   "exact_config": "MacBook Pro 14in M6, 16GB/1TB",
+   "payable_price": null,
+   "renewal_or_long_term_cost": null,
+   "eligibility": null,
+   "limitations": "New",
+   "provisional_rating": "Good"
   },
   {
    "section": "D",
@@ -537,14 +748,22 @@
    "discount_pct": 13,
    "final_cost": "\u00a32,599",
    "conditions": "New. Apple Store gives up to \u00a3240 gift card instead (27-30 Nov) at full price",
-   "rating": "Strong (for AI/dev workloads, if config is 24GB+)",
+   "rating": "UNVERIFIED",
    "verification": "V1",
    "links": [
     "https://www.techradar.com/seasonal-sales/best-black-friday-macbook-deals-macbook-neo-macbook-air-m5-macbook-pro-m6-and-even-the-new-macbook-pro-proled-m5-pro-get-price-cuts"
    ],
    "deadline": "not verified",
    "status": "active",
-   "last_checked": "2026-11-26T13:00Z"
+   "last_checked": "2026-11-26T13:00Z",
+   "primary_source_link": null,
+   "last_verified_at": null,
+   "exact_config": "MacBook Pro 16in M5 Pro (config not stated)",
+   "payable_price": null,
+   "renewal_or_long_term_cost": null,
+   "eligibility": null,
+   "limitations": "New. Apple Store gives up to \u00a3240 gift card instead (27-30 Nov) at full price",
+   "provisional_rating": "Strong (for AI/dev workloads, if config is 24GB+)"
   },
   {
    "section": "D",
@@ -556,14 +775,22 @@
    "discount_pct": null,
    "final_cost": "\u00a31,028",
    "conditions": "Refurbished, Back Market 1-yr warranty; seller grade varies",
-   "rating": "Good",
+   "rating": "UNVERIFIED",
    "verification": "V1",
    "links": [
     "https://www.backmarket.co.uk/en-gb/l/black-friday-macbook/6b0efa23-50d1-40b7-b838-358401d39515"
    ],
    "deadline": "30 Nov 2026",
    "status": "active",
-   "last_checked": "2026-11-26T13:00Z"
+   "last_checked": "2026-11-26T13:00Z",
+   "primary_source_link": null,
+   "last_verified_at": null,
+   "exact_config": "MacBook Pro 14in M2 Pro, refurbished",
+   "payable_price": null,
+   "renewal_or_long_term_cost": null,
+   "eligibility": null,
+   "limitations": "Refurbished, Back Market 1-yr warranty; seller grade varies",
+   "provisional_rating": "Good"
   },
   {
    "section": "D",
@@ -575,14 +802,22 @@
    "discount_pct": null,
    "final_cost": "\u00a31,399",
    "conditions": "Check RAM (16GB vs 32GB) for local AI use",
-   "rating": "Good",
+   "rating": "UNVERIFIED",
    "verification": "V1",
    "links": [
     "https://www.techradar.com/seasonal-sales/black-friday-2026-gaming-laptop-deals-nov-26"
    ],
    "deadline": "not verified",
    "status": "active",
-   "last_checked": "2026-11-26T13:00Z"
+   "last_checked": "2026-11-26T13:00Z",
+   "primary_source_link": null,
+   "last_verified_at": null,
+   "exact_config": "Gigabyte Gaming A16, RTX 5070 (CPU/RAM not stated)",
+   "payable_price": null,
+   "renewal_or_long_term_cost": null,
+   "eligibility": null,
+   "limitations": "Check RAM (16GB vs 32GB) for local AI use",
+   "provisional_rating": "Good"
   },
   {
    "section": "D",
@@ -594,14 +829,22 @@
    "discount_pct": null,
    "final_cost": "\u00a32,199",
    "conditions": "RTX 5080 laptop GPU: 16GB VRAM (spec to verify) - strong for local LLMs",
-   "rating": "Watch",
+   "rating": "UNVERIFIED",
    "verification": "V1",
    "links": [
     "https://www.techradar.com/seasonal-sales/black-friday-2026-gaming-laptop-deals-nov-26"
    ],
    "deadline": "not verified",
    "status": "needs-recheck",
-   "last_checked": "2026-11-26T13:00Z"
+   "last_checked": "2026-11-26T13:00Z",
+   "primary_source_link": null,
+   "last_verified_at": null,
+   "exact_config": "Gigabyte Gaming A16 Pro, RTX 5080",
+   "payable_price": null,
+   "renewal_or_long_term_cost": null,
+   "eligibility": null,
+   "limitations": "RTX 5080 laptop GPU: 16GB VRAM (spec to verify) - strong for local LLMs",
+   "provisional_rating": "Watch"
   },
   {
    "section": "D",
@@ -613,14 +856,23 @@
    "discount_pct": 30,
    "final_cost": "\u00a3699",
    "conditions": "Verify CPU/RAM; Very delivers to London",
-   "rating": "Good (pending config)",
+   "rating": "UNVERIFIED",
    "verification": "V1",
    "links": [
     "https://www.trustedreviews.com/black-friday/laptop-black-friday-deals-live"
    ],
    "deadline": "not verified",
    "status": "needs-recheck",
-   "last_checked": "2026-11-26T13:00Z"
+   "last_checked": "2026-11-26T13:00Z",
+   "primary_source_link": null,
+   "last_verified_at": null,
+   "exact_config": "Dell 14S (config not stated)",
+   "payable_price": null,
+   "renewal_or_long_term_cost": null,
+   "eligibility": null,
+   "limitations": "Verify CPU/RAM; Very delivers to London",
+   "provisional_rating": "Good (pending config)"
   }
- ]
+ ],
+ "policy": "No Strong/Exceptional without a primary-source check (V3). Deal articles are for discovery only. Unconfirmed prices are UNVERIFIED and not ranked."
 }

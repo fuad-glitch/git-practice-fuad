@@ -26,9 +26,26 @@ gaming consoles, and anything else outside A–D.
 - **V1** single source.
 - **EST** estimate.
 
-## Ratings
-Exceptional / Strong / Good / Not worthwhile. Exceptional needs V2+ and a genuine saving against a real (not inflated)
-reference price.
+## Ratings and verification policy (updated 26 Nov)
+Exceptional / Strong / Good / Not worthwhile / **UNVERIFIED**.
+- Third-party deal articles are used **only to discover** deals.
+- **Strong or Exceptional requires V3**: the price and terms were read on the retailer's or provider's own product or
+  offer page, with the link and time recorded.
+- If the seller's price cannot be confirmed, the deal is **UNVERIFIED** and is not ranked as a confirmed deal. It is
+  listed separately with its provisional rating.
+- An advertised percentage alone never justifies Exceptional. The deal must also be the right product or tier, have
+  real utility, and have an acceptable renewal or long-term cost.
+
+## Required fields per deal
+`primary_source_link`, `last_verified_at` (UTC), `exact_config` (model, configuration or tier), `payable_price`,
+`renewal_or_long_term_cost`, `eligibility` (geography and payment), `limitations`.
+
+## Priorities by section
+- **A. AI services:** real utility, usage limits and rate caps, API access, commercial-use rights.
+- **B. Hosting:** infrastructure for AI agents, automation, databases and business apps (RAM, vCPU, NVMe, bandwidth,
+  snapshots and backups, managed DBs, GPU availability, uptime and support).
+- **D. Laptops:** AI development and local model experimentation (unified memory or VRAM first: 32GB+ RAM or 12GB+
+  VRAM preferred), programming, long-term productivity, battery and build quality.
 
 ## Authorisation
 Research, compare, monitor, rank and recommend only. No purchases, subscriptions, trials, accounts, payment details,
