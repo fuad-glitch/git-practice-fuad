@@ -50,3 +50,21 @@ Exceptional / Strong / Good / Not worthwhile / **UNVERIFIED**.
 ## Authorisation
 Research, compare, monitor, rank and recommend only. No purchases, subscriptions, trials, accounts, payment details,
 contracts or non-refundable payments.
+
+## iPhone and laptop purchase-readiness checks (C and D; added 26 Nov)
+Each C/D deal records four separate checks, each with evidence and a UTC time:
+1. **Price verified:** price read on the seller's own page. A category or listing page counts as price discovery.
+2. **Exact product/configuration verified:** model, storage, colour, and CPU/GPU/RAM/SSD for laptops, read on the
+   product page.
+3. **Stock and purchase availability verified:** the product page shows in stock, add-to-basket or buy, not "sold out"
+   or "notify me".
+4. **London fulfilment verified:** delivery to a London postcode or click-and-collect at a London store is shown as
+   available.
+
+**Alert levels**
+- **BUY NOW:** rating is Exceptional and all four checks pass.
+- **LEAD:** rating is Exceptional but checks 3 or 4 are open. It is labelled "availability unconfirmed", is never
+  presented as confirmed, and is sent at most once per deal.
+- Nothing is sent for anything below Exceptional.
+
+A category page showing a price is never enough for BUY NOW.

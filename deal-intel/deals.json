@@ -531,7 +531,7 @@
    "discount_pct": 27,
    "final_cost": "\u00a3799",
    "conditions": "New, 1-yr Apple warranty (John Lewis adds 2-yr on some Apple; verify). John Lewis Oxford Street store, London delivery",
-   "rating": "Exceptional",
+   "rating": "Exceptional (provisional: price only; availability not confirmed)",
    "verification": "V3",
    "links": [
     "https://www.techradar.com/phones/iphone/black-friday-iphone-deals-record-low-iphone-air-discounts-plus-big-savings-on-iphone-18-pro-iphone-duo-and-more",
@@ -547,7 +547,36 @@
    "renewal_or_long_term_cost": "n/a; 2-year guarantee labelled at John Lewis",
    "eligibility": "UK retail; London delivery/John Lewis Oxford St collection (store availability not checked); UK payment",
    "limitations": "Stock not stated on page; read from John Lewis category page (product URL 404); deadline not stated; only listed colour Sky Blue seen",
-   "provisional_rating": "Strong (record low per TechRadar)"
+   "provisional_rating": "Strong (record low per TechRadar)",
+   "checks": {
+    "price": {
+     "verified": true,
+     "evidence": "John Lewis Black Friday category page (product page returned 404)",
+     "at": "2026-11-26T15:55:00Z"
+    },
+    "exact_config": {
+     "verified": false,
+     "evidence": "Category tile says iPhone Air 256GB Sky Blue; product page not read",
+     "at": "2026-11-26T15:55:00Z"
+    },
+    "stock_purchasable": {
+     "verified": false,
+     "evidence": "not stated; add-to-basket not observed",
+     "at": null
+    },
+    "london_fulfilment": {
+     "verified": false,
+     "evidence": "delivery/click-and-collect to a London postcode not checked",
+     "at": null
+    }
+   },
+   "alert_level": "lead",
+   "reference_price_primary": {
+    "price": "\u00a31,099.00",
+    "what": "iPhone Air 256GB, new, Apple Store UK",
+    "link": "https://www.apple.com/uk/shop/buy-iphone/iphone-air",
+    "at": "2026-11-26T16:10:00Z"
+   }
   },
   {
    "section": "C",
@@ -575,7 +604,30 @@
    "renewal_or_long_term_cost": null,
    "eligibility": null,
    "limitations": "Previous gen (iPhone 18 Pro is current); limited stock",
-   "provisional_rating": "Good"
+   "provisional_rating": "Good",
+   "checks": {
+    "price": {
+     "verified": false,
+     "evidence": null,
+     "at": null
+    },
+    "exact_config": {
+     "verified": false,
+     "evidence": null,
+     "at": null
+    },
+    "stock_purchasable": {
+     "verified": false,
+     "evidence": null,
+     "at": null
+    },
+    "london_fulfilment": {
+     "verified": false,
+     "evidence": null,
+     "at": null
+    }
+   },
+   "alert_level": "none"
   },
   {
    "section": "C",
@@ -602,7 +654,30 @@
    "renewal_or_long_term_cost": null,
    "eligibility": null,
    "limitations": "Forbes: out of stock in all colours at Currys",
-   "provisional_rating": "Good (if in stock)"
+   "provisional_rating": "Good (if in stock)",
+   "checks": {
+    "price": {
+     "verified": false,
+     "evidence": null,
+     "at": null
+    },
+    "exact_config": {
+     "verified": false,
+     "evidence": null,
+     "at": null
+    },
+    "stock_purchasable": {
+     "verified": false,
+     "evidence": null,
+     "at": null
+    },
+    "london_fulfilment": {
+     "verified": false,
+     "evidence": null,
+     "at": null
+    }
+   },
+   "alert_level": "none"
   },
   {
    "section": "C",
@@ -629,7 +704,30 @@
    "renewal_or_long_term_cost": null,
    "eligibility": null,
    "limitations": "Check the reference price against Apple UK",
-   "provisional_rating": "Good"
+   "provisional_rating": "Good",
+   "checks": {
+    "price": {
+     "verified": false,
+     "evidence": null,
+     "at": null
+    },
+    "exact_config": {
+     "verified": false,
+     "evidence": null,
+     "at": null
+    },
+    "stock_purchasable": {
+     "verified": false,
+     "evidence": null,
+     "at": null
+    },
+    "london_fulfilment": {
+     "verified": false,
+     "evidence": null,
+     "at": null
+    }
+   },
+   "alert_level": "none"
   },
   {
    "section": "C",
@@ -655,7 +753,30 @@
    "payable_price": null,
    "renewal_or_long_term_cost": null,
    "eligibility": null,
-   "limitations": "27-30 Nov; gift card, not a price cut"
+   "limitations": "27-30 Nov; gift card, not a price cut",
+   "checks": {
+    "price": {
+     "verified": false,
+     "evidence": null,
+     "at": null
+    },
+    "exact_config": {
+     "verified": false,
+     "evidence": null,
+     "at": null
+    },
+    "stock_purchasable": {
+     "verified": false,
+     "evidence": null,
+     "at": null
+    },
+    "london_fulfilment": {
+     "verified": false,
+     "evidence": null,
+     "at": null
+    }
+   },
+   "alert_level": "none"
   },
   {
    "section": "D",
@@ -682,7 +803,30 @@
    "renewal_or_long_term_cost": null,
    "eligibility": null,
    "limitations": "New",
-   "provisional_rating": "Good"
+   "provisional_rating": "Good",
+   "checks": {
+    "price": {
+     "verified": false,
+     "evidence": null,
+     "at": null
+    },
+    "exact_config": {
+     "verified": false,
+     "evidence": null,
+     "at": null
+    },
+    "stock_purchasable": {
+     "verified": false,
+     "evidence": null,
+     "at": null
+    },
+    "london_fulfilment": {
+     "verified": false,
+     "evidence": null,
+     "at": null
+    }
+   },
+   "alert_level": "none"
   },
   {
    "section": "D",
@@ -709,7 +853,30 @@
    "renewal_or_long_term_cost": null,
    "eligibility": null,
    "limitations": "Retailer to confirm",
-   "provisional_rating": "Good"
+   "provisional_rating": "Good",
+   "checks": {
+    "price": {
+     "verified": false,
+     "evidence": null,
+     "at": null
+    },
+    "exact_config": {
+     "verified": false,
+     "evidence": null,
+     "at": null
+    },
+    "stock_purchasable": {
+     "verified": false,
+     "evidence": null,
+     "at": null
+    },
+    "london_fulfilment": {
+     "verified": false,
+     "evidence": null,
+     "at": null
+    }
+   },
+   "alert_level": "none"
   },
   {
    "section": "D",
@@ -736,7 +903,30 @@
    "renewal_or_long_term_cost": null,
    "eligibility": null,
    "limitations": "New",
-   "provisional_rating": "Good"
+   "provisional_rating": "Good",
+   "checks": {
+    "price": {
+     "verified": false,
+     "evidence": null,
+     "at": null
+    },
+    "exact_config": {
+     "verified": false,
+     "evidence": null,
+     "at": null
+    },
+    "stock_purchasable": {
+     "verified": false,
+     "evidence": null,
+     "at": null
+    },
+    "london_fulfilment": {
+     "verified": false,
+     "evidence": null,
+     "at": null
+    }
+   },
+   "alert_level": "none"
   },
   {
    "section": "D",
@@ -763,7 +953,30 @@
    "renewal_or_long_term_cost": null,
    "eligibility": null,
    "limitations": "New. Apple Store gives up to \u00a3240 gift card instead (27-30 Nov) at full price",
-   "provisional_rating": "Strong (for AI/dev workloads, if config is 24GB+)"
+   "provisional_rating": "Strong (for AI/dev workloads, if config is 24GB+)",
+   "checks": {
+    "price": {
+     "verified": false,
+     "evidence": null,
+     "at": null
+    },
+    "exact_config": {
+     "verified": false,
+     "evidence": null,
+     "at": null
+    },
+    "stock_purchasable": {
+     "verified": false,
+     "evidence": null,
+     "at": null
+    },
+    "london_fulfilment": {
+     "verified": false,
+     "evidence": null,
+     "at": null
+    }
+   },
+   "alert_level": "none"
   },
   {
    "section": "D",
@@ -790,7 +1003,30 @@
    "renewal_or_long_term_cost": null,
    "eligibility": null,
    "limitations": "Refurbished, Back Market 1-yr warranty; seller grade varies",
-   "provisional_rating": "Good"
+   "provisional_rating": "Good",
+   "checks": {
+    "price": {
+     "verified": false,
+     "evidence": null,
+     "at": null
+    },
+    "exact_config": {
+     "verified": false,
+     "evidence": null,
+     "at": null
+    },
+    "stock_purchasable": {
+     "verified": false,
+     "evidence": null,
+     "at": null
+    },
+    "london_fulfilment": {
+     "verified": false,
+     "evidence": null,
+     "at": null
+    }
+   },
+   "alert_level": "none"
   },
   {
    "section": "D",
@@ -817,7 +1053,30 @@
    "renewal_or_long_term_cost": null,
    "eligibility": null,
    "limitations": "Check RAM (16GB vs 32GB) for local AI use",
-   "provisional_rating": "Good"
+   "provisional_rating": "Good",
+   "checks": {
+    "price": {
+     "verified": false,
+     "evidence": null,
+     "at": null
+    },
+    "exact_config": {
+     "verified": false,
+     "evidence": null,
+     "at": null
+    },
+    "stock_purchasable": {
+     "verified": false,
+     "evidence": null,
+     "at": null
+    },
+    "london_fulfilment": {
+     "verified": false,
+     "evidence": null,
+     "at": null
+    }
+   },
+   "alert_level": "none"
   },
   {
    "section": "D",
@@ -844,7 +1103,30 @@
    "renewal_or_long_term_cost": null,
    "eligibility": null,
    "limitations": "RTX 5080 laptop GPU: 16GB VRAM (spec to verify) - strong for local LLMs",
-   "provisional_rating": "Watch"
+   "provisional_rating": "Watch",
+   "checks": {
+    "price": {
+     "verified": false,
+     "evidence": null,
+     "at": null
+    },
+    "exact_config": {
+     "verified": false,
+     "evidence": null,
+     "at": null
+    },
+    "stock_purchasable": {
+     "verified": false,
+     "evidence": null,
+     "at": null
+    },
+    "london_fulfilment": {
+     "verified": false,
+     "evidence": null,
+     "at": null
+    }
+   },
+   "alert_level": "none"
   },
   {
    "section": "D",
@@ -871,8 +1153,32 @@
    "renewal_or_long_term_cost": null,
    "eligibility": null,
    "limitations": "Verify CPU/RAM; Very delivers to London",
-   "provisional_rating": "Good (pending config)"
+   "provisional_rating": "Good (pending config)",
+   "checks": {
+    "price": {
+     "verified": false,
+     "evidence": null,
+     "at": null
+    },
+    "exact_config": {
+     "verified": false,
+     "evidence": null,
+     "at": null
+    },
+    "stock_purchasable": {
+     "verified": false,
+     "evidence": null,
+     "at": null
+    },
+    "london_fulfilment": {
+     "verified": false,
+     "evidence": null,
+     "at": null
+    }
+   },
+   "alert_level": "none"
   }
  ],
- "policy": "No Strong/Exceptional without a primary-source check (V3). Deal articles are for discovery only. Unconfirmed prices are UNVERIFIED and not ranked."
+ "policy": "No Strong/Exceptional without a primary-source check (V3). Deal articles are for discovery only. Unconfirmed prices are UNVERIFIED and not ranked.",
+ "policy_cd": "C/D: four checks (price, exact_config, stock_purchasable, london_fulfilment). A category page is price discovery only. BUY NOW only when all four are verified and the rating is Exceptional."
 }
