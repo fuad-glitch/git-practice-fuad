@@ -1,27 +1,35 @@
-# Black Friday Deal Intelligence 2026
+# Black Friday AI & Technology Deal Intelligence 2026
 
-Window: 26–30 November 2026 (Black Friday 27 Nov, Cyber Monday 30 Nov).
+Window: 26–30 Nov 2026 (Black Friday 27 Nov, Cyber Monday 30 Nov). Scope updated 26 Nov. The previous broad-scope
+state is kept in `archive/` for reference only.
 
-- `deals.json` — tracked deals with their state. Each hourly run reads it, rechecks, and updates it.
-- `reports/` — one report per run that found something new or changed. Runs with no change write no report.
+## Scope (strict: nothing outside these four sections)
+- **A. AI subscriptions and services.** Assistants, research and productivity tools, coding assistants, agents and
+  automation, image/video/audio/design generation, APIs and inference, LLM platforms, AI BI/analytics. Global search;
+  rank what is practical to pay for and use from Bangladesh first.
+- **B. Servers, hosting and cloud.** VPS, dedicated, cloud, GPU rental, AI inference hosting, web/managed hosting,
+  domains, storage and backup, databases, serverless, deployment platforms, CDN and networking. Global search;
+  Bangladesh payment and usage practicality matters. Weigh renewal price, term length, CPU/RAM/storage/bandwidth value,
+  GPU availability, hidden limits and cancellation terms.
+- **C. iPhone only, London only.** Apple Store UK, authorised resellers, reputable UK retailers, trustworthy marketplace
+  sellers, with verifiable delivery or collection in London. New, refurbished and open-box are kept clearly separate.
+  No Android, and no prices from other countries.
+- **D. Laptops (all brands), London only.** Same retailer and London rules as C. Exact configurations compared;
+  AI-capable, high-RAM, dedicated-GPU, MacBook and developer machines prioritised.
 
-## Verification levels (used in every report)
-- **V3 Verified** — price read on the retailer's own product page during the run.
-- **V2 Corroborated** — same price reported by 2+ independent outlets the same day; not read on the retailer page.
-- **V1 Single-source** — one outlet only. Not eligible for "Exceptional".
-- **EST** — an estimate (shipping, duty, BDT conversion). Always labelled.
+**Excluded:** appliances, TVs, general electronics, Android, fashion, fitness, furniture, kitchen, household,
+gaming consoles, and anything else outside A–D.
+
+## Verification levels
+- **V3** price read on the provider's or retailer's own page.
+- **V2** 2+ independent sources agree.
+- **V1** single source.
+- **EST** estimate.
 
 ## Ratings
-Exceptional / Strong / Good / Misleading. "Exceptional" needs V2+, a genuine discount against a
-normal (not inflated) reference price, a reliable seller and long-term usefulness.
+Exceptional / Strong / Good / Not worthwhile. Exceptional needs V2+ and a genuine saving against a real (not inflated)
+reference price.
 
-## Rules
-No purchases, no sign-ups, no payment details, no accounts. Historical prices are never invented:
-if no price history was found, the report says so.
-
-## User priorities (added 26 Nov)
-The user is in Bangladesh. Rank deals they can actually buy and use from Bangladesh first, but keep researching globally.
-Focus: AI subscriptions and lifetime software deals; Claude, ChatGPT and other AI services; developer tools, APIs and
-automation; laptops, smartphones and productivity equipment; business and financial intelligence tools.
-International physical goods count only if the EST landed cost in Bangladesh beats the best local price by at least 10%
-(see `deals.json` → `priorities`). Exceptional deals trigger an immediate notification.
+## Authorisation
+Research, compare, monitor, rank and recommend only. No purchases, subscriptions, trials, accounts, payment details,
+contracts or non-refundable payments.

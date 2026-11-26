@@ -1,0 +1,388 @@
+{
+ "updated_utc": "2026-11-26T12:45:00Z",
+ "fx_note": "BDT figures are estimates at ~122 BDT/USD; recheck the rate each run.",
+ "deals": [
+  {
+   "id": "airpods-pro-3-amazon-us",
+   "category": "audio",
+   "product": "Apple AirPods Pro 3",
+   "retailer": "Amazon US",
+   "reference_price": "$249 (Apple list)",
+   "current_price": "$149",
+   "discount_pct": 40,
+   "verification": "V2",
+   "rating": "Exceptional",
+   "history": "SoundGuys: lowest price sold on Amazon; Best Buy/others $169.99-$179",
+   "deadline": "unverified",
+   "status": "active",
+   "sources": [
+    "https://www.soundguys.com/best-black-friday-audio-deals-of-2026-166200/",
+    "https://edition.cnn.com/cnn-underscored/deals/amazon-black-friday-2026-11-26"
+   ]
+  },
+  {
+   "id": "sony-wh1000xm6-amazon-us",
+   "category": "audio",
+   "product": "Sony WH-1000XM6",
+   "retailer": "Amazon US",
+   "reference_price": "$459.99",
+   "current_price": "$348",
+   "discount_pct": 24,
+   "verification": "V2",
+   "rating": "Strong",
+   "history": "Android Authority: lowest price Amazon has charged",
+   "deadline": "claim 'ends tonight' from a social post - unverified",
+   "status": "active",
+   "sources": [
+    "https://www.androidauthority.com/best-black-friday-2026-deals-3733655/",
+    "https://www.archyde.com/best-black-friday-2026-headphone-deals-sony-bose-apple-nothing-up-to-67-off/"
+   ]
+  },
+  {
+   "id": "macbook-air-m5-13-16-512",
+   "category": "laptop",
+   "product": "MacBook Air 13in M5 16GB/512GB",
+   "retailer": "Amazon / Best Buy US",
+   "reference_price": "$1,299",
+   "current_price": "$1,049 (V2); $999 reported once (V1)",
+   "discount_pct": 19,
+   "verification": "V2",
+   "rating": "Strong",
+   "history": "Was $1,099 earlier in November (9to5Toys)",
+   "deadline": "unverified",
+   "status": "active",
+   "sources": [
+    "https://9to5mac.com/2026/11/26/best-mac-black-friday-deals/",
+    "https://www.macworld.com/article/1373543/best-macbook-mac-black-friday-deals-2026-nov-25.html"
+   ]
+  },
+  {
+   "id": "macbook-pro-14-m6-16-1tb",
+   "category": "laptop",
+   "product": "MacBook Pro 14in M6 16GB/1TB",
+   "retailer": "Amazon US / B&H",
+   "reference_price": "$1,999",
+   "current_price": "$1,779 (Amazon, reported); $1,799 B&H in-cart",
+   "discount_pct": 11,
+   "verification": "V2",
+   "rating": "Good",
+   "history": "9to5Mac calls $1,779 an all-time low",
+   "deadline": "unverified",
+   "status": "active",
+   "sources": [
+    "https://9to5mac.com/2026/11/26/best-mac-black-friday-deals/",
+    "https://www.cultofmac.com/news/best-black-friday-apple-deals"
+   ]
+  },
+  {
+   "id": "mac-mini-m6-16-256",
+   "category": "desktop",
+   "product": "Mac mini M6 16GB/256GB",
+   "retailer": "Amazon US",
+   "reference_price": "$899",
+   "current_price": "$779",
+   "discount_pct": 13,
+   "verification": "V1",
+   "rating": "Good",
+   "history": "none found",
+   "deadline": "unverified",
+   "status": "needs-recheck",
+   "sources": [
+    "https://www.macworld.com/article/1373543/best-macbook-mac-black-friday-deals-2026.html"
+   ]
+  },
+  {
+   "id": "pixel-10-unlocked-amazon",
+   "category": "phone",
+   "product": "Google Pixel 10 (unlocked, base)",
+   "retailer": "Amazon US / Amazon UK",
+   "reference_price": "$799 / \u00a3549",
+   "current_price": "$593 / \u00a3439",
+   "discount_pct": 26,
+   "verification": "V1 (US), V1 (UK)",
+   "rating": "Good",
+   "history": "Previous generation - Pixel 11 has launched",
+   "deadline": "unverified",
+   "status": "active",
+   "sources": [
+    "https://nokiapoweruser.com/black-friday-2026-google-pixel-samsung-galaxy-deals-us-canada-uk-europe/",
+    "https://www.techradar.com/seasonal-sales/black-friday-phone-deals-35-hand-picked-deals-on-the-galaxy-s26-ultra-iphone-17-pro-pixel-11-pro-and-more"
+   ]
+  },
+  {
+   "id": "galaxy-s26-256-us",
+   "category": "phone",
+   "product": "Samsung Galaxy S26 256GB unlocked",
+   "retailer": "Samsung.com US / Amazon US",
+   "reference_price": "$999.99 (raised $100-200 in Oct per Memeburn)",
+   "current_price": "$849.99 (+ PAYPAL100 at Samsung.com, unverified)",
+   "discount_pct": 15,
+   "verification": "V2",
+   "rating": "Misleading",
+   "history": "Slickdeals thread shows $799.99 at Amazon earlier; list price inflated in October",
+   "deadline": "unverified",
+   "status": "active",
+   "sources": [
+    "https://memeburn.com/black-friday-phone-deals/",
+    "https://www.androidauthority.com/best-black-friday-phone-deals-3738947/",
+    "https://slickdeals.net/f/19390326-799-99-256gb-samsung-galaxy-s26-unlocked-android-smartphone-2026-us-1-year-warranty-black-at-amazon"
+   ]
+  },
+  {
+   "id": "adobe-cc-pro-57",
+   "category": "software",
+   "product": "Adobe Creative Cloud Pro (individual, first year, new subscribers)",
+   "retailer": "adobe.com",
+   "reference_price": "$839.99/yr (US listing)",
+   "current_price": "$359.88 first year (reported); renews at full price",
+   "discount_pct": 57,
+   "verification": "V2",
+   "rating": "Exceptional (only if you use Photoshop/Premiere/Illustrator)",
+   "history": "Creative Bloq: biggest Adobe BF deal in years",
+   "deadline": "conflicting: 27 Nov vs 6 Dec",
+   "status": "active",
+   "sources": [
+    "https://www.macrumors.com/2026/11/16/adobes-black-friday-sale-2026/",
+    "https://www.creativebloq.com/deals/adobes-black-friday-deal-is-its-biggest-in-years-with-57-percent-off-creative-cloud-pro"
+   ]
+  },
+  {
+   "id": "elevenlabs-creator-annual",
+   "category": "ai",
+   "product": "ElevenLabs Creator annual (first year)",
+   "retailer": "elevenlabs.io",
+   "reference_price": "$220/yr",
+   "current_price": "$99 first year",
+   "discount_pct": 55,
+   "verification": "V2",
+   "rating": "Strong",
+   "history": "none found",
+   "deadline": "1 Dec 2026 (two sources)",
+   "status": "active",
+   "sources": [
+    "https://www.mydealz.de/deals/black-friday-elevenlabs-creator-jahresabo-55-rabatt-im-1-jahr-99-statt-220-ki-stimmen-bilder-videos-2874550",
+    "https://www.fastlancer.org/en/deals/elevenlabs/"
+   ]
+  },
+  {
+   "id": "grammarly-pro-50",
+   "category": "software",
+   "product": "Grammarly Pro",
+   "retailer": "grammarly.com",
+   "reference_price": "not verified",
+   "current_price": "50% off (reported)",
+   "discount_pct": 50,
+   "verification": "V1",
+   "rating": "Good",
+   "history": "none found",
+   "deadline": "unverified",
+   "status": "needs-recheck",
+   "sources": [
+    "https://async.com/blog/top-black-friday-deals-for-creators/"
+   ]
+  },
+  {
+   "id": "coursera-plus",
+   "category": "education",
+   "product": "Coursera Plus annual",
+   "retailer": "coursera.org",
+   "reference_price": "$399/yr",
+   "current_price": "$319.20 (20%) seen on one page",
+   "discount_pct": 20,
+   "verification": "V1",
+   "rating": "Misleading (2025 BF price was $239; wait for the real BF offer)",
+   "history": "2025 Black Friday: $239 first year (LearnDataSci)",
+   "deadline": "2 Dec (one page)",
+   "status": "watch",
+   "sources": [
+    "https://www.learndatasci.com/articles/best-course-deals-black-friday-and-cyber-monday/",
+    "https://www.coursera.org/explore/black-friday-and-cyber-monday"
+   ]
+  },
+  {
+   "id": "ps5-dualsense",
+   "category": "gaming",
+   "product": "PS5 DualSense wireless controller",
+   "retailer": "Amazon / Best Buy / PlayStation Direct",
+   "reference_price": "~$75 (not verified)",
+   "current_price": "$54-55",
+   "discount_pct": null,
+   "verification": "V1",
+   "rating": "Good",
+   "history": "Yahoo: lowest tracked in a year",
+   "deadline": "unverified",
+   "status": "active",
+   "sources": [
+    "https://tech.yahoo.com/deals/breaking-news/live/black-friday-tech-deals-live-now-apple-amazon-samsung-blink-and-more-of-the-best-sales-of-2026-165134642.html"
+   ]
+  },
+  {
+   "id": "no-discount-claude-chatgpt",
+   "category": "ai",
+   "product": "Claude Pro / ChatGPT Plus",
+   "retailer": "anthropic / openai",
+   "reference_price": "-",
+   "current_price": "no Black Friday discount found",
+   "discount_pct": 0,
+   "verification": "V1",
+   "rating": "n/a",
+   "history": "-",
+   "deadline": "-",
+   "status": "info",
+   "sources": [
+    "https://www.getvoibe.com/resources/best-black-friday-ai-saas-deals-2026/"
+   ]
+  },
+  {
+   "id": "google-ai-pro-50",
+   "category": "ai",
+   "product": "Google AI Pro annual / AI Plus (existing Google One subscribers)",
+   "retailer": "one.google.com",
+   "reference_price": "$19.99/mo AI Pro",
+   "current_price": "up to 50% off (reported)",
+   "discount_pct": 50,
+   "verification": "V1 (conflicting: some say member early-access banner only)",
+   "rating": "Good (unconfirmed)",
+   "history": "-",
+   "deadline": "26 Nov 2026 per one guide",
+   "status": "needs-recheck",
+   "bd_usable": "yes, with an international card; availability in BD not confirmed",
+   "sources": [
+    "https://whichaitopay.com/guides/ai-subscription-black-friday-deals-2026",
+    "https://www.datastudios.org/post/black-friday-2026-ai-subscription-deals-google-ai-plans-50-percent-off"
+   ]
+  },
+  {
+   "id": "claude-pro-annual",
+   "category": "ai",
+   "product": "Claude Pro annual billing (standing price, not a sale)",
+   "retailer": "claude.ai",
+   "reference_price": "$240/yr monthly-billed",
+   "current_price": "$200/yr",
+   "discount_pct": 17,
+   "verification": "V2",
+   "rating": "n/a - standing price; no Black Friday sale",
+   "history": "-",
+   "deadline": "-",
+   "status": "info",
+   "bd_usable": "yes, with an international card",
+   "sources": [
+    "https://whizi.io/resources/ai-black-friday-deals/",
+    "https://geotoolbox.ai/blog/black-friday-ai-deals"
+   ]
+  },
+  {
+   "id": "github-copilot-fusion-30",
+   "category": "devtools",
+   "product": "GitHub Copilot Fusion model usage (paid plans)",
+   "retailer": "github.com",
+   "reference_price": "standard usage rates",
+   "current_price": "30% off usage",
+   "discount_pct": 30,
+   "verification": "V2",
+   "rating": "Good (heavy Copilot users only; plan prices not discounted)",
+   "history": "-",
+   "deadline": "conflicting: 30 Nov vs 31 Dec",
+   "status": "active",
+   "bd_usable": "yes",
+   "sources": [
+    "https://crawl4ai.com/blog/black-friday-2026-dev-deals/",
+    "https://geotoolbox.ai/blog/black-friday-ai-deals"
+   ]
+  },
+  {
+   "id": "appsumo-headroom-ltd",
+   "category": "devtools",
+   "product": "Headroom lifetime deal (context compression for Claude Code/Codex)",
+   "retailer": "AppSumo",
+   "reference_price": "not verified",
+   "current_price": "from $34 one-time",
+   "discount_pct": null,
+   "verification": "V1",
+   "rating": "Good (only if you use Claude Code/Codex heavily; lifetime-deal vendor risk)",
+   "history": "-",
+   "deadline": "27 Nov (listing)",
+   "status": "needs-recheck",
+   "bd_usable": "yes",
+   "sources": [
+    "https://appsumo.com/collections/black-friday-2026-all-drops/"
+   ]
+  },
+  {
+   "id": "seeking-alpha-premium",
+   "category": "finance",
+   "product": "Seeking Alpha Premium, annual",
+   "retailer": "seekingalpha.com",
+   "reference_price": "$299/yr",
+   "current_price": "$215/yr",
+   "discount_pct": 28,
+   "verification": "V2",
+   "rating": "Good (useful only for US-market investing)",
+   "history": "-",
+   "deadline": "9 Dec 2026",
+   "status": "active",
+   "bd_usable": "yes, with an international card",
+   "sources": [
+    "https://finpins.ghost.io/seeking-alpha-black-friday-deal/",
+    "https://www.matchmybroker.com/articles/seeking-alpha-discount"
+   ]
+  },
+  {
+   "id": "tradingview-annual",
+   "category": "finance",
+   "product": "TradingView annual plans",
+   "retailer": "tradingview.com",
+   "reference_price": "not verified",
+   "current_price": "'up to 80% off' + free month (reported)",
+   "discount_pct": null,
+   "verification": "V1",
+   "rating": "watch - headline 'up to' figure, plan prices not confirmed",
+   "history": "2025 max was 80%",
+   "deadline": "BF 23-27 Nov PT; CM 28 Nov-1 Dec PT (one source)",
+   "status": "watch",
+   "bd_usable": "yes",
+   "sources": [
+    "https://blackfridaytraders.com/tradingview-black-friday",
+    "https://tradingplatforms.ai/tradingview-black-friday-sale"
+   ]
+  },
+  {
+   "id": "no-sale-cursor-chatgpt-jetbrains",
+   "category": "devtools",
+   "product": "Cursor, ChatGPT Plus, JetBrains IDEs",
+   "retailer": "-",
+   "reference_price": "-",
+   "current_price": "no confirmed Black Friday sale (JetBrains 25% unverified)",
+   "discount_pct": 0,
+   "verification": "V2",
+   "rating": "n/a",
+   "history": "-",
+   "deadline": "-",
+   "status": "info",
+   "sources": [
+    "https://crawl4ai.com/blog/black-friday-2026-dev-deals/",
+    "https://whizi.io/resources/ai-black-friday-deals/"
+   ]
+  }
+ ],
+ "bangladesh_watch": {
+  "daraz_bd": "11.11 sale ended 21 Nov 2026; no Black Friday campaign confirmed as of 26 Nov",
+  "startech": "no Black Friday page found; 11.11 page only",
+  "pickaboo": "11.11 Mega Sale page; no 2026 Black Friday campaign confirmed",
+  "ryans": "nothing found",
+  "phone_import_tax": "Customs duty on finished handsets cut 25% -> 10% from Jan 2026; total tax burden ~43.43% (Daily Star, UNB)",
+  "laptop_import_tax": "not determined - check NBR tariff schedule"
+ },
+ "priorities": {
+  "user_location": "Bangladesh",
+  "focus": [
+   "AI subscriptions and lifetime software deals",
+   "Claude, ChatGPT and other AI services",
+   "developer tools, APIs, automation platforms",
+   "laptops, smartphones, productivity equipment",
+   "business and financial intelligence tools"
+  ],
+  "international_physical_rule": "Recommend an international physical deal only if its EST landed cost in Bangladesh (price + shipping/forwarding + duty/VAT) is at least 10% below the best local Bangladeshi price for the same authentic model, after allowing for warranty loss. Otherwise rate it at most Good and say why.",
+  "spending_rule": "Value over volume: flag auto-renewals, first-year-only pricing, lifetime-deal vendor risk, and things the user may not need."
+ }
+}
