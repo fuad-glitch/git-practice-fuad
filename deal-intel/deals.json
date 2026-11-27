@@ -42,7 +42,7 @@
      "amount": 99.0,
      "currency": "USD",
      "url": "https://elevenlabs.io/pricing",
-     "at": "2026-11-27T16:45:49Z",
+     "at": "2026-11-27T17:45:44Z",
      "type": "seller_page"
     },
     "lowest_observed_by_us": {
@@ -50,7 +50,7 @@
      "currency": "USD",
      "at": "2026-11-26T15:55:00Z",
      "since": "2026-11-26T15:55:00Z",
-     "observations": 2
+     "observations": 3
     },
     "historical_low_claim": {
      "supported": false,
@@ -108,7 +108,7 @@
      "amount": 29.99,
      "currency": "USD",
      "url": "https://www.adobe.com/creativecloud/plans.html",
-     "at": "2026-11-27T16:46:05Z",
+     "at": "2026-11-27T17:45:44Z",
      "type": "seller_page"
     },
     "lowest_observed_by_us": {
@@ -116,7 +116,7 @@
      "currency": "USD",
      "at": "2026-11-27T16:46:05Z",
      "since": "2026-11-27T16:46:05Z",
-     "observations": 1
+     "observations": 2
     },
     "historical_low_claim": {
      "supported": false,
@@ -469,7 +469,7 @@
      "amount": 33.68,
      "currency": "USD",
      "url": "https://www.ovhcloud.com/en/black-friday/",
-     "at": "2026-11-27T16:45:49Z",
+     "at": "2026-11-27T17:45:44Z",
      "type": "seller_page"
     },
     "lowest_observed_by_us": {
@@ -477,7 +477,7 @@
      "currency": "USD",
      "at": "2026-11-27T14:50:00Z",
      "since": "2026-11-27T14:50:00Z",
-     "observations": 2
+     "observations": 3
     },
     "historical_low_claim": {
      "supported": false,
@@ -562,10 +562,10 @@
      "at": "2026-11-26T15:55:00Z"
     },
     "current_price": {
-     "amount": 6.49,
+     "amount": 155.76,
      "currency": "USD",
      "url": "https://www.hostinger.com/black-friday-vps-deals",
-     "at": "2026-11-27T16:45:49Z",
+     "at": "2026-11-27T17:45:44Z",
      "type": "seller_page"
     },
     "lowest_observed_by_us": {
@@ -573,7 +573,7 @@
      "currency": "USD",
      "at": "2026-11-26T15:55:00Z",
      "since": "2026-11-26T15:55:00Z",
-     "observations": 2
+     "observations": 3
     },
     "historical_low_claim": {
      "supported": false,
@@ -812,7 +812,7 @@
      "amount": 799.0,
      "currency": "GBP",
      "url": "https://www.johnlewis.com/apple-iphone-air-ios-6-5-5g-sim-free-256gb/sky-blue/p114323266",
-     "at": "2026-11-27T16:45:49Z",
+     "at": "2026-11-27T17:45:44Z",
      "type": "seller_page"
     },
     "lowest_observed_by_us": {
@@ -820,7 +820,7 @@
      "currency": "GBP",
      "at": "2026-11-26T16:46:00Z",
      "since": "2026-11-26T16:46:00Z",
-     "observations": 3
+     "observations": 4
     },
     "historical_low_claim": {
      "supported": false,
