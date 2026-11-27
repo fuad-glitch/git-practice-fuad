@@ -39,10 +39,10 @@
      "at": "2026-11-26T15:55:00Z"
     },
     "current_price": {
-     "amount": 99,
+     "amount": 99.0,
      "currency": "USD",
      "url": "https://elevenlabs.io/pricing",
-     "at": "2026-11-26T15:55:00Z",
+     "at": "2026-11-27T16:45:49Z",
      "type": "seller_page"
     },
     "lowest_observed_by_us": {
@@ -50,7 +50,7 @@
      "currency": "USD",
      "at": "2026-11-26T15:55:00Z",
      "since": "2026-11-26T15:55:00Z",
-     "observations": 1
+     "observations": 2
     },
     "historical_low_claim": {
      "supported": false,
@@ -68,8 +68,8 @@
    "discount_pct": 57,
    "final_cost": "$359.88 + FX",
    "conditions": "New subscribers only; first year; annual commitment with early-cancellation fee",
-   "rating": "UNVERIFIED",
-   "verification": "V2",
+   "rating": "Good",
+   "verification": "V3",
    "links": [
     "https://www.adobe.com/creativecloud/plans.html",
     "https://www.macrumors.com/2026/11/16/adobes-black-friday-sale-2026/"
@@ -77,13 +77,13 @@
    "deadline": "conflicting: 27 Nov vs 6 Dec",
    "status": "active",
    "last_checked": "2026-11-27T09:55Z",
-   "primary_source_link": null,
-   "last_verified_at": null,
+   "primary_source_link": "https://www.adobe.com/creativecloud/plans.html",
+   "last_verified_at": "2026-11-27T16:47:00Z",
    "exact_config": "Adobe Creative Cloud Pro (includes Firefly), individual",
-   "payable_price": null,
-   "renewal_or_long_term_cost": null,
-   "eligibility": null,
-   "limitations": "New subscribers only; first year; annual commitment with early-cancellation fee",
+   "payable_price": "US$29.99/mo first year (annual plan billed monthly)",
+   "renewal_or_long_term_cost": "Regular US$69.99/mo after year 1 (per Adobe page)",
+   "eligibility": "US store read; UK price and Bangladesh payment not verified",
+   "limitations": "Sale ends 27 Nov; UK price not read; annual commitment",
    "provisional_rating": "Strong (Exceptional only for existing heavy Adobe users)",
    "recovery": {
     "attempts": [
@@ -91,13 +91,43 @@
       "at": "2026-11-26T14:00:00Z",
       "result": "access_test",
       "reason": "direct read refused by site bot protection: adobe.com (Akamai)"
+     },
+     {
+      "at": "2026-11-27T16:46:05Z",
+      "result": "verified",
+      "reason": "adobe.com plans page (US region) shows CC Pro 57% off first year, $29.99/mo vs $69.99 regular, ends Nov 27; UK price not read"
      }
     ],
-    "last_result": "blocked",
-    "last_reason": "site bot protection: adobe.com (Akamai)",
-    "next_check_after": null,
+    "last_result": "verified",
+    "last_reason": "adobe.com plans page (US region) shows CC Pro 57% off first year, $29.99/mo vs $69.99 regular, ends Nov 27; UK price not read",
     "parked": false,
     "alternatives_to_try": "WebFetch of the same page; manufacturer/official store page for the same item; another authorised UK retailer's product page; provider's official pricing, help, blog or newsroom page"
+   },
+   "price_intel": {
+    "current_price": {
+     "amount": 29.99,
+     "currency": "USD",
+     "url": "https://www.adobe.com/creativecloud/plans.html",
+     "at": "2026-11-27T16:46:05Z",
+     "type": "seller_page"
+    },
+    "lowest_observed_by_us": {
+     "amount": 29.99,
+     "currency": "USD",
+     "at": "2026-11-27T16:46:05Z",
+     "since": "2026-11-27T16:46:05Z",
+     "observations": 1
+    },
+    "historical_low_claim": {
+     "supported": false,
+     "note": "no price-history source recorded; do not claim a historical low"
+    },
+    "rrp": {
+     "amount": 69.99,
+     "currency": "USD",
+     "url": "https://www.adobe.com/creativecloud/plans.html",
+     "at": "2026-11-27T16:46:05Z"
+    }
    }
   },
   {
@@ -222,7 +252,20 @@
    "eligibility": null,
    "limitations": "Plan prices unchanged",
    "provisional_rating": "Good (video-gen users only)",
-   "deadline_utc": "2026-11-30T23:59:00Z"
+   "deadline_utc": "2026-11-30T23:59:00Z",
+   "recovery": {
+    "attempts": [
+     {
+      "at": "2026-11-27T16:46:05Z",
+      "result": "no_new_info",
+      "reason": "Not retried beyond deal article; Runway page not read this run"
+     }
+    ],
+    "last_result": "no_new_info",
+    "last_reason": "Not retried beyond deal article; Runway page not read this run",
+    "next_check_after": "2026-11-27T19:46:05Z",
+    "parked": false
+   }
   },
   {
    "section": "A",
@@ -276,7 +319,20 @@
    "eligibility": null,
    "limitations": "Lifetime-deal vendor risk; AppSumo 60-day refund (standard policy, verify)",
    "provisional_rating": "Good",
-   "deadline_utc": "2026-11-27T23:59:00Z"
+   "deadline_utc": "2026-11-27T23:59:00Z",
+   "recovery": {
+    "attempts": [
+     {
+      "at": "2026-11-27T16:46:05Z",
+      "result": "blocked",
+      "reason": "appsumo.com not resolvable from session network"
+     }
+    ],
+    "last_result": "blocked",
+    "last_reason": "appsumo.com not resolvable from session network",
+    "next_check_after": "2026-11-27T22:46:05Z",
+    "parked": false
+   }
   },
   {
    "section": "A",
@@ -304,7 +360,20 @@
    "eligibility": null,
    "limitations": "Third-party API reseller: data-handling and reliability risk; not an official provider",
    "provisional_rating": "Good (with caution)",
-   "deadline_utc": "2026-12-02T23:59:00Z"
+   "deadline_utc": "2026-12-02T23:59:00Z",
+   "recovery": {
+    "attempts": [
+     {
+      "at": "2026-11-27T16:46:05Z",
+      "result": "blocked",
+      "reason": "cometapi.com not resolvable from session network"
+     }
+    ],
+    "last_result": "blocked",
+    "last_reason": "cometapi.com not resolvable from session network",
+    "next_check_after": "2026-11-27T22:46:05Z",
+    "parked": false
+   }
   },
   {
    "section": "A",
@@ -400,7 +469,7 @@
      "amount": 33.68,
      "currency": "USD",
      "url": "https://www.ovhcloud.com/en/black-friday/",
-     "at": "2026-11-27T14:50:00Z",
+     "at": "2026-11-27T16:45:49Z",
      "type": "seller_page"
     },
     "lowest_observed_by_us": {
@@ -408,7 +477,7 @@
      "currency": "USD",
      "at": "2026-11-27T14:50:00Z",
      "since": "2026-11-27T14:50:00Z",
-     "observations": 1
+     "observations": 2
     },
     "historical_low_claim": {
      "supported": false,
@@ -496,7 +565,7 @@
      "amount": 6.49,
      "currency": "USD",
      "url": "https://www.hostinger.com/black-friday-vps-deals",
-     "at": "2026-11-26T15:55:00Z",
+     "at": "2026-11-27T16:45:49Z",
      "type": "seller_page"
     },
     "lowest_observed_by_us": {
@@ -504,7 +573,7 @@
      "currency": "USD",
      "at": "2026-11-26T15:55:00Z",
      "since": "2026-11-26T15:55:00Z",
-     "observations": 1
+     "observations": 2
     },
     "historical_low_claim": {
      "supported": false,
@@ -538,7 +607,20 @@
    "eligibility": null,
    "limitations": "48-month prepay; renewal 5.5x the promo",
    "provisional_rating": "Good (only if you need 4 years of shared hosting)",
-   "deadline_utc": "2026-12-14T23:59:00Z"
+   "deadline_utc": "2026-12-14T23:59:00Z",
+   "recovery": {
+    "attempts": [
+     {
+      "at": "2026-11-27T16:46:05Z",
+      "result": "no_new_info",
+      "reason": "Not retried this run"
+     }
+    ],
+    "last_result": "no_new_info",
+    "last_reason": "Not retried this run",
+    "next_check_after": "2026-11-27T19:46:05Z",
+    "parked": false
+   }
   },
   {
    "section": "B",
@@ -727,10 +809,10 @@
      "at": "2026-11-26T16:10:00Z"
     },
     "current_price": {
-     "amount": 799,
+     "amount": 799.0,
      "currency": "GBP",
      "url": "https://www.johnlewis.com/apple-iphone-air-ios-6-5-5g-sim-free-256gb/sky-blue/p114323266",
-     "at": "2026-11-27T13:46:00Z",
+     "at": "2026-11-27T16:45:49Z",
      "type": "seller_page"
     },
     "lowest_observed_by_us": {
@@ -738,7 +820,7 @@
      "currency": "GBP",
      "at": "2026-11-26T16:46:00Z",
      "since": "2026-11-26T16:46:00Z",
-     "observations": 2
+     "observations": 3
     },
     "historical_low_claim": {
      "supported": false,
@@ -1157,11 +1239,16 @@
       "at": "2026-11-26T14:00:00Z",
       "result": "access_test",
       "reason": "direct read refused by site bot protection: amazon.co.uk (empty 202)"
+     },
+     {
+      "at": "2026-11-27T16:46:05Z",
+      "result": "no_new_info",
+      "reason": "Apple UK page lists M6 14in 16GB/1TB but no prices shown; Amazon UK blocked"
      }
     ],
-    "last_result": "blocked",
-    "last_reason": "site bot protection: amazon.co.uk (empty 202)",
-    "next_check_after": null,
+    "last_result": "no_new_info",
+    "last_reason": "Apple UK page lists M6 14in 16GB/1TB but no prices shown; Amazon UK blocked",
+    "next_check_after": "2026-11-27T19:46:05Z",
     "parked": false,
     "alternatives_to_try": "WebFetch of the same page; manufacturer/official store page for the same item; another authorised UK retailer's product page; provider's official pricing, help, blog or newsroom page"
    }
@@ -1221,11 +1308,16 @@
       "at": "2026-11-26T14:00:00Z",
       "result": "access_test",
       "reason": "direct read refused by site bot protection: amazon.co.uk (empty 202)"
+     },
+     {
+      "at": "2026-11-27T16:46:05Z",
+      "result": "no_new_info",
+      "reason": "Apple UK MacBook Pro page lists 16in M5 Pro 24GB/1TB but no prices; Amazon UK blocked"
      }
     ],
-    "last_result": "blocked",
-    "last_reason": "site bot protection: amazon.co.uk (empty 202)",
-    "next_check_after": null,
+    "last_result": "no_new_info",
+    "last_reason": "Apple UK MacBook Pro page lists 16in M5 Pro 24GB/1TB but no prices; Amazon UK blocked",
+    "next_check_after": "2026-11-27T19:46:05Z",
     "parked": false,
     "alternatives_to_try": "WebFetch of the same page; manufacturer/official store page for the same item; another authorised UK retailer's product page; provider's official pricing, help, blog or newsroom page"
    }
@@ -1279,7 +1371,20 @@
     }
    },
    "alert_level": "none",
-   "deadline_utc": "2026-11-30T23:59:00Z"
+   "deadline_utc": "2026-11-30T23:59:00Z",
+   "recovery": {
+    "attempts": [
+     {
+      "at": "2026-11-27T16:46:05Z",
+      "result": "blocked",
+      "reason": "Back Market returned HTTP 403 to automated read; not bypassed"
+     }
+    ],
+    "last_result": "blocked",
+    "last_reason": "Back Market returned HTTP 403 to automated read; not bypassed",
+    "next_check_after": "2026-11-27T22:46:05Z",
+    "parked": false
+   }
   },
   {
    "section": "D",
@@ -1478,8 +1583,8 @@
  "policy_cd": "C/D: four checks (price, exact_config, stock_purchasable, london_fulfilment). A category page is price discovery only. BUY NOW only when all four are verified and the rating is Exceptional.",
  "last_checked": "2026-11-27T15:55Z",
  "workflow": {
-  "last_deep_cycle_at": null,
-  "deep_cycles_done": 0,
+  "last_deep_cycle_at": "2026-11-27T16:46:19Z",
+  "deep_cycles_done": 1,
   "discovery_rotation": [
    "A",
    "B",
