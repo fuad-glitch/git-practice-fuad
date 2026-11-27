@@ -1,5 +1,5 @@
 {
- "updated_utc": "2026-11-27T11:50Z",
+ "updated_utc": "2026-11-27T12:55Z",
  "scope": "A AI subscriptions & services | B servers, hosting & cloud | C iPhone (London only) | D laptops (London only)",
  "deals": [
   {
@@ -20,7 +20,7 @@
    ],
    "deadline": "1 Dec 2026 (seller page: until Dec 1)",
    "status": "active",
-   "last_checked": "2026-11-27T11:50Z",
+   "last_checked": "2026-11-27T12:55Z",
    "bd_access": "Card payment; BD availability not verified",
    "primary_source_link": "https://elevenlabs.io/pricing",
    "last_verified_at": "2026-11-27T11:50:00Z",
@@ -321,7 +321,7 @@
    ],
    "deadline": "1 Dec 2026 (pepper.pl)",
    "status": "active",
-   "last_checked": "2026-11-27T11:50Z",
+   "last_checked": "2026-11-27T12:55Z",
    "primary_source_link": "https://www.ovhcloud.com/en/black-friday/",
    "last_verified_at": "2026-11-27T11:50:00Z",
    "exact_config": "OVHcloud SYS-2 dedicated: Xeon-D 2141I 8c/16t, 32-128GB DDR4 ECC, 2x512GB-2x1.92TB NVMe soft RAID, 1Gbps",
@@ -376,7 +376,7 @@
    ],
    "deadline": "14 Dec 2026",
    "status": "active",
-   "last_checked": "2026-11-27T11:50Z",
+   "last_checked": "2026-11-27T12:55Z",
    "primary_source_link": "https://www.hostinger.com/black-friday-vps-deals",
    "last_verified_at": "2026-11-27T11:50:00Z",
    "exact_config": "KVM 1: 1 vCPU, 4GB RAM, 50GB NVMe, 4TB bandwidth (KVM 2: 2 vCPU/8GB/100GB, $8.79/mo, renews $14.99)",
@@ -539,14 +539,14 @@
    ],
    "deadline": "not stated by seller",
    "status": "active",
-   "last_checked": "2026-11-27T11:50Z",
+   "last_checked": "2026-11-27T12:55Z",
    "primary_source_link": "https://www.johnlewis.com/apple-iphone-air-ios-6-5-5g-sim-free-256gb/sky-blue/p114323266",
    "last_verified_at": "2026-11-27T11:50:00Z",
    "exact_config": "iPhone Air 256GB, Sky Blue, new, eSIM-only",
    "payable_price": "\u00a3799.00 (delivery promo code per page)",
    "renewal_or_long_term_cost": "n/a; 2-year guarantee labelled at John Lewis",
    "eligibility": "UK retail; London delivery/John Lewis Oxford St collection (store availability not checked); UK payment",
-   "limitations": "Light Gold out of stock; Sky Blue add-to-basket shown, no stock count; deadline not stated; London store C&C availability not named; eSIM-only 27 Nov 08:50Z recheck: page text truncated, price/stock not readable this run (prior V3 read stands).",
+   "limitations": "Light Gold out of stock; Sky Blue add-to-basket shown, no stock count; deadline not stated; London store C&C availability not named; eSIM-only 27 Nov 08:50Z recheck: page text truncated, price/stock not readable this run (prior V3 read stands). 27 Nov 12:50Z: page text again truncated (nav only); Apple UK ref \u00a31,099 re-read.",
    "provisional_rating": "Strong (record low per TechRadar)",
    "checks": {
     "price": {
@@ -1181,5 +1181,5 @@
  ],
  "policy": "No Strong/Exceptional without a primary-source check (V3). Deal articles are for discovery only. Unconfirmed prices are UNVERIFIED and not ranked.",
  "policy_cd": "C/D: four checks (price, exact_config, stock_purchasable, london_fulfilment). A category page is price discovery only. BUY NOW only when all four are verified and the rating is Exceptional.",
- "last_checked": "2026-11-27T11:50Z"
+ "last_checked": "2026-11-27T12:55Z"
 }
