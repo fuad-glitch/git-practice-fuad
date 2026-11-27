@@ -50,6 +50,16 @@
     "label": null,
     "stock": "yes",
     "note": null
+   },
+   {
+    "at": "2026-11-27T19:46:18Z",
+    "amount": 99.0,
+    "currency": "USD",
+    "type": "seller_page",
+    "url": "https://elevenlabs.io/pricing",
+    "label": null,
+    "stock": "unknown",
+    "note": null
    }
   ],
   "hostinger-kvm1": [
@@ -102,6 +112,16 @@
     "label": null,
     "stock": "yes",
     "note": null
+   },
+   {
+    "at": "2026-11-27T19:46:18Z",
+    "amount": 155.76,
+    "currency": "USD",
+    "type": "seller_page",
+    "url": "https://www.hostinger.com/black-friday-vps-deals",
+    "label": null,
+    "stock": "unknown",
+    "note": null
    }
   ],
   "ovhcloud-bf-2026": [
@@ -137,6 +157,16 @@
    },
    {
     "at": "2026-11-27T17:45:44Z",
+    "amount": 33.68,
+    "currency": "USD",
+    "type": "seller_page",
+    "url": "https://www.ovhcloud.com/en/black-friday/",
+    "label": null,
+    "stock": "unknown",
+    "note": null
+   },
+   {
+    "at": "2026-11-27T19:46:18Z",
     "amount": 33.68,
     "currency": "USD",
     "type": "seller_page",
@@ -206,6 +236,16 @@
     "label": null,
     "stock": "yes",
     "note": null
+   },
+   {
+    "at": "2026-11-27T19:46:19Z",
+    "amount": 799.0,
+    "currency": "GBP",
+    "type": "seller_page",
+    "url": "https://www.johnlewis.com/apple-iphone-air-ios-6-5-5g-sim-free-256gb/sky-blue/p114323266",
+    "label": null,
+    "stock": "yes",
+    "note": null
    }
   ],
   "adobe-cc-pro-57": [
@@ -247,6 +287,16 @@
     "url": "https://www.adobe.com/creativecloud/plans.html",
     "label": "monthly, annual plan; page says ends Nov 27",
     "stock": "yes",
+    "note": null
+   },
+   {
+    "at": "2026-11-27T19:46:19Z",
+    "amount": 29.99,
+    "currency": "USD",
+    "type": "seller_page",
+    "url": "https://www.adobe.com/creativecloud/plans.html",
+    "label": null,
+    "stock": "unknown",
     "note": null
    }
   ]
