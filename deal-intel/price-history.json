@@ -80,6 +80,16 @@
     "label": null,
     "stock": "unknown",
     "note": null
+   },
+   {
+    "at": "2026-11-27T22:45:53Z",
+    "amount": 99.0,
+    "currency": "USD",
+    "type": "seller_page",
+    "url": "https://elevenlabs.io/pricing",
+    "label": "Creator annual first year; offer to 1 Dec",
+    "stock": "yes",
+    "note": null
    }
   ],
   "hostinger-kvm1": [
@@ -161,6 +171,16 @@
     "url": "https://www.hostinger.com/black-friday-vps-deals",
     "label": null,
     "stock": "unknown",
+    "note": null
+   },
+   {
+    "at": "2026-11-27T22:45:53Z",
+    "amount": 155.76,
+    "currency": "USD",
+    "type": "seller_page",
+    "url": "https://www.hostinger.com/black-friday-vps-deals",
+    "label": "KVM1 24mo upfront",
+    "stock": "yes",
     "note": null
    }
   ],
@@ -397,6 +417,16 @@
     "url": "https://www.adobe.com/creativecloud/plans.html",
     "label": null,
     "stock": "unknown",
+    "note": null
+   },
+   {
+    "at": "2026-11-27T22:45:53Z",
+    "amount": 29.99,
+    "currency": "USD",
+    "type": "seller_page",
+    "url": "https://www.adobe.com/creativecloud/plans.html",
+    "label": "CC Pro; page says ends Nov 27",
+    "stock": "yes",
     "note": null
    }
   ]
