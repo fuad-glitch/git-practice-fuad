@@ -20,10 +20,10 @@
    ],
    "deadline": "1 Dec 2026 (seller page: until Dec 1)",
    "status": "active",
-   "last_checked": "2026-11-27T18:46Z",
+   "last_checked": "2026-11-27T23:46:00Z",
    "bd_access": "Card payment; BD availability not verified",
    "primary_source_link": "https://elevenlabs.io/pricing",
-   "last_verified_at": "2026-11-27T22:45:53Z",
+   "last_verified_at": "2026-11-27T23:46:00Z",
    "exact_config": "ElevenLabs Creator, annual billing, 121k credits/month, commercial licence included",
    "payable_price": "$99 first year (card FX extra)",
    "renewal_or_long_term_cost": "$220/yr from year 2 (list price)",
@@ -42,7 +42,7 @@
      "amount": 99.0,
      "currency": "USD",
      "url": "https://elevenlabs.io/pricing",
-     "at": "2026-11-27T22:45:53Z",
+     "at": "2026-11-27T23:45:55Z",
      "type": "seller_page"
     },
     "lowest_observed_by_us": {
@@ -50,7 +50,7 @@
      "currency": "USD",
      "at": "2026-11-26T15:55:00Z",
      "since": "2026-11-26T15:55:00Z",
-     "observations": 8
+     "observations": 9
     },
     "historical_low_claim": {
      "supported": false,
@@ -75,15 +75,15 @@
     "https://www.macrumors.com/2026/11/16/adobes-black-friday-sale-2026/"
    ],
    "deadline": "27 Nov 2026 (page: offer ends Nov 27; confirmed 18:46Z)",
-   "status": "active",
-   "last_checked": "2026-11-27T18:46Z",
+   "status": "expired",
+   "last_checked": "2026-11-27T23:46:00Z",
    "primary_source_link": "https://www.adobe.com/creativecloud/plans.html",
    "last_verified_at": "2026-11-27T22:45:53Z",
    "exact_config": "Adobe Creative Cloud Pro (includes Firefly), individual",
    "payable_price": "US$29.99/mo first year (annual plan billed monthly)",
    "renewal_or_long_term_cost": "Regular US$69.99/mo after year 1 (per Adobe page)",
    "eligibility": "US store read; UK price and Bangladesh payment not verified",
-   "limitations": "Sale ends 27 Nov; UK price not read; annual commitment | 27 Nov 18:46Z: page still shows 57% off but says ends Nov 27 (deadline conflict resolved to 27 Nov). | 2026-11-27T22:45Z page still shows offer ending Nov 27; may have expired.",
+   "limitations": "Sale ends 27 Nov; UK price not read; annual commitment | 27 Nov 18:46Z: page still shows 57% off but says ends Nov 27 (deadline conflict resolved to 27 Nov). | 2026-11-27T22:45Z page still shows offer ending Nov 27; may have expired. | 23:46Z: page still states offer ends Nov 27; deadline passed, marked expired (Argentina-region view returned).",
    "provisional_rating": "Strong (Exceptional only for existing heavy Adobe users)",
    "recovery": {
     "attempts": [
@@ -484,14 +484,14 @@
    ],
    "deadline": "1 Dec 2026 (pepper.pl)",
    "status": "active",
-   "last_checked": "2026-11-27T18:46Z",
+   "last_checked": "2026-11-27T23:46:00Z",
    "primary_source_link": "https://www.ovhcloud.com/en/black-friday/",
    "last_verified_at": "2026-11-27T21:45:46Z",
    "exact_config": "OVHcloud SYS-2 dedicated: Xeon-D 2141I 8c/16t, 32-128GB DDR4 ECC, 2x512GB-2x1.92TB NVMe soft RAID, 1Gbps",
    "payable_price": "$33.68/mo first year (was $42.10, 20% off); setup fee not stated on page",
    "renewal_or_long_term_cost": "Reverts to ~$42.10/mo after first year (page list price)",
    "eligibility": "Global; Bangladesh card/PayPal acceptance not verified",
-   "limitations": "Entry config price; RAM/storage options change price; end date not stated on page. Also VPS 2027 from $4.54/mo (up to 8 vCores/24GB/200GB NVMe, 28 locations, unlimited traffic). Rise-4 $177 (15% off). 27 Nov re-read: no setup fee listed for SYS-2. | 27 Nov 18:46Z: page re-read but showed VPS 2027 from $4.54/mo + free backups 3 months; Kimsufi $17 price not visible, so not re-confirmed (last_verified_at unchanged).",
+   "limitations": "Entry config price; RAM/storage options change price; end date not stated on page. Also VPS 2027 from $4.54/mo (up to 8 vCores/24GB/200GB NVMe, 28 locations, unlimited traffic). Rise-4 $177 (15% off). 27 Nov re-read: no setup fee listed for SYS-2. | 27 Nov 18:46Z: page re-read but showed VPS 2027 from $4.54/mo + free backups 3 months; Kimsufi $17 price not visible, so not re-confirmed (last_verified_at unchanged). | 23:46Z: page read truncated; Kimsufi/SYS-2 price not visible, not re-confirmed (last_verified_at unchanged).",
    "provisional_rating": "Good",
    "deadline_utc": "2026-12-01T23:59:00Z",
    "price_intel": {
@@ -583,11 +583,11 @@
    "links": [
     "https://www.hostinger.com/black-friday-web-hosting-deals"
    ],
-   "deadline": "14 Dec 2026",
+   "deadline": "14 Dec 2026 (FAQ)",
    "status": "active",
-   "last_checked": "2026-11-27T18:46Z",
+   "last_checked": "2026-11-27T23:46:00Z",
    "primary_source_link": "https://www.hostinger.com/black-friday-vps-deals",
-   "last_verified_at": "2026-11-27T22:45:53Z",
+   "last_verified_at": "2026-11-27T23:46:00Z",
    "exact_config": "KVM 1: 1 vCPU, 4GB RAM, 50GB NVMe, 4TB bandwidth (KVM 2: 2 vCPU/8GB/100GB, $8.79/mo, renews $14.99)",
    "payable_price": "$155.76 upfront for 24 months ($6.49/mo; list $19.49)",
    "renewal_or_long_term_cost": "$11.99/mo after 24 months",
@@ -606,7 +606,7 @@
      "amount": 155.76,
      "currency": "USD",
      "url": "https://www.hostinger.com/black-friday-vps-deals",
-     "at": "2026-11-27T22:45:53Z",
+     "at": "2026-11-27T23:45:55Z",
      "type": "seller_page"
     },
     "lowest_observed_by_us": {
@@ -614,7 +614,7 @@
      "currency": "USD",
      "at": "2026-11-26T15:55:00Z",
      "since": "2026-11-26T15:55:00Z",
-     "observations": 8
+     "observations": 9
     },
     "historical_low_claim": {
      "supported": false,
@@ -809,14 +809,14 @@
    ],
    "deadline": "not stated by seller",
    "status": "active",
-   "last_checked": "2026-11-27T18:46Z",
+   "last_checked": "2026-11-27T23:46:00Z",
    "primary_source_link": "https://www.johnlewis.com/apple-iphone-air-ios-6-5-5g-sim-free-256gb/sky-blue/p114323266",
-   "last_verified_at": "2026-11-27T21:45:46Z",
+   "last_verified_at": "2026-11-27T23:46:00Z",
    "exact_config": "iPhone Air 256GB, Sky Blue, new, eSIM-only",
    "payable_price": "£799.00 (delivery promo code per page)",
    "renewal_or_long_term_cost": "n/a; 2-year guarantee labelled at John Lewis",
    "eligibility": "UK retail; London delivery/John Lewis Oxford St collection (store availability not checked); UK payment",
-   "limitations": "Light Gold out of stock; Sky Blue add-to-basket shown, no stock count; deadline not stated; London store C&C availability not named; eSIM-only 27 Nov 08:50Z recheck: page text truncated, price/stock not readable this run (prior V3 read stands). 27 Nov 12:50Z: page text again truncated (nav only); Apple UK ref £1,099 re-read. 2026-11-27T13:46Z: price £799, Sky Blue add-to-basket, London M25 delivery re-read (unchanged). | 2026-11-27T22:45Z re-read failed (page truncated, price not in extracted text); last_verified_at unchanged.",
+   "limitations": "Light Gold out of stock; Sky Blue add-to-basket shown, no stock count; deadline not stated; London store C&C availability not named; eSIM-only 27 Nov 08:50Z recheck: page text truncated, price/stock not readable this run (prior V3 read stands). 27 Nov 12:50Z: page text again truncated (nav only); Apple UK ref £1,099 re-read. 2026-11-27T13:46Z: price £799, Sky Blue add-to-basket, London M25 delivery re-read (unchanged). | 2026-11-27T22:45Z re-read failed (page truncated, price not in extracted text); last_verified_at unchanged. | 23:46Z: price £799 re-read; live stock/London delivery not stated on page (Sky Blue shown; Light Gold out of stock).",
    "provisional_rating": "Strong (record low per TechRadar)",
    "checks": {
     "price": {
@@ -858,7 +858,7 @@
      "amount": 799.0,
      "currency": "GBP",
      "url": "https://www.johnlewis.com/apple-iphone-air-ios-6-5-5g-sim-free-256gb/sky-blue/p114323266",
-     "at": "2026-11-27T21:45:46Z",
+     "at": "2026-11-27T23:45:56Z",
      "type": "seller_page"
     },
     "lowest_observed_by_us": {
@@ -866,7 +866,7 @@
      "currency": "GBP",
      "at": "2026-11-26T16:46:00Z",
      "since": "2026-11-26T16:46:00Z",
-     "observations": 8
+     "observations": 9
     },
     "historical_low_claim": {
      "supported": false,
@@ -1685,7 +1685,7 @@
  ],
  "policy": "No Strong/Exceptional without a primary-source check (V3). Deal articles are for discovery only. Unconfirmed prices are UNVERIFIED and not ranked.",
  "policy_cd": "C/D: four checks (price, exact_config, stock_purchasable, london_fulfilment). A category page is price discovery only. BUY NOW only when all four are verified and the rating is Exceptional.",
- "last_checked": "2026-11-27T22:46:00Z",
+ "last_checked": "2026-11-27T23:46:00Z",
  "workflow": {
   "last_deep_cycle_at": "2026-11-27T22:46:00Z",
   "deep_cycles_done": 3,
