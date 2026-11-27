@@ -1,0 +1,103 @@
+{
+ "observations": {
+  "elevenlabs-creator-annual": [
+   {
+    "at": "2026-11-26T15:55:00Z",
+    "amount": 99,
+    "currency": "USD",
+    "type": "seller_page",
+    "url": "https://elevenlabs.io/pricing",
+    "label": "Creator annual, first year",
+    "stock": "unknown",
+    "note": "first-year promo"
+   },
+   {
+    "at": "2026-11-26T15:55:00Z",
+    "amount": 220,
+    "currency": "USD",
+    "type": "reference_rrp",
+    "url": "https://elevenlabs.io/pricing",
+    "label": "Creator annual normal price",
+    "stock": "unknown",
+    "note": "normal price as recorded at the V3 read"
+   }
+  ],
+  "hostinger-kvm1": [
+   {
+    "at": "2026-11-26T15:55:00Z",
+    "amount": 6.49,
+    "currency": "USD",
+    "type": "seller_page",
+    "url": "https://www.hostinger.com/black-friday-vps-deals",
+    "label": "KVM 1 per month, 24-month term",
+    "stock": "unknown",
+    "note": "$155.76 upfront"
+   },
+   {
+    "at": "2026-11-26T15:55:00Z",
+    "amount": 19.49,
+    "currency": "USD",
+    "type": "reference_rrp",
+    "url": "https://www.hostinger.com/black-friday-vps-deals",
+    "label": "KVM 1 list per month",
+    "stock": "unknown",
+    "note": "list price shown on seller page"
+   }
+  ],
+  "ovhcloud-bf-2026": [
+   {
+    "at": "2026-11-27T14:50:00Z",
+    "amount": 33.68,
+    "currency": "USD",
+    "type": "seller_page",
+    "url": "https://www.ovhcloud.com/en/black-friday/",
+    "label": "per month, first year",
+    "stock": "unknown",
+    "note": null
+   },
+   {
+    "at": "2026-11-27T14:50:00Z",
+    "amount": 42.1,
+    "currency": "USD",
+    "type": "previous_price",
+    "url": "https://www.ovhcloud.com/en/black-friday/",
+    "label": "was-price shown on seller page",
+    "stock": "unknown",
+    "note": null
+   }
+  ],
+  "iphone-air-jl": [
+   {
+    "at": "2026-11-26T16:46:00Z",
+    "amount": 799,
+    "currency": "GBP",
+    "type": "seller_page",
+    "url": "https://www.johnlewis.com/apple-iphone-air-ios-6-5-5g-sim-free-256gb/sky-blue/p114323266",
+    "label": "iPhone Air 256GB Sky Blue, new",
+    "stock": "yes",
+    "note": null
+   },
+   {
+    "at": "2026-11-27T13:46:00Z",
+    "amount": 799,
+    "currency": "GBP",
+    "type": "seller_page",
+    "url": "https://www.johnlewis.com/apple-iphone-air-ios-6-5-5g-sim-free-256gb/sky-blue/p114323266",
+    "label": "iPhone Air 256GB Sky Blue, new",
+    "stock": "yes",
+    "note": "re-read"
+   },
+   {
+    "at": "2026-11-26T16:10:00Z",
+    "amount": 1099,
+    "currency": "GBP",
+    "type": "reference_rrp",
+    "url": "https://www.apple.com/uk/shop/buy-iphone/iphone-air",
+    "label": "Apple Store UK, iPhone Air 256GB",
+    "stock": "unknown",
+    "note": null
+   }
+  ]
+ },
+ "notes": "Append-only log of observed prices. Types: seller_page, category_page, reference_rrp, previous_price, article, history_source. Seeded 27 Nov from readings already in deals.json, keeping their original timestamps."
+}

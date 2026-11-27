@@ -68,3 +68,53 @@ Each C/D deal records four separate checks, each with evidence and a UTC time:
 - Nothing is sent for anything below Exceptional.
 
 A category page showing a price is never enough for BUY NOW.
+
+## Run workflow (added 27 Nov)
+Each hourly run starts with `python3 -I deal-intel/tools/dealstate.py plan`, which decides the cycle.
+
+**Every run (monitor cycle): V3 deal monitoring**
+- Re-read each active V3 deal on its `primary_source_link`.
+- Record price, stock, expiry and terms, and log the price with `observe`.
+- Update `last_verified_at` **only after a successful read**. A failed read is noted in `limitations` and never carries
+  the old values forward.
+- A V3 deal not re-read successfully for over 3 hours is shown as **stale** ("last confirmed HH:MM"). Stale evidence
+  can't trigger an alert.
+
+**Deep cycle: at least 2h45m since the last one, so about every 3 hours**
+1. **Lead recovery:** `plan` lists up to 8 leads that are due, highest priority first. Priority comes from provisional
+   rating, deadline within 24h and recent temporary errors.
+   - For each lead, try the seller page (direct read, then WebFetch). Then try legitimate alternatives: the
+     manufacturer's or official store page, another authorised UK retailer's product page, or the provider's official
+     pricing, help, blog or newsroom page.
+   - Record the outcome with `attempt`:
+     - `temporary` (timeout, 5xx, truncated page): retry in 1h, then 3h.
+     - `blocked` (bot protection): retry in 6h, 6h, then **parked** with a written `why_unverified`, checked only every
+       12h or when new evidence appears.
+     - `no_new_info`: retry in 3h, 6h, then 12h.
+     - `not_found`: the deal is expired.
+     - `verified`: the deal becomes V3.
+   - Leads not due are skipped, so unchanged leads aren't re-checked without a reason.
+   - Pages that can't be read are never worked around.
+2. **Discovery:** search all four sections (A–D) for new promotions, plus extra depth in that cycle's rotating focus
+   section. Only offers that look genuinely valuable become new leads. Each must be confirmed on the seller's page
+   before it can be ranked.
+3. Run `deep-done`.
+
+## Price history (`price-history.json`)
+- Append-only observations: `{at, amount, currency, type, url, label, stock, note}`.
+- Types: `seller_page`, `category_page`, `reference_rrp`, `previous_price`, `article`, `history_source`.
+- `observe` keeps each deal's `price_intel` up to date, keeping these separate: `rrp`, `previous_retailer_price`,
+  `current_price` and `lowest_observed_by_us` (our own observations, with the date range).
+- A **historical-low claim is allowed only when a `history_source` observation exists**, for example a price-history
+  site entry with its URL. `validate` flags "lowest ever" or "all-time low" wording that has no such source.
+
+## Alert de-duplication (`alerts_log`)
+- Before any push, run `alert-check ID LEVEL AMOUNT`. Send only on `SEND`, then run `alert-record`.
+- `SEND` happens only for:
+  - the first alert for that deal,
+  - a level upgrade (lead → exceptional → buy_now),
+  - a further price drop of at least 5% below the lowest price already alerted.
+- Everything else is `SKIP`.
+- Downgrades, expiries and stock-outs go in the report, not in a push.
+- Run `validate` before every commit. It checks that Strong or Exceptional has V3, BUY NOW has all four C/D checks, and
+  historical-low claims are backed by a source.

@@ -29,7 +29,34 @@
    "renewal_or_long_term_cost": "$220/yr from year 2 (list price)",
    "eligibility": "Card; Bangladesh card acceptance not verified",
    "limitations": "Credit-capped (~121 min TTS included, extra ~$0.18/min); first year only",
-   "provisional_rating": "Strong"
+   "provisional_rating": "Strong",
+   "deadline_utc": "2026-12-01T23:59:00Z",
+   "price_intel": {
+    "rrp": {
+     "amount": 220,
+     "currency": "USD",
+     "url": "https://elevenlabs.io/pricing",
+     "at": "2026-11-26T15:55:00Z"
+    },
+    "current_price": {
+     "amount": 99,
+     "currency": "USD",
+     "url": "https://elevenlabs.io/pricing",
+     "at": "2026-11-26T15:55:00Z",
+     "type": "seller_page"
+    },
+    "lowest_observed_by_us": {
+     "amount": 99,
+     "currency": "USD",
+     "at": "2026-11-26T15:55:00Z",
+     "since": "2026-11-26T15:55:00Z",
+     "observations": 1
+    },
+    "historical_low_claim": {
+     "supported": false,
+     "note": "no price-history source recorded; do not claim a historical low"
+    }
+   }
   },
   {
    "section": "A",
@@ -57,7 +84,21 @@
    "renewal_or_long_term_cost": null,
    "eligibility": null,
    "limitations": "New subscribers only; first year; annual commitment with early-cancellation fee",
-   "provisional_rating": "Strong (Exceptional only for existing heavy Adobe users)"
+   "provisional_rating": "Strong (Exceptional only for existing heavy Adobe users)",
+   "recovery": {
+    "attempts": [
+     {
+      "at": "2026-11-26T14:00:00Z",
+      "result": "access_test",
+      "reason": "direct read refused by site bot protection: adobe.com (Akamai)"
+     }
+    ],
+    "last_result": "blocked",
+    "last_reason": "site bot protection: adobe.com (Akamai)",
+    "next_check_after": null,
+    "parked": false,
+    "alternatives_to_try": "WebFetch of the same page; manufacturer/official store page for the same item; another authorised UK retailer's product page; provider's official pricing, help, blog or newsroom page"
+   }
   },
   {
    "section": "A",
@@ -84,7 +125,21 @@
    "renewal_or_long_term_cost": null,
    "eligibility": null,
    "limitations": "First 6 months only",
-   "provisional_rating": "Good"
+   "provisional_rating": "Good",
+   "recovery": {
+    "attempts": [
+     {
+      "at": "2026-11-26T14:00:00Z",
+      "result": "access_test",
+      "reason": "direct read refused by site bot protection: adobe.com (Akamai)"
+     }
+    ],
+    "last_result": "blocked",
+    "last_reason": "site bot protection: adobe.com (Akamai)",
+    "next_check_after": null,
+    "parked": false,
+    "alternatives_to_try": "WebFetch of the same page; manufacturer/official store page for the same item; another authorised UK retailer's product page; provider's official pricing, help, blog or newsroom page"
+   }
   },
   {
    "section": "A",
@@ -166,7 +221,8 @@
    "renewal_or_long_term_cost": null,
    "eligibility": null,
    "limitations": "Plan prices unchanged",
-   "provisional_rating": "Good (video-gen users only)"
+   "provisional_rating": "Good (video-gen users only)",
+   "deadline_utc": "2026-11-30T23:59:00Z"
   },
   {
    "section": "A",
@@ -219,7 +275,8 @@
    "renewal_or_long_term_cost": null,
    "eligibility": null,
    "limitations": "Lifetime-deal vendor risk; AppSumo 60-day refund (standard policy, verify)",
-   "provisional_rating": "Good"
+   "provisional_rating": "Good",
+   "deadline_utc": "2026-11-27T23:59:00Z"
   },
   {
    "section": "A",
@@ -246,7 +303,8 @@
    "renewal_or_long_term_cost": null,
    "eligibility": null,
    "limitations": "Third-party API reseller: data-handling and reliability risk; not an official provider",
-   "provisional_rating": "Good (with caution)"
+   "provisional_rating": "Good (with caution)",
+   "deadline_utc": "2026-12-02T23:59:00Z"
   },
   {
    "section": "A",
@@ -329,7 +387,34 @@
    "renewal_or_long_term_cost": "Reverts to ~$42.10/mo after first year (page list price)",
    "eligibility": "Global; Bangladesh card/PayPal acceptance not verified",
    "limitations": "Entry config price; RAM/storage options change price; end date not stated on page. Also VPS 2027 from $4.54/mo (up to 8 vCores/24GB/200GB NVMe, 28 locations, unlimited traffic). Rise-4 $177 (15% off). 27 Nov re-read: no setup fee listed for SYS-2.",
-   "provisional_rating": "Good"
+   "provisional_rating": "Good",
+   "deadline_utc": "2026-12-01T23:59:00Z",
+   "price_intel": {
+    "previous_retailer_price": {
+     "amount": 42.1,
+     "currency": "USD",
+     "url": "https://www.ovhcloud.com/en/black-friday/",
+     "at": "2026-11-27T14:50:00Z"
+    },
+    "current_price": {
+     "amount": 33.68,
+     "currency": "USD",
+     "url": "https://www.ovhcloud.com/en/black-friday/",
+     "at": "2026-11-27T14:50:00Z",
+     "type": "seller_page"
+    },
+    "lowest_observed_by_us": {
+     "amount": 33.68,
+     "currency": "USD",
+     "at": "2026-11-27T14:50:00Z",
+     "since": "2026-11-27T14:50:00Z",
+     "observations": 1
+    },
+    "historical_low_claim": {
+     "supported": false,
+     "note": "no price-history source recorded; do not claim a historical low"
+    }
+   }
   },
   {
    "section": "B",
@@ -357,7 +442,21 @@
    "renewal_or_long_term_cost": null,
    "eligibility": null,
    "limitations": "Discount reported tied to a 24-month term; Contabo is known for oversold CPU (reputation, check reviews)",
-   "provisional_rating": "Good"
+   "provisional_rating": "Good",
+   "recovery": {
+    "attempts": [
+     {
+      "at": "2026-11-26T14:00:00Z",
+      "result": "access_test",
+      "reason": "direct read refused by site bot protection: contabo.com (Cloudflare)"
+     }
+    ],
+    "last_result": "blocked",
+    "last_reason": "site bot protection: contabo.com (Cloudflare)",
+    "next_check_after": null,
+    "parked": false,
+    "alternatives_to_try": "WebFetch of the same page; manufacturer/official store page for the same item; another authorised UK retailer's product page; provider's official pricing, help, blog or newsroom page"
+   }
   },
   {
    "section": "B",
@@ -384,7 +483,34 @@
    "renewal_or_long_term_cost": "$11.99/mo after 24 months",
    "eligibility": "Card/PayPal not verified for Bangladesh",
    "limitations": "24-month prepay; 1 vCPU shared is small for n8n+DB; cancel-anytime per page, refund terms not read",
-   "provisional_rating": "Good"
+   "provisional_rating": "Good",
+   "deadline_utc": "2026-12-14T23:59:00Z",
+   "price_intel": {
+    "rrp": {
+     "amount": 19.49,
+     "currency": "USD",
+     "url": "https://www.hostinger.com/black-friday-vps-deals",
+     "at": "2026-11-26T15:55:00Z"
+    },
+    "current_price": {
+     "amount": 6.49,
+     "currency": "USD",
+     "url": "https://www.hostinger.com/black-friday-vps-deals",
+     "at": "2026-11-26T15:55:00Z",
+     "type": "seller_page"
+    },
+    "lowest_observed_by_us": {
+     "amount": 6.49,
+     "currency": "USD",
+     "at": "2026-11-26T15:55:00Z",
+     "since": "2026-11-26T15:55:00Z",
+     "observations": 1
+    },
+    "historical_low_claim": {
+     "supported": false,
+     "note": "no price-history source recorded; do not claim a historical low"
+    }
+   }
   },
   {
    "section": "B",
@@ -411,7 +537,8 @@
    "renewal_or_long_term_cost": null,
    "eligibility": null,
    "limitations": "48-month prepay; renewal 5.5x the promo",
-   "provisional_rating": "Good (only if you need 4 years of shared hosting)"
+   "provisional_rating": "Good (only if you need 4 years of shared hosting)",
+   "deadline_utc": "2026-12-14T23:59:00Z"
   },
   {
    "section": "B",
@@ -438,7 +565,8 @@
    "renewal_or_long_term_cost": null,
    "eligibility": null,
    "limitations": "Requires a 3-year term; renewal $19.99 is above Cloudflare at-cost .com pricing",
-   "provisional_rating": "Not worthwhile"
+   "provisional_rating": "Not worthwhile",
+   "deadline_utc": "2026-12-14T23:59:00Z"
   },
   {
    "section": "B",
@@ -465,7 +593,21 @@
    "renewal_or_long_term_cost": null,
    "eligibility": null,
    "limitations": "First year only",
-   "provisional_rating": "Watch"
+   "provisional_rating": "Watch",
+   "recovery": {
+    "attempts": [
+     {
+      "at": "2026-11-26T14:00:00Z",
+      "result": "access_test",
+      "reason": "direct read refused by site bot protection: namecheap.com (Cloudflare)"
+     }
+    ],
+    "last_result": "blocked",
+    "last_reason": "site bot protection: namecheap.com (Cloudflare)",
+    "next_check_after": null,
+    "parked": false,
+    "alternatives_to_try": "WebFetch of the same page; manufacturer/official store page for the same item; another authorised UK retailer's product page; provider's official pricing, help, blog or newsroom page"
+   }
   },
   {
    "section": "B",
@@ -576,6 +718,32 @@
     "what": "iPhone Air 256GB, new, Apple Store UK",
     "link": "https://www.apple.com/uk/shop/buy-iphone/iphone-air",
     "at": "2026-11-26T16:10:00Z"
+   },
+   "price_intel": {
+    "rrp": {
+     "amount": 1099,
+     "currency": "GBP",
+     "url": "https://www.apple.com/uk/shop/buy-iphone/iphone-air",
+     "at": "2026-11-26T16:10:00Z"
+    },
+    "current_price": {
+     "amount": 799,
+     "currency": "GBP",
+     "url": "https://www.johnlewis.com/apple-iphone-air-ios-6-5-5g-sim-free-256gb/sky-blue/p114323266",
+     "at": "2026-11-27T13:46:00Z",
+     "type": "seller_page"
+    },
+    "lowest_observed_by_us": {
+     "amount": 799,
+     "currency": "GBP",
+     "at": "2026-11-26T16:46:00Z",
+     "since": "2026-11-26T16:46:00Z",
+     "observations": 2
+    },
+    "historical_low_claim": {
+     "supported": false,
+     "note": "no price-history source recorded; do not claim a historical low"
+    }
    }
   },
   {
@@ -627,7 +795,21 @@
      "at": null
     }
    },
-   "alert_level": "none"
+   "alert_level": "none",
+   "recovery": {
+    "attempts": [
+     {
+      "at": "2026-11-26T14:00:00Z",
+      "result": "access_test",
+      "reason": "direct read refused by site bot protection: currys.co.uk (Cloudflare)"
+     }
+    ],
+    "last_result": "blocked",
+    "last_reason": "site bot protection: currys.co.uk (Cloudflare)",
+    "next_check_after": null,
+    "parked": false,
+    "alternatives_to_try": "WebFetch of the same page; manufacturer/official store page for the same item; another authorised UK retailer's product page; provider's official pricing, help, blog or newsroom page"
+   }
   },
   {
    "section": "C",
@@ -677,7 +859,21 @@
      "at": null
     }
    },
-   "alert_level": "none"
+   "alert_level": "none",
+   "recovery": {
+    "attempts": [
+     {
+      "at": "2026-11-26T14:00:00Z",
+      "result": "access_test",
+      "reason": "direct read refused by site bot protection: currys.co.uk (Cloudflare)"
+     }
+    ],
+    "last_result": "blocked",
+    "last_reason": "site bot protection: currys.co.uk (Cloudflare)",
+    "next_check_after": null,
+    "parked": false,
+    "alternatives_to_try": "WebFetch of the same page; manufacturer/official store page for the same item; another authorised UK retailer's product page; provider's official pricing, help, blog or newsroom page"
+   }
   },
   {
    "section": "C",
@@ -727,7 +923,21 @@
      "at": null
     }
    },
-   "alert_level": "none"
+   "alert_level": "none",
+   "recovery": {
+    "attempts": [
+     {
+      "at": "2026-11-26T14:00:00Z",
+      "result": "access_test",
+      "reason": "direct read refused by site bot protection: amazon.co.uk (empty 202)"
+     }
+    ],
+    "last_result": "blocked",
+    "last_reason": "site bot protection: amazon.co.uk (empty 202)",
+    "next_check_after": null,
+    "parked": false,
+    "alternatives_to_try": "WebFetch of the same page; manufacturer/official store page for the same item; another authorised UK retailer's product page; provider's official pricing, help, blog or newsroom page"
+   }
   },
   {
    "section": "C",
@@ -826,7 +1036,21 @@
      "at": null
     }
    },
-   "alert_level": "none"
+   "alert_level": "none",
+   "recovery": {
+    "attempts": [
+     {
+      "at": "2026-11-26T14:00:00Z",
+      "result": "access_test",
+      "reason": "direct read refused by site bot protection: amazon.co.uk (empty 202)"
+     }
+    ],
+    "last_result": "blocked",
+    "last_reason": "site bot protection: amazon.co.uk (empty 202)",
+    "next_check_after": null,
+    "parked": false,
+    "alternatives_to_try": "WebFetch of the same page; manufacturer/official store page for the same item; another authorised UK retailer's product page; provider's official pricing, help, blog or newsroom page"
+   }
   },
   {
    "section": "D",
@@ -926,7 +1150,21 @@
      "at": null
     }
    },
-   "alert_level": "none"
+   "alert_level": "none",
+   "recovery": {
+    "attempts": [
+     {
+      "at": "2026-11-26T14:00:00Z",
+      "result": "access_test",
+      "reason": "direct read refused by site bot protection: amazon.co.uk (empty 202)"
+     }
+    ],
+    "last_result": "blocked",
+    "last_reason": "site bot protection: amazon.co.uk (empty 202)",
+    "next_check_after": null,
+    "parked": false,
+    "alternatives_to_try": "WebFetch of the same page; manufacturer/official store page for the same item; another authorised UK retailer's product page; provider's official pricing, help, blog or newsroom page"
+   }
   },
   {
    "section": "D",
@@ -976,7 +1214,21 @@
      "at": null
     }
    },
-   "alert_level": "none"
+   "alert_level": "none",
+   "recovery": {
+    "attempts": [
+     {
+      "at": "2026-11-26T14:00:00Z",
+      "result": "access_test",
+      "reason": "direct read refused by site bot protection: amazon.co.uk (empty 202)"
+     }
+    ],
+    "last_result": "blocked",
+    "last_reason": "site bot protection: amazon.co.uk (empty 202)",
+    "next_check_after": null,
+    "parked": false,
+    "alternatives_to_try": "WebFetch of the same page; manufacturer/official store page for the same item; another authorised UK retailer's product page; provider's official pricing, help, blog or newsroom page"
+   }
   },
   {
    "section": "D",
@@ -1026,7 +1278,8 @@
      "at": null
     }
    },
-   "alert_level": "none"
+   "alert_level": "none",
+   "deadline_utc": "2026-11-30T23:59:00Z"
   },
   {
    "section": "D",
@@ -1076,7 +1329,21 @@
      "at": null
     }
    },
-   "alert_level": "none"
+   "alert_level": "none",
+   "recovery": {
+    "attempts": [
+     {
+      "at": "2026-11-26T14:00:00Z",
+      "result": "access_test",
+      "reason": "direct read refused by site bot protection: currys.co.uk (Cloudflare)"
+     }
+    ],
+    "last_result": "blocked",
+    "last_reason": "site bot protection: currys.co.uk (Cloudflare)",
+    "next_check_after": null,
+    "parked": false,
+    "alternatives_to_try": "WebFetch of the same page; manufacturer/official store page for the same item; another authorised UK retailer's product page; provider's official pricing, help, blog or newsroom page"
+   }
   },
   {
    "section": "D",
@@ -1126,7 +1393,21 @@
      "at": null
     }
    },
-   "alert_level": "none"
+   "alert_level": "none",
+   "recovery": {
+    "attempts": [
+     {
+      "at": "2026-11-26T14:00:00Z",
+      "result": "access_test",
+      "reason": "direct read refused by site bot protection: amazon.co.uk (empty 202)"
+     }
+    ],
+    "last_result": "blocked",
+    "last_reason": "site bot protection: amazon.co.uk (empty 202)",
+    "next_check_after": null,
+    "parked": false,
+    "alternatives_to_try": "WebFetch of the same page; manufacturer/official store page for the same item; another authorised UK retailer's product page; provider's official pricing, help, blog or newsroom page"
+   }
   },
   {
    "section": "D",
@@ -1176,10 +1457,44 @@
      "at": null
     }
    },
-   "alert_level": "none"
+   "alert_level": "none",
+   "recovery": {
+    "attempts": [
+     {
+      "at": "2026-11-26T14:00:00Z",
+      "result": "access_test",
+      "reason": "direct read refused by site bot protection: dell.com (Akamai)"
+     }
+    ],
+    "last_result": "blocked",
+    "last_reason": "site bot protection: dell.com (Akamai)",
+    "next_check_after": null,
+    "parked": false,
+    "alternatives_to_try": "WebFetch of the same page; manufacturer/official store page for the same item; another authorised UK retailer's product page; provider's official pricing, help, blog or newsroom page"
+   }
   }
  ],
  "policy": "No Strong/Exceptional without a primary-source check (V3). Deal articles are for discovery only. Unconfirmed prices are UNVERIFIED and not ranked.",
  "policy_cd": "C/D: four checks (price, exact_config, stock_purchasable, london_fulfilment). A category page is price discovery only. BUY NOW only when all four are verified and the rating is Exceptional.",
- "last_checked": "2026-11-27T14:50Z"
+ "last_checked": "2026-11-27T14:50Z",
+ "workflow": {
+  "last_deep_cycle_at": null,
+  "deep_cycles_done": 0,
+  "discovery_rotation": [
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "rules": "Every run: monitor V3 deals. Deep cycle (>=2h45m since the last one): recover up to 8 due leads, then discover new deals in all four sections. Run deal-intel/tools/dealstate.py plan."
+ },
+ "alerts_log": [
+  {
+   "deal_id": "iphone-air-jl",
+   "level": "buy_now",
+   "amount": 799.0,
+   "at": "2026-11-26T16:46:04Z",
+   "note": "seeded from commit 5c60672; push delivery not independently confirmed"
+  }
+ ]
 }
