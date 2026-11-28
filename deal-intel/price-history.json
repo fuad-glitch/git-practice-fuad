@@ -130,6 +130,16 @@
     "label": null,
     "stock": "yes",
     "note": null
+   },
+   {
+    "at": "2026-11-28T03:45:46Z",
+    "amount": 99.0,
+    "currency": "USD",
+    "type": "seller_page",
+    "url": "https://elevenlabs.io/pricing",
+    "label": null,
+    "stock": "yes",
+    "note": null
    }
   ],
   "hostinger-kvm1": [
@@ -262,6 +272,16 @@
     "label": null,
     "stock": "yes",
     "note": null
+   },
+   {
+    "at": "2026-11-28T03:45:46Z",
+    "amount": 155.76,
+    "currency": "USD",
+    "type": "seller_page",
+    "url": "https://www.hostinger.com/black-friday-vps-deals",
+    "label": null,
+    "stock": "yes",
+    "note": null
    }
   ],
   "ovhcloud-bf-2026": [
@@ -363,6 +383,16 @@
     "url": "https://www.ovhcloud.com/en/black-friday/",
     "label": null,
     "stock": "unknown",
+    "note": null
+   },
+   {
+    "at": "2026-11-28T03:45:46Z",
+    "amount": 33.68,
+    "currency": "USD",
+    "type": "seller_page",
+    "url": "https://www.ovhcloud.com/en/black-friday/",
+    "label": "SYS-2",
+    "stock": "yes",
     "note": null
    }
   ],
