@@ -300,6 +300,16 @@
     "label": "Creator annual first year",
     "stock": "yes",
     "note": null
+   },
+   {
+    "at": "2026-11-28T20:45:41Z",
+    "amount": 99.0,
+    "currency": "USD",
+    "type": "seller_page",
+    "url": "https://elevenlabs.io/pricing",
+    "label": null,
+    "stock": "yes",
+    "note": null
    }
   ],
   "hostinger-kvm1": [
@@ -602,6 +612,16 @@
     "label": "KVM1 24mo",
     "stock": "yes",
     "note": null
+   },
+   {
+    "at": "2026-11-28T20:45:41Z",
+    "amount": 155.76,
+    "currency": "USD",
+    "type": "seller_page",
+    "url": "https://www.hostinger.com/black-friday-vps-deals",
+    "label": null,
+    "stock": "yes",
+    "note": null
    }
   ],
   "ovhcloud-bf-2026": [
@@ -837,6 +857,16 @@
    },
    {
     "at": "2026-11-28T17:45:44Z",
+    "amount": 33.68,
+    "currency": "USD",
+    "type": "seller_page",
+    "url": "https://www.ovhcloud.com/en/black-friday/",
+    "label": null,
+    "stock": "unknown",
+    "note": null
+   },
+   {
+    "at": "2026-11-28T20:45:41Z",
     "amount": 33.68,
     "currency": "USD",
     "type": "seller_page",
@@ -1106,6 +1136,16 @@
     "label": "Sky Blue 256GB",
     "stock": "yes",
     "note": null
+   },
+   {
+    "at": "2026-11-28T20:45:41Z",
+    "amount": 799.0,
+    "currency": "GBP",
+    "type": "seller_page",
+    "url": "https://www.johnlewis.com/apple-iphone-air-ios-6-5-5g-sim-free-256gb/sky-blue/p114323266",
+    "label": null,
+    "stock": "yes",
+    "note": null
    }
   ],
   "adobe-cc-pro-57": [
@@ -1309,6 +1349,28 @@
     "url": "https://www.hostinger.com/web-hosting",
     "label": "Premium 48mo",
     "stock": "yes",
+    "note": null
+   },
+   {
+    "at": "2026-11-28T20:45:41Z",
+    "amount": 95.52,
+    "currency": "USD",
+    "type": "seller_page",
+    "url": "https://www.hostinger.com/web-hosting",
+    "label": null,
+    "stock": "yes",
+    "note": null
+   }
+  ],
+  "iphone-17-256-amazon": [
+   {
+    "at": "2026-11-28T20:45:55Z",
+    "amount": 899.0,
+    "currency": "GBP",
+    "type": "reference_rrp",
+    "url": "https://www.apple.com/uk/shop/buy-iphone/iphone-17",
+    "label": null,
+    "stock": "unknown",
     "note": null
    }
   ]
