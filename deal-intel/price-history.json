@@ -180,6 +180,16 @@
     "label": null,
     "stock": "yes",
     "note": null
+   },
+   {
+    "at": "2026-11-28T08:46:00Z",
+    "amount": 99.0,
+    "currency": "USD",
+    "type": "seller_page",
+    "url": "https://elevenlabs.io/pricing",
+    "label": null,
+    "stock": "yes",
+    "note": null
    }
   ],
   "hostinger-kvm1": [
@@ -355,6 +365,16 @@
    },
    {
     "at": "2026-11-28T07:46:09Z",
+    "amount": 155.76,
+    "currency": "USD",
+    "type": "seller_page",
+    "url": "https://www.hostinger.com/black-friday-vps-deals",
+    "label": null,
+    "stock": "yes",
+    "note": null
+   },
+   {
+    "at": "2026-11-28T08:46:00Z",
     "amount": 155.76,
     "currency": "USD",
     "type": "seller_page",
@@ -666,6 +686,16 @@
     "label": null,
     "stock": "yes",
     "note": null
+   },
+   {
+    "at": "2026-11-28T08:46:00Z",
+    "amount": 799.0,
+    "currency": "GBP",
+    "type": "seller_page",
+    "url": "https://www.johnlewis.com/apple-iphone-air-ios-6-5-5g-sim-free-256gb/sky-blue/p114323266",
+    "label": null,
+    "stock": "yes",
+    "note": null
    }
   ],
   "adobe-cc-pro-57": [
@@ -758,6 +788,16 @@
     "type": "seller_page",
     "url": "https://www.hostinger.com/web-hosting",
     "label": "Premium 48mo upfront",
+    "stock": "yes",
+    "note": null
+   },
+   {
+    "at": "2026-11-28T08:46:00Z",
+    "amount": 95.52,
+    "currency": "USD",
+    "type": "seller_page",
+    "url": "https://www.hostinger.com/web-hosting",
+    "label": null,
     "stock": "yes",
     "note": null
    }
