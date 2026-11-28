@@ -1,1996 +1,1996 @@
 {
-  "updated_utc": "2026-11-27T13:46Z",
-  "scope": "A AI subscriptions & services | B servers, hosting & cloud | C iPhone (London only) | D laptops (London only)",
-  "deals": [
-    {
-      "section": "A",
-      "id": "elevenlabs-creator-annual",
-      "product": "ElevenLabs Creator, annual",
-      "provider": "elevenlabs.io",
-      "normal_price": "$220/yr",
-      "current_price": "$99 first year",
-      "discount_pct": 55,
-      "final_cost": "$99 + card FX fees",
-      "conditions": "First year only, renews at full price; refund only if no credits used",
-      "rating": "Strong",
-      "verification": "V3",
-      "links": [
-        "https://elevenlabs.io/pricing",
-        "https://www.fastlancer.org/en/deals/elevenlabs/"
-      ],
-      "deadline": "1 Dec 2026 (seller page: until Dec 1)",
-      "status": "active",
-      "last_checked": "2026-11-28T07:46:10Z",
-      "bd_access": "Card payment; BD availability not verified",
-      "primary_source_link": "https://elevenlabs.io/pricing",
-      "last_verified_at": "2026-11-28T13:46:00Z",
-      "exact_config": "ElevenLabs Creator, annual billing, 121k credits/month, commercial licence included",
-      "payable_price": "$99 first year (card FX extra)",
-      "renewal_or_long_term_cost": "$220/yr from year 2 (list price)",
-      "eligibility": "Card; Bangladesh card acceptance not verified",
-      "limitations": "Credit-capped (~121 min TTS included, extra ~$0.18/min); first year only",
-      "provisional_rating": "Strong",
-      "deadline_utc": "2026-12-01T23:59:00Z",
-      "price_intel": {
-        "rrp": {
-          "amount": 220,
-          "currency": "USD",
-          "url": "https://elevenlabs.io/pricing",
-          "at": "2026-11-26T15:55:00Z"
-        },
-        "current_price": {
-          "amount": 99.0,
-          "currency": "USD",
-          "url": "https://elevenlabs.io/pricing",
-          "at": "2026-11-28T14:45:48Z",
-          "type": "seller_page"
-        },
-        "lowest_observed_by_us": {
-          "amount": 99,
-          "currency": "USD",
-          "at": "2026-11-26T15:55:00Z",
-          "since": "2026-11-26T15:55:00Z",
-          "observations": 24
-        },
-        "historical_low_claim": {
-          "supported": false,
-          "note": "no price-history source recorded; do not claim a historical low"
-        }
-      }
+ "updated_utc": "2026-11-27T13:46Z",
+ "scope": "A AI subscriptions & services | B servers, hosting & cloud | C iPhone (London only) | D laptops (London only)",
+ "deals": [
+  {
+   "section": "A",
+   "id": "elevenlabs-creator-annual",
+   "product": "ElevenLabs Creator, annual",
+   "provider": "elevenlabs.io",
+   "normal_price": "$220/yr",
+   "current_price": "$99 first year",
+   "discount_pct": 55,
+   "final_cost": "$99 + card FX fees",
+   "conditions": "First year only, renews at full price; refund only if no credits used",
+   "rating": "Strong",
+   "verification": "V3",
+   "links": [
+    "https://elevenlabs.io/pricing",
+    "https://www.fastlancer.org/en/deals/elevenlabs/"
+   ],
+   "deadline": "1 Dec 2026 (seller page: until Dec 1)",
+   "status": "active",
+   "last_checked": "2026-11-28T07:46:10Z",
+   "bd_access": "Card payment; BD availability not verified",
+   "primary_source_link": "https://elevenlabs.io/pricing",
+   "last_verified_at": "2026-11-28T13:46:00Z",
+   "exact_config": "ElevenLabs Creator, annual billing, 121k credits/month, commercial licence included",
+   "payable_price": "$99 first year (card FX extra)",
+   "renewal_or_long_term_cost": "$220/yr from year 2 (list price)",
+   "eligibility": "Card; Bangladesh card acceptance not verified",
+   "limitations": "Credit-capped (~121 min TTS included, extra ~$0.18/min); first year only",
+   "provisional_rating": "Strong",
+   "deadline_utc": "2026-12-01T23:59:00Z",
+   "price_intel": {
+    "rrp": {
+     "amount": 220,
+     "currency": "USD",
+     "url": "https://elevenlabs.io/pricing",
+     "at": "2026-11-26T15:55:00Z"
     },
-    {
-      "section": "A",
-      "id": "adobe-cc-pro-57",
-      "product": "Adobe Creative Cloud Pro (includes Firefly), individual",
-      "provider": "adobe.com",
-      "normal_price": "$839.99/yr",
-      "current_price": "$359.88 first year",
-      "discount_pct": 57,
-      "final_cost": "$359.88 + FX",
-      "conditions": "New subscribers only; first year; annual commitment with early-cancellation fee",
-      "rating": "Good",
-      "verification": "V3",
-      "links": [
-        "https://www.adobe.com/creativecloud/plans.html",
-        "https://www.macrumors.com/2026/11/16/adobes-black-friday-sale-2026/"
-      ],
-      "deadline": "27 Nov 2026 (page: offer ends Nov 27; confirmed 18:46Z)",
-      "status": "expired",
-      "last_checked": "2026-11-28T00:46:00Z",
-      "primary_source_link": "https://www.adobe.com/creativecloud/plans.html",
-      "last_verified_at": "2026-11-27T22:45:53Z",
-      "exact_config": "Adobe Creative Cloud Pro (includes Firefly), individual",
-      "payable_price": "US$29.99/mo first year (annual plan billed monthly)",
-      "renewal_or_long_term_cost": "Regular US$69.99/mo after year 1 (per Adobe page)",
-      "eligibility": "US store read; UK price and Bangladesh payment not verified",
-      "limitations": "Sale ends 27 Nov; UK price not read; annual commitment | 27 Nov 18:46Z: page still shows 57% off but says ends Nov 27 (deadline conflict resolved to 27 Nov). | 2026-11-27T22:45Z page still shows offer ending Nov 27; may have expired. | 23:46Z: page still states offer ends Nov 27; deadline passed, marked expired (Argentina-region view returned).",
-      "provisional_rating": "Strong (Exceptional only for existing heavy Adobe users)",
-      "recovery": {
-        "attempts": [
-          {
-            "at": "2026-11-26T14:00:00Z",
-            "result": "access_test",
-            "reason": "direct read refused by site bot protection: adobe.com (Akamai)"
-          },
-          {
-            "at": "2026-11-27T16:46:05Z",
-            "result": "verified",
-            "reason": "adobe.com plans page (US region) shows CC Pro 57% off first year, $29.99/mo vs $69.99 regular, ends Nov 27; UK price not read"
-          }
-        ],
-        "last_result": "verified",
-        "last_reason": "adobe.com plans page (US region) shows CC Pro 57% off first year, $29.99/mo vs $69.99 regular, ends Nov 27; UK price not read",
-        "parked": false,
-        "alternatives_to_try": "WebFetch of the same page; manufacturer/official store page for the same item; another authorised UK retailer's product page; provider's official pricing, help, blog or newsroom page"
-      },
-      "price_intel": {
-        "current_price": {
-          "amount": 29.99,
-          "currency": "USD",
-          "url": "https://www.adobe.com/creativecloud/plans.html",
-          "at": "2026-11-27T22:45:53Z",
-          "type": "seller_page"
-        },
-        "lowest_observed_by_us": {
-          "amount": 29.99,
-          "currency": "USD",
-          "at": "2026-11-27T16:46:05Z",
-          "since": "2026-11-27T16:46:05Z",
-          "observations": 7
-        },
-        "historical_low_claim": {
-          "supported": false,
-          "note": "no price-history source recorded; do not claim a historical low"
-        },
-        "rrp": {
-          "amount": 69.99,
-          "currency": "USD",
-          "url": "https://www.adobe.com/creativecloud/plans.html",
-          "at": "2026-11-27T16:46:05Z"
-        }
-      }
+    "current_price": {
+     "amount": 99.0,
+     "currency": "USD",
+     "url": "https://elevenlabs.io/pricing",
+     "at": "2026-11-28T15:45:52Z",
+     "type": "seller_page"
     },
-    {
-      "section": "A",
-      "id": "adobe-firefly-pro-50",
-      "product": "Adobe Firefly Pro",
-      "provider": "adobe.com",
-      "normal_price": "not verified",
-      "current_price": "50% off for 6 months",
-      "discount_pct": 50,
-      "final_cost": "not determined",
-      "conditions": "First 6 months only",
-      "rating": "UNVERIFIED",
-      "verification": "V1",
-      "links": [
-        "https://contentstudio.io/blog/black-friday-software-deals"
-      ],
-      "deadline": "not verified",
-      "status": "active",
-      "last_checked": "2026-11-28T00:46:00Z",
-      "primary_source_link": null,
-      "last_verified_at": null,
-      "exact_config": "Adobe Firefly Pro",
-      "payable_price": null,
-      "renewal_or_long_term_cost": null,
-      "eligibility": null,
-      "limitations": "First 6 months only",
-      "provisional_rating": "Good",
-      "recovery": {
-        "attempts": [
-          {
-            "at": "2026-11-26T14:00:00Z",
-            "result": "access_test",
-            "reason": "direct read refused by site bot protection: adobe.com (Akamai)"
-          },
-          {
-            "at": "2026-11-27T22:45:53Z",
-            "result": "blocked",
-            "reason": "Adobe plans page read lacks Firefly Pro 50% detail"
-          },
-          {
-            "at": "2026-11-28T07:46:21Z",
-            "result": "blocked",
-            "reason": "Adobe blocks automated reads; not worked around"
-          }
-        ],
-        "last_result": "blocked",
-        "last_reason": "Adobe blocks automated reads; not worked around",
-        "next_check_after": "2026-11-28T13:46:21Z",
-        "parked": false,
-        "alternatives_to_try": "WebFetch of the same page; manufacturer/official store page for the same item; another authorised UK retailer's product page; provider's official pricing, help, blog or newsroom page"
-      }
+    "lowest_observed_by_us": {
+     "amount": 99,
+     "currency": "USD",
+     "at": "2026-11-26T15:55:00Z",
+     "since": "2026-11-26T15:55:00Z",
+     "observations": 25
     },
-    {
-      "section": "A",
-      "id": "google-ai-pro-50",
-      "product": "Google AI Pro annual / AI Plus (existing Google One subscribers)",
-      "provider": "one.google.com",
-      "normal_price": "$19.99/mo",
-      "current_price": "up to 50% off (reported)",
-      "discount_pct": 50,
-      "final_cost": "not determined",
-      "conditions": "Existing subscribers only; sources conflict on whether it is live",
-      "rating": "UNVERIFIED",
-      "verification": "V1",
-      "links": [
-        "https://whichaitopay.com/guides/ai-subscription-black-friday-deals-2026"
-      ],
-      "deadline": "26 Nov 2026 (one source)",
-      "status": "needs-recheck",
-      "last_checked": "2026-11-28T00:46:00Z",
-      "primary_source_link": null,
-      "last_verified_at": null,
-      "exact_config": "Google AI Pro annual / AI Plus (existing Google One subscribers)",
-      "payable_price": null,
-      "renewal_or_long_term_cost": null,
-      "eligibility": null,
-      "limitations": "Existing subscribers only; sources conflict on whether it is live",
-      "provisional_rating": "Good (unconfirmed)",
-      "recovery": {
-        "attempts": [
-          {
-            "at": "2026-11-27T19:46:19Z",
-            "result": "no_new_info",
-            "reason": "No new seller-page evidence this cycle"
-          },
-          {
-            "at": "2026-11-28T01:45:55Z",
-            "result": "no_new_info",
-            "reason": "one.google.com plans page has no AI Pro price or promo"
-          }
-        ],
-        "last_result": "no_new_info",
-        "last_reason": "one.google.com plans page has no AI Pro price or promo",
-        "next_check_after": "2026-11-28T07:45:55Z",
-        "parked": false
-      }
-    },
-    {
-      "section": "A",
-      "id": "github-copilot-fusion-30",
-      "product": "GitHub Copilot: 30% off Fusion model usage",
-      "provider": "github.com",
-      "normal_price": "standard usage rates",
-      "current_price": "30% off usage",
-      "discount_pct": 30,
-      "final_cost": "depends on usage",
-      "conditions": "Paid plans only; plan prices unchanged",
-      "rating": "UNVERIFIED",
-      "verification": "V2",
-      "links": [
-        "https://github.com/features/copilot/plans",
-        "https://crawl4ai.com/blog/black-friday-2026-dev-deals/"
-      ],
-      "deadline": "conflicting: 30 Nov vs 31 Dec",
-      "status": "active",
-      "last_checked": "2026-11-28T00:46:00Z",
-      "primary_source_link": null,
-      "last_verified_at": null,
-      "exact_config": "GitHub Copilot: 30% off Fusion model usage",
-      "payable_price": null,
-      "renewal_or_long_term_cost": null,
-      "eligibility": null,
-      "limitations": "Paid plans only; plan prices unchanged",
-      "provisional_rating": "Good (heavy users only)",
-      "recovery": {
-        "attempts": [
-          {
-            "at": "2026-11-27T22:46:00Z",
-            "result": "no_new_info",
-            "reason": "No official page confirming this offer found in this run; deal articles are not V3"
-          },
-          {
-            "at": "2026-11-28T07:46:21Z",
-            "result": "no_new_info",
-            "reason": "not re-read this run"
-          }
-        ],
-        "last_result": "no_new_info",
-        "last_reason": "not re-read this run",
-        "next_check_after": "2026-11-28T13:46:21Z",
-        "parked": false
-      }
-    },
-    {
-      "section": "A",
-      "id": "runway-kling-25",
-      "product": "Runway: 25% off Kling 4.0 generations",
-      "provider": "runwayml.com",
-      "normal_price": "standard credit cost",
-      "current_price": "25% off Kling generations",
-      "discount_pct": 25,
-      "final_cost": "depends on usage",
-      "conditions": "Plan prices unchanged",
-      "rating": "UNVERIFIED",
-      "verification": "V1",
-      "links": [
-        "https://www.zemith.com/en/contents/ai-black-friday-deals"
-      ],
-      "deadline": "30 Nov 2026",
-      "status": "active",
-      "last_checked": "2026-11-28T00:46:00Z",
-      "primary_source_link": null,
-      "last_verified_at": null,
-      "exact_config": "Runway: 25% off Kling 4.0 generations",
-      "payable_price": null,
-      "renewal_or_long_term_cost": null,
-      "eligibility": null,
-      "limitations": "Plan prices unchanged",
-      "provisional_rating": "Good (video-gen users only)",
-      "deadline_utc": "2026-11-30T23:59:00Z",
-      "recovery": {
-        "attempts": [
-          {
-            "at": "2026-11-27T16:46:05Z",
-            "result": "no_new_info",
-            "reason": "Not retried beyond deal article; Runway page not read this run"
-          },
-          {
-            "at": "2026-11-27T22:46:00Z",
-            "result": "no_new_info",
-            "reason": "No official page confirming this offer found in this run; deal articles are not V3"
-          },
-          {
-            "at": "2026-11-28T07:46:21Z",
-            "result": "temporary",
-            "reason": "runwayml.com host not resolvable from session network"
-          },
-          {
-            "at": "2026-11-28T10:45:57Z",
-            "result": "temporary",
-            "reason": "runwayml.com host not resolvable from session network"
-          },
-          {
-            "at": "2026-11-28T12:46:00Z",
-            "result": "no_new_info",
-            "reason": "Not rechecked beyond prior; no official page read this cycle"
-          },
-          {
-            "at": "2026-11-28T13:46:07Z",
-            "result": "temporary",
-            "reason": "runwayml.com redirects to runway.com which does not resolve from session network"
-          },
-          {
-            "at": "2026-11-28T14:46:04Z",
-            "result": "temporary",
-            "reason": "runwayml.com redirects to runway.com, host not resolvable from session network"
-          }
-        ],
-        "last_result": "temporary",
-        "last_reason": "runwayml.com redirects to runway.com, host not resolvable from session network",
-        "next_check_after": "2026-11-28T17:46:04Z",
-        "parked": false
-      }
-    },
-    {
-      "section": "A",
-      "id": "perplexity-credits",
-      "product": "Perplexity Pro: $40 bonus Computer credits",
-      "provider": "perplexity.ai",
-      "normal_price": "$20/mo ($17/mo yearly)",
-      "current_price": "no price cut; $40 bonus credits",
-      "discount_pct": 0,
-      "final_cost": "$200/yr",
-      "conditions": "Bonus credits, not a discount",
-      "rating": "Not worthwhile as a deal",
-      "verification": "V1",
-      "links": [
-        "https://www.zemith.com/en/contents/ai-black-friday-deals"
-      ],
-      "deadline": "not verified",
-      "status": "info",
-      "last_checked": "2026-11-28T00:46:00Z",
-      "primary_source_link": null,
-      "last_verified_at": null,
-      "exact_config": "Perplexity Pro: $40 bonus Computer credits",
-      "payable_price": null,
-      "renewal_or_long_term_cost": null,
-      "eligibility": null,
-      "limitations": "Bonus credits, not a discount"
-    },
-    {
-      "section": "A",
-      "id": "appsumo-headroom",
-      "product": "Headroom lifetime deal (context compression for Claude Code/Codex)",
-      "provider": "AppSumo",
-      "normal_price": "not verified",
-      "current_price": "from $34 one-time",
-      "discount_pct": null,
-      "final_cost": "$34",
-      "conditions": "Lifetime-deal vendor risk; AppSumo 60-day refund (standard policy, verify)",
-      "rating": "UNVERIFIED",
-      "verification": "V1",
-      "links": [
-        "https://appsumo.com/collections/black-friday-2026-all-drops/"
-      ],
-      "deadline": "27 Nov 2026 (listing)",
-      "status": "needs-recheck",
-      "last_checked": "2026-11-28T00:46:00Z",
-      "primary_source_link": null,
-      "last_verified_at": null,
-      "exact_config": "Headroom lifetime deal (context compression for Claude Code/Codex)",
-      "payable_price": null,
-      "renewal_or_long_term_cost": null,
-      "eligibility": null,
-      "limitations": "Lifetime-deal vendor risk; AppSumo 60-day refund (standard policy, verify)",
-      "provisional_rating": "Good",
-      "deadline_utc": "2026-11-27T23:59:00Z",
-      "recovery": {
-        "attempts": [
-          {
-            "at": "2026-11-27T16:46:05Z",
-            "result": "blocked",
-            "reason": "appsumo.com not resolvable from session network"
-          },
-          {
-            "at": "2026-11-28T01:45:55Z",
-            "result": "temporary",
-            "reason": "appsumo.com not resolvable in session network"
-          },
-          {
-            "at": "2026-11-28T04:46:30Z",
-            "result": "blocked",
-            "reason": "host not resolvable in session network (not allowlisted); no alternative official page found"
-          }
-        ],
-        "last_result": "blocked",
-        "last_reason": "host not resolvable in session network (not allowlisted); no alternative official page found",
-        "next_check_after": "2026-11-28T10:46:30Z",
-        "parked": false
-      }
-    },
-    {
-      "section": "A",
-      "id": "cometapi-28",
-      "product": "CometAPI: up to 28% below official API price on 14 models",
-      "provider": "cometapi.com",
-      "normal_price": "official API list prices",
-      "current_price": "up to 28% off",
-      "discount_pct": 28,
-      "final_cost": "depends on usage",
-      "conditions": "Third-party API reseller: data-handling and reliability risk; not an official provider",
-      "rating": "UNVERIFIED",
-      "verification": "V1",
-      "links": [
-        "https://www.cometapi.com/cometapi-black-friday-2026-preview/"
-      ],
-      "deadline": "2 Dec 2026",
-      "status": "active",
-      "last_checked": "2026-11-28T00:46:00Z",
-      "primary_source_link": null,
-      "last_verified_at": null,
-      "exact_config": "CometAPI: up to 28% below official API price on 14 models",
-      "payable_price": null,
-      "renewal_or_long_term_cost": null,
-      "eligibility": null,
-      "limitations": "Third-party API reseller: data-handling and reliability risk; not an official provider",
-      "provisional_rating": "Good (with caution)",
-      "deadline_utc": "2026-12-02T23:59:00Z",
-      "recovery": {
-        "attempts": [
-          {
-            "at": "2026-11-27T16:46:05Z",
-            "result": "blocked",
-            "reason": "cometapi.com not resolvable from session network"
-          },
-          {
-            "at": "2026-11-28T01:45:55Z",
-            "result": "temporary",
-            "reason": "host cometapi.com not resolvable in session network (allowlist)"
-          },
-          {
-            "at": "2026-11-28T04:46:30Z",
-            "result": "blocked",
-            "reason": "host not resolvable in session network (not allowlisted); no alternative official page found"
-          },
-          {
-            "at": "2026-11-28T12:46:00Z",
-            "result": "no_new_info",
-            "reason": "Not rechecked beyond prior; no official page read this cycle"
-          },
-          {
-            "at": "2026-11-28T13:46:07Z",
-            "result": "temporary",
-            "reason": "www.cometapi.com does not resolve from session network; needs allowing in network settings"
-          },
-          {
-            "at": "2026-11-28T14:46:04Z",
-            "result": "temporary",
-            "reason": "cometapi.com host not resolvable from session network"
-          }
-        ],
-        "last_result": "temporary",
-        "last_reason": "cometapi.com host not resolvable from session network",
-        "next_check_after": "2026-11-28T17:46:04Z",
-        "parked": false
-      }
-    },
-    {
-      "section": "A",
-      "id": "llmgateway-50",
-      "product": "LLM Gateway: 50% off credits, code BLACKFRIDAY",
-      "provider": "llmgateway",
-      "normal_price": "face value",
-      "current_price": "50% bonus/discount on credits",
-      "discount_pct": 50,
-      "final_cost": "not determined",
-      "conditions": "No dates published; third-party gateway",
-      "rating": "UNVERIFIED",
-      "verification": "V1",
-      "links": [
-        "https://llm.svc-utility-belt.optimizely.com/blog/black-friday-llmgateway-credits"
-      ],
-      "deadline": "not verified",
-      "status": "watch",
-      "last_checked": "2026-11-28T00:46:00Z",
-      "primary_source_link": null,
-      "last_verified_at": null,
-      "exact_config": "LLM Gateway: 50% off credits, code BLACKFRIDAY",
-      "payable_price": null,
-      "renewal_or_long_term_cost": null,
-      "eligibility": null,
-      "limitations": "No dates published; third-party gateway",
-      "provisional_rating": "Watch"
-    },
-    {
-      "section": "A",
-      "id": "no-sale-major-ai",
-      "product": "Claude Pro/Max, ChatGPT Plus/Pro, Cursor, Midjourney, DeepSeek",
-      "provider": "official sites",
-      "normal_price": "Claude Pro $20/mo or $200/yr; Midjourney Basic $10/mo or $96/yr",
-      "current_price": "no Black Friday discount found",
-      "discount_pct": 0,
-      "final_cost": "-",
-      "conditions": "Annual billing is the only saving",
-      "rating": "n/a",
-      "verification": "V2",
-      "links": [
-        "https://whizi.io/resources/ai-black-friday-deals/",
-        "https://geotoolbox.ai/blog/black-friday-ai-deals"
-      ],
-      "deadline": "not verified",
-      "status": "info",
-      "last_checked": "2026-11-28T00:46:00Z",
-      "primary_source_link": null,
-      "last_verified_at": null,
-      "exact_config": "Claude Pro/Max, ChatGPT Plus/Pro, Cursor, Midjourney, DeepSeek",
-      "payable_price": null,
-      "renewal_or_long_term_cost": null,
-      "eligibility": null,
-      "limitations": "Annual billing is the only saving"
-    },
-    {
-      "section": "B",
-      "id": "ovhcloud-bf-2026",
-      "product": "OVHcloud Black Friday: VPS, dedicated (Kimsufi/So You Start), web, domains",
-      "provider": "ovhcloud.com",
-      "normal_price": "$42.10/mo",
-      "current_price": "Kimsufi KS-LE-1 $17/mo shown under a Black Friday label (page undated)",
-      "discount_pct": 20,
-      "final_cost": "not determined",
-      "conditions": "Check setup fees and minimum commitment per server",
-      "rating": "Good",
-      "verification": "V3",
-      "links": [
-        "https://www.ovhcloud.com/en/black-friday/",
-        "https://community.ovhcloud.com/t/offres-le-black-friday-ovhcloud-2026-est-lance-vps-serveurs-dedies-web-domaines-en-promo/54351",
-        "https://eco.us.ovhcloud.com/kimsufi/"
-      ],
-      "deadline": "1 Dec 2026 (pepper.pl)",
-      "status": "active",
-      "last_checked": "2026-11-28T07:46:10Z",
-      "primary_source_link": "https://www.ovhcloud.com/en/black-friday/",
-      "last_verified_at": "2026-11-28T13:46:00Z",
-      "exact_config": "OVHcloud SYS-2 dedicated: Xeon-D 2141I 8c/16t, 32-128GB DDR4 ECC, 2x512GB-2x1.92TB NVMe soft RAID, 1Gbps",
-      "payable_price": "$33.68/mo first year (was $42.10, 20% off); setup fee not stated on page",
-      "renewal_or_long_term_cost": "Reverts to ~$42.10/mo after first year (page list price)",
-      "eligibility": "Global; Bangladesh card/PayPal acceptance not verified",
-      "limitations": "Entry config price; RAM/storage options change price; end date not stated on page. Also VPS 2027 from $4.54/mo (up to 8 vCores/24GB/200GB NVMe, 28 locations, unlimited traffic). Rise-4 $177 (15% off). 27 Nov re-read: no setup fee listed for SYS-2. | 27 Nov 18:46Z: page re-read but showed VPS 2027 from $4.54/mo + free backups 3 months; Kimsufi $17 price not visible, so not re-confirmed (last_verified_at unchanged). | 23:46Z: page read truncated; Kimsufi/SYS-2 price not visible, not re-confirmed (last_verified_at unchanged). | 00:46Z: SYS-2 $33.68 (was $42.10) re-read; page truncated, Kimsufi KS-LE-1 not visible. | 01:46Z: SYS-2 $33.68 re-read, SYS-GAME-1 $47.01 (was $55.30); no Kimsufi listing visible; end date not on page. last_verified_at updated. | 04:50Z: SYS-2 $33.68/mo read again; end date not shown (page truncated), setup fees not stated. | 2026-11-28T07:46Z: SYS-2 $33.68/mo first year re-read (20% off $42.10), no setup fee stated, end date not shown on page; last_verified_at refreshed. [28 Nov 08:50Z re-read: page now lists VPS 2027 from $4.54/mo; $33.68 tier not re-confirmed, last_verified_at unchanged]",
-      "provisional_rating": "Good",
-      "deadline_utc": "2026-12-01T23:59:00Z",
-      "price_intel": {
-        "previous_retailer_price": {
-          "amount": 42.1,
-          "currency": "USD",
-          "url": "https://www.ovhcloud.com/en/black-friday/",
-          "at": "2026-11-27T14:50:00Z"
-        },
-        "current_price": {
-          "amount": 33.68,
-          "currency": "USD",
-          "url": "https://www.ovhcloud.com/en/black-friday/",
-          "at": "2026-11-28T14:45:48Z",
-          "type": "seller_page"
-        },
-        "lowest_observed_by_us": {
-          "amount": 33.68,
-          "currency": "USD",
-          "at": "2026-11-27T14:50:00Z",
-          "since": "2026-11-27T14:50:00Z",
-          "observations": 20
-        },
-        "historical_low_claim": {
-          "supported": false,
-          "note": "no price-history source recorded; do not claim a historical low"
-        }
-      }
-    },
-    {
-      "section": "B",
-      "id": "contabo-20",
-      "product": "Contabo Cloud VPS (Core/Performance)",
-      "provider": "contabo.com",
-      "normal_price": "not verified",
-      "current_price": "up to 20% off, from $5.28/mo",
-      "discount_pct": 20,
-      "final_cost": "not determined",
-      "conditions": "Discount reported tied to a 24-month term; Contabo is known for oversold CPU (reputation, check reviews)",
-      "rating": "UNVERIFIED",
-      "verification": "V1",
-      "links": [
-        "https://www.newcoupons.info/contabo-black-friday-2026-deals/",
-        "https://cybernews.com/best-web-hosting/vps-black-friday-deals/"
-      ],
-      "deadline": "not verified",
-      "status": "active",
-      "last_checked": "2026-11-28T00:46:00Z",
-      "primary_source_link": null,
-      "last_verified_at": null,
-      "exact_config": "Contabo Cloud VPS (Core/Performance)",
-      "payable_price": null,
-      "renewal_or_long_term_cost": null,
-      "eligibility": null,
-      "limitations": "Discount reported tied to a 24-month term; Contabo is known for oversold CPU (reputation, check reviews)",
-      "provisional_rating": "Good",
-      "recovery": {
-        "attempts": [
-          {
-            "at": "2026-11-26T14:00:00Z",
-            "result": "access_test",
-            "reason": "direct read refused by site bot protection: contabo.com (Cloudflare)"
-          },
-          {
-            "at": "2026-11-27T22:45:53Z",
-            "result": "blocked",
-            "reason": "Contabo blocks automated reads; not retried via bypass"
-          },
-          {
-            "at": "2026-11-28T07:46:20Z",
-            "result": "temporary",
-            "reason": "contabo.com host not resolvable from session network (not allowed domain)"
-          }
-        ],
-        "last_result": "temporary",
-        "last_reason": "contabo.com host not resolvable from session network (not allowed domain)",
-        "next_check_after": "2026-11-28T08:46:20Z",
-        "parked": false,
-        "alternatives_to_try": "WebFetch of the same page; manufacturer/official store page for the same item; another authorised UK retailer's product page; provider's official pricing, help, blog or newsroom page"
-      }
-    },
-    {
-      "section": "B",
-      "id": "hostinger-kvm1",
-      "product": "Hostinger KVM 1 VPS (4 GB RAM)",
-      "provider": "hostinger.com",
-      "normal_price": "$19.49/mo list; renews $11.99/mo",
-      "current_price": "$6.49/mo, 24mo",
-      "discount_pct": 67,
-      "final_cost": "not determined",
-      "conditions": "24-month prepaid term; renewal higher",
-      "rating": "Good",
-      "verification": "V3",
-      "links": [
-        "https://www.hostinger.com/black-friday-web-hosting-deals"
-      ],
-      "deadline": "14 Dec 2026 (FAQ)",
-      "status": "active",
-      "last_checked": "2026-11-28T07:46:10Z",
-      "primary_source_link": "https://www.hostinger.com/black-friday-vps-deals",
-      "last_verified_at": "2026-11-28T13:46:00Z",
-      "exact_config": "KVM 1: 1 vCPU, 4GB RAM, 50GB NVMe, 4TB bandwidth (KVM 2: 2 vCPU/8GB/100GB, $8.79/mo, renews $14.99)",
-      "payable_price": "$155.76 upfront for 24 months ($6.49/mo; list $19.49)",
-      "renewal_or_long_term_cost": "$11.99/mo after 24 months",
-      "eligibility": "Card/PayPal not verified for Bangladesh",
-      "limitations": "24-month prepay; 1 vCPU shared is small for n8n+DB; cancel-anytime per page, refund terms not read | 18:46Z: re-read, unchanged; page says campaign 19 Oct-14 Dec. | 2026-11-27T22:45Z page: renews $11.99/mo; offer runs to 14 Dec. | 00:46Z: re-read, unchanged; FAQ to 14 Dec, structured data says 2027-11-27 (conflict). | 01:46Z: FAQ end 14 Dec; JSON-LD says 27 Nov 2027 (conflict).",
-      "provisional_rating": "Good",
-      "deadline_utc": "2026-12-14T23:59:00Z",
-      "price_intel": {
-        "rrp": {
-          "amount": 19.49,
-          "currency": "USD",
-          "url": "https://www.hostinger.com/black-friday-vps-deals",
-          "at": "2026-11-26T15:55:00Z"
-        },
-        "current_price": {
-          "amount": 155.76,
-          "currency": "USD",
-          "url": "https://www.hostinger.com/black-friday-vps-deals",
-          "at": "2026-11-28T14:45:48Z",
-          "type": "seller_page"
-        },
-        "lowest_observed_by_us": {
-          "amount": 6.49,
-          "currency": "USD",
-          "at": "2026-11-26T15:55:00Z",
-          "since": "2026-11-26T15:55:00Z",
-          "observations": 24
-        },
-        "historical_low_claim": {
-          "supported": false,
-          "note": "no price-history source recorded; do not claim a historical low"
-        }
-      }
-    },
-    {
-      "section": "B",
-      "id": "hostinger-web-premium",
-      "product": "Hostinger Premium web hosting",
-      "provider": "hostinger.com",
-      "normal_price": "$10.99/mo renewal",
-      "current_price": "$1.99/mo",
-      "discount_pct": 82,
-      "final_cost": "$95.52 for 48 months, then $10.99/mo",
-      "conditions": "48-month prepay; renewal 5.5x the promo",
-      "rating": "Good",
-      "verification": "V3",
-      "links": [
-        "https://gauravtiwari.org/best-web-hosting-black-friday-deals/"
-      ],
-      "deadline": "14 Dec 2026",
-      "status": "active",
-      "last_checked": "2026-11-28T07:46:10Z",
-      "primary_source_link": "https://www.hostinger.com/web-hosting",
-      "last_verified_at": "2026-11-28T13:46:00Z",
-      "exact_config": "Hostinger Premium web hosting, 48-month term",
-      "payable_price": "$95.52 upfront for 48 months ($1.99/mo)",
-      "renewal_or_long_term_cost": "Renews $10.99/mo for the same term",
-      "eligibility": "Global; card/PayPal not verified; 30-day refund",
-      "limitations": "Shared web hosting, not suited to AI agents/n8n/DBs; offer countdown ~8d16h; Hostinger credits doubled to 500; why_unverified cleared 28 Nov.",
-      "provisional_rating": "Good (only if you need 4 years of shared hosting)",
-      "deadline_utc": "2026-12-14T23:59:00Z",
-      "recovery": {
-        "attempts": [
-          {
-            "at": "2026-11-27T16:46:05Z",
-            "result": "no_new_info",
-            "reason": "Not retried this run"
-          },
-          {
-            "at": "2026-11-27T22:46:00Z",
-            "result": "no_new_info",
-            "reason": "No official page confirming this offer found in this run; deal articles are not V3"
-          },
-          {
-            "at": "2026-11-28T07:46:20Z",
-            "result": "verified",
-            "reason": "hostinger.com/web-hosting read: Premium $1.99/mo 48mo, $95.52 upfront, renews $10.99/mo, 30-day refund"
-          },
-          {
-            "at": "2026-11-28T10:45:57Z",
-            "result": "verified",
-            "reason": "re-read ok"
-          },
-          {
-            "at": "2026-11-28T12:46:00Z",
-            "result": "no_new_info",
-            "reason": "Not rechecked beyond prior; no official page read this cycle"
-          },
-          {
-            "at": "2026-11-28T13:46:07Z",
-            "result": "verified",
-            "reason": "Re-read hostinger.com/web-hosting: Premium $1.99/mo 48mo, $95.52 upfront, renews $10.99/mo"
-          },
-          {
-            "at": "2026-11-28T14:46:04Z",
-            "result": "verified",
-            "reason": "re-read hostinger.com/web-hosting: Premium $1.99/mo 48mo, $95.52 upfront, renews $10.99/mo"
-          }
-        ],
-        "last_result": "verified",
-        "last_reason": "re-read hostinger.com/web-hosting: Premium $1.99/mo 48mo, $95.52 upfront, renews $10.99/mo",
-        "parked": false
-      },
-      "price_intel": {
-        "current_price": {
-          "amount": 95.52,
-          "currency": "USD",
-          "url": "https://www.hostinger.com/web-hosting",
-          "at": "2026-11-28T14:46:04Z",
-          "type": "seller_page"
-        },
-        "lowest_observed_by_us": {
-          "amount": 1.99,
-          "currency": "USD",
-          "at": "2026-11-28T09:45:51Z",
-          "since": "2026-11-28T07:46:20Z",
-          "observations": 7
-        },
-        "historical_low_claim": {
-          "supported": false,
-          "note": "no price-history source recorded; do not claim a historical low"
-        }
-      }
-    },
-    {
-      "section": "B",
-      "id": "hostinger-com-001",
-      "product": "Hostinger .com domain $0.01",
-      "provider": "hostinger.com",
-      "normal_price": "$19.99/yr renewal",
-      "current_price": "$0.01 first year",
-      "discount_pct": null,
-      "final_cost": "~$40 over 3 years (EST: $0.01 + 2 x $19.99)",
-      "conditions": "Requires a 3-year term; renewal $19.99 is above Cloudflare at-cost .com pricing",
-      "rating": "UNVERIFIED",
-      "verification": "V1",
-      "links": [
-        "https://gauravtiwari.org/deal/domain-black-friday-deals/"
-      ],
-      "deadline": "14 Dec 2026",
-      "status": "active",
-      "last_checked": "2026-11-28T00:46:00Z",
-      "primary_source_link": null,
-      "last_verified_at": null,
-      "exact_config": "Hostinger .com domain $0.01",
-      "payable_price": null,
-      "renewal_or_long_term_cost": null,
-      "eligibility": null,
-      "limitations": "Requires a 3-year term; renewal $19.99 is above Cloudflare at-cost .com pricing",
-      "provisional_rating": "Not worthwhile",
-      "deadline_utc": "2026-12-14T23:59:00Z"
-    },
-    {
-      "section": "B",
-      "id": "namecheap-com",
-      "product": "Namecheap .com first year",
-      "provider": "namecheap.com",
-      "normal_price": "~$16-18/yr renewal",
-      "current_price": "~$5.98-6.98 (pattern; not live per one source)",
-      "discount_pct": null,
-      "final_cost": "not determined",
-      "conditions": "First year only",
-      "rating": "UNVERIFIED",
-      "verification": "V1",
-      "links": [
-        "https://www.devtoolrank.com/review/black-friday-domain-server-deals-2026-namecheap-discount"
-      ],
-      "deadline": "not verified",
-      "status": "watch",
-      "last_checked": "2026-11-28T00:46:00Z",
-      "primary_source_link": null,
-      "last_verified_at": null,
-      "exact_config": "Namecheap .com first year",
-      "payable_price": null,
-      "renewal_or_long_term_cost": null,
-      "eligibility": null,
-      "limitations": "First year only",
-      "provisional_rating": "Watch",
-      "recovery": {
-        "attempts": [
-          {
-            "at": "2026-11-26T14:00:00Z",
-            "result": "access_test",
-            "reason": "direct read refused by site bot protection: namecheap.com (Cloudflare)"
-          },
-          {
-            "at": "2026-11-28T01:45:55Z",
-            "result": "blocked",
-            "reason": "Namecheap 403 on direct fetch; no bypass"
-          }
-        ],
-        "last_result": "blocked",
-        "last_reason": "Namecheap 403 on direct fetch; no bypass",
-        "next_check_after": "2026-11-28T07:45:55Z",
-        "parked": false,
-        "alternatives_to_try": "WebFetch of the same page; manufacturer/official store page for the same item; another authorised UK retailer's product page; provider's official pricing, help, blog or newsroom page"
-      }
-    },
-    {
-      "section": "B",
-      "id": "hetzner-auction",
-      "product": "Hetzner Server Auction (used dedicated servers)",
-      "provider": "hetzner.com",
-      "normal_price": "-",
-      "current_price": "Dutch-auction prices, no setup fee, no minimum term",
-      "discount_pct": null,
-      "final_cost": "varies",
-      "conditions": "Not a Black Friday sale; ID verification may be required for new accounts",
-      "rating": "Good (standing value, not a discount)",
-      "verification": "V2",
-      "links": [
-        "https://www.hetzner.com/sb/",
-        "https://docs.hetzner.com/robot/general/server-auction-faqs"
-      ],
-      "deadline": "not verified",
-      "status": "info",
-      "last_checked": "2026-11-28T00:46:00Z",
-      "primary_source_link": null,
-      "last_verified_at": null,
-      "exact_config": "Hetzner Server Auction (used dedicated servers)",
-      "payable_price": null,
-      "renewal_or_long_term_cost": null,
-      "eligibility": null,
-      "limitations": "Not a Black Friday sale; ID verification may be required for new accounts"
-    },
-    {
-      "section": "B",
-      "id": "no-sale-infra",
-      "product": "DigitalOcean, Vultr, Hetzner Cloud, RunPod, Vast.ai, Lambda",
-      "provider": "official sites",
-      "normal_price": "H100 ~$1.73/hr marketplace, Lambda $3.99, RunPod Secure ~$4.39",
-      "current_price": "no Black Friday sale found (RunPod/Vast checked 20 Nov)",
-      "discount_pct": 0,
-      "final_cost": "-",
-      "conditions": "-",
-      "rating": "n/a",
-      "verification": "V1",
-      "links": [
-        "https://aliteq.com/ai-black-friday-deals",
-        "https://neurohive.io/en/guides/cloud-gpu-pricing/"
-      ],
-      "deadline": "not verified",
-      "status": "info",
-      "last_checked": "2026-11-28T00:46:00Z",
-      "primary_source_link": null,
-      "last_verified_at": null,
-      "exact_config": "DigitalOcean, Vultr, Hetzner Cloud, RunPod, Vast.ai, Lambda",
-      "payable_price": null,
-      "renewal_or_long_term_cost": null,
-      "eligibility": null,
-      "limitations": "-"
-    },
-    {
-      "section": "C",
-      "id": "iphone-air-jl",
-      "product": "iPhone Air (storage not stated - verify), new",
-      "provider": "John Lewis / Amazon UK",
-      "normal_price": "£1,099 (Apple Store UK 256GB, verified)",
-      "current_price": "£799",
-      "discount_pct": 27,
-      "final_cost": "£799",
-      "conditions": "New, 1-yr Apple warranty (John Lewis adds 2-yr on some Apple; verify). John Lewis Oxford Street store, London delivery",
-      "rating": "Exceptional",
-      "verification": "V3",
-      "links": [
-        "https://www.techradar.com/phones/iphone/black-friday-iphone-deals-record-low-iphone-air-discounts-plus-big-savings-on-iphone-18-pro-iphone-duo-and-more",
-        "https://www.johnlewis.com/browse/black-friday/electrical-offers/mobile-phone-offers/apple/_/N-7du3Z1z13zz4"
-      ],
-      "deadline": "not stated by seller",
-      "status": "active",
-      "last_checked": "2026-11-28T07:46:10Z",
-      "primary_source_link": "https://www.johnlewis.com/apple-iphone-air-ios-6-5-5g-sim-free-256gb/sky-blue/p114323266",
-      "last_verified_at": "2026-11-28T13:46:00Z",
-      "exact_config": "iPhone Air 256GB, Sky Blue, new, eSIM-only",
-      "payable_price": "£799.00 (delivery promo code per page)",
-      "renewal_or_long_term_cost": "n/a; 2-year guarantee labelled at John Lewis",
-      "eligibility": "UK retail; London delivery/John Lewis Oxford St collection (store availability not checked); UK payment",
-      "limitations": "Light Gold out of stock; Sky Blue add-to-basket shown, no stock count; deadline not stated; London store C&C availability not named; eSIM-only 27 Nov 08:50Z recheck: page text truncated, price/stock not readable this run (prior V3 read stands). 27 Nov 12:50Z: page text again truncated (nav only); Apple UK ref £1,099 re-read. 2026-11-27T13:46Z: price £799, Sky Blue add-to-basket, London M25 delivery re-read (unchanged). | 2026-11-27T22:45Z re-read failed (page truncated, price not in extracted text); last_verified_at unchanged. | 23:46Z: price £799 re-read; live stock/London delivery not stated on page (Sky Blue shown; Light Gold out of stock). | 2026-11-28T00:46Z: re-read failed (page 279k chars, product details not in extracted text); last_verified_at unchanged. | 2026-11-28T01:46Z: re-read OK, £799, add-to-basket, London M25 delivery listed. | 2026-11-28 monitor read truncated (page 279k chars); not re-confirmed. [2026-11-28T05:45Z: JL page read truncated (279k chars); last_verified_at unchanged.] | 28 Nov 12:50Z re-read truncated (page 279k chars), not re-confirmed; stale.",
-      "provisional_rating": "Strong (record low per TechRadar)",
-      "checks": {
-        "price": {
-          "verified": true,
-          "evidence": "Product page £799.00 (re-read 01:46Z)",
-          "at": "2026-11-28T07:46:10Z"
-        },
-        "exact_config": {
-          "verified": true,
-          "evidence": "Product page: iPhone Air 256GB Sky Blue SIM free",
-          "at": "2026-11-28T07:46:10Z"
-        },
-        "stock_purchasable": {
-          "verified": true,
-          "evidence": "Sky Blue selected, Add to basket shown; Light Gold out of stock; no count (re-read 06:45Z)",
-          "at": "2026-11-28T07:46:10Z"
-        },
-        "london_fulfilment": {
-          "verified": true,
-          "evidence": "Page lists Evening Delivery within London M25 £9.95, free standard delivery, Click & Collect (John Lewis shops); no postcode checker read",
-          "at": "2026-11-28T07:46:10Z"
-        }
-      },
-      "alert_level": "buy_now",
-      "reference_price_primary": {
-        "price": "£1,099.00",
-        "what": "iPhone Air 256GB, new, Apple Store UK",
-        "link": "https://www.apple.com/uk/shop/buy-iphone/iphone-air",
-        "at": "2026-11-26T16:10:00Z"
-      },
-      "price_intel": {
-        "rrp": {
-          "amount": 1099,
-          "currency": "GBP",
-          "url": "https://www.apple.com/uk/shop/buy-iphone/iphone-air",
-          "at": "2026-11-26T16:10:00Z"
-        },
-        "current_price": {
-          "amount": 799.0,
-          "currency": "GBP",
-          "url": "https://www.johnlewis.com/apple-iphone-air-ios-6-5-5g-sim-free-256gb/sky-blue/p114323266",
-          "at": "2026-11-28T14:45:48Z",
-          "type": "seller_page"
-        },
-        "lowest_observed_by_us": {
-          "amount": 799,
-          "currency": "GBP",
-          "at": "2026-11-26T16:46:00Z",
-          "since": "2026-11-26T16:46:00Z",
-          "observations": 20
-        },
-        "historical_low_claim": {
-          "supported": false,
-          "note": "no price-history source recorded; do not claim a historical low"
-        }
-      }
-    },
-    {
-      "section": "C",
-      "id": "iphone-17-pro-256-currys",
-      "product": "iPhone 17 Pro 256GB, Silver only, new (previous generation)",
-      "provider": "Currys / Amazon UK",
-      "normal_price": "£1,099",
-      "current_price": "£999",
-      "discount_pct": 9,
-      "final_cost": "£999",
-      "conditions": "Previous gen (iPhone 18 Pro is current); limited stock",
-      "rating": "UNVERIFIED",
-      "verification": "V2",
-      "links": [
-        "https://www.techradar.com/seasonal-sales/not-a-drill-amazon-is-discounting-the-iphone-17-pro-for-black-friday-but-theres-a-better-deal-at-another-retailer",
-        "https://www.forbes.com/sites/jaymcgregor/2026/11/15/apple-iphone-17-black-friday-deals-prices-iphone-17-pro-max-discount/"
-      ],
-      "deadline": "not verified",
-      "status": "active",
-      "last_checked": "2026-11-28T00:46:00Z",
-      "primary_source_link": null,
-      "last_verified_at": null,
-      "exact_config": "iPhone 17 Pro 256GB, Silver only, new (previous generation)",
-      "payable_price": null,
-      "renewal_or_long_term_cost": null,
-      "eligibility": null,
-      "limitations": "Previous gen (iPhone 18 Pro is current); limited stock",
-      "provisional_rating": "Good",
-      "checks": {
-        "price": {
-          "verified": false,
-          "evidence": null,
-          "at": null
-        },
-        "exact_config": {
-          "verified": false,
-          "evidence": null,
-          "at": null
-        },
-        "stock_purchasable": {
-          "verified": false,
-          "evidence": null,
-          "at": null
-        },
-        "london_fulfilment": {
-          "verified": false,
-          "evidence": null,
-          "at": null
-        }
-      },
-      "alert_level": "none",
-      "recovery": {
-        "attempts": [
-          {
-            "at": "2026-11-26T14:00:00Z",
-            "result": "access_test",
-            "reason": "direct read refused by site bot protection: currys.co.uk (Cloudflare)"
-          },
-          {
-            "at": "2026-11-27T19:46:19Z",
-            "result": "blocked",
-            "reason": "Currys product page HTTP 403 via WebFetch; no bypass attempted"
-          },
-          {
-            "at": "2026-11-28T04:46:31Z",
-            "result": "no_new_info",
-            "reason": "Currys blocked; Apple UK iPhone page shows no 256GB price in extracted text"
-          },
-          {
-            "at": "2026-11-28T10:45:57Z",
-            "result": "blocked",
-            "reason": "Currys returned HTTP 403"
-          }
-        ],
-        "last_result": "blocked",
-        "last_reason": "Currys returned HTTP 403",
-        "next_check_after": "2026-11-28T16:45:57Z",
-        "parked": false,
-        "alternatives_to_try": "WebFetch of the same page; manufacturer/official store page for the same item; another authorised UK retailer's product page; provider's official pricing, help, blog or newsroom page"
-      }
-    },
-    {
-      "section": "C",
-      "id": "iphone-17-pro-max-256-currys",
-      "product": "iPhone 17 Pro Max 256GB, new (previous generation)",
-      "provider": "Currys",
-      "normal_price": "£1,199",
-      "current_price": "£1,099",
-      "discount_pct": 8,
-      "final_cost": "£1,099",
-      "conditions": "Forbes: out of stock in all colours at Currys",
-      "rating": "UNVERIFIED",
-      "verification": "V1",
-      "links": [
-        "https://www.forbes.com/sites/jaymcgregor/2026/11/15/apple-iphone-17-black-friday-deals-prices-iphone-17-pro-max-discount/"
-      ],
-      "deadline": "not verified",
-      "status": "needs-recheck",
-      "last_checked": "2026-11-28T00:46:00Z",
-      "primary_source_link": null,
-      "last_verified_at": null,
-      "exact_config": "iPhone 17 Pro Max 256GB, new (previous generation)",
-      "payable_price": null,
-      "renewal_or_long_term_cost": null,
-      "eligibility": null,
-      "limitations": "Forbes: out of stock in all colours at Currys",
-      "provisional_rating": "Good (if in stock)",
-      "checks": {
-        "price": {
-          "verified": false,
-          "evidence": null,
-          "at": null
-        },
-        "exact_config": {
-          "verified": false,
-          "evidence": null,
-          "at": null
-        },
-        "stock_purchasable": {
-          "verified": false,
-          "evidence": null,
-          "at": null
-        },
-        "london_fulfilment": {
-          "verified": false,
-          "evidence": null,
-          "at": null
-        }
-      },
-      "alert_level": "none",
-      "recovery": {
-        "attempts": [
-          {
-            "at": "2026-11-26T14:00:00Z",
-            "result": "access_test",
-            "reason": "direct read refused by site bot protection: currys.co.uk (Cloudflare)"
-          },
-          {
-            "at": "2026-11-27T19:46:19Z",
-            "result": "blocked",
-            "reason": "Currys product page HTTP 403 via WebFetch; no bypass attempted"
-          },
-          {
-            "at": "2026-11-28T04:46:31Z",
-            "result": "no_new_info",
-            "reason": "Currys blocked; Apple UK iPhone page shows no 256GB price in extracted text"
-          },
-          {
-            "at": "2026-11-28T10:45:57Z",
-            "result": "blocked",
-            "reason": "Currys returned HTTP 403"
-          }
-        ],
-        "last_result": "blocked",
-        "last_reason": "Currys returned HTTP 403",
-        "next_check_after": "2026-11-28T16:45:57Z",
-        "parked": false,
-        "alternatives_to_try": "WebFetch of the same page; manufacturer/official store page for the same item; another authorised UK retailer's product page; provider's official pricing, help, blog or newsroom page"
-      }
-    },
-    {
-      "section": "C",
-      "id": "iphone-17-256-amazon",
-      "product": "iPhone 17 256GB, new",
-      "provider": "Amazon UK",
-      "normal_price": "£899 (reference not verified against Apple UK)",
-      "current_price": "£799 (+ up to £23.98 off at checkout, some colours)",
-      "discount_pct": 11,
-      "final_cost": "£775-799",
-      "conditions": "Check the reference price against Apple UK",
-      "rating": "UNVERIFIED",
-      "verification": "V1",
-      "links": [
-        "https://www.forbes.com/sites/jaymcgregor/2026/11/17/iphone-black-friday-deals-iphone-17-pro-max-deal-vs-samsung-galaxy/"
-      ],
-      "deadline": "not verified",
-      "status": "active",
-      "last_checked": "2026-11-28T00:46:00Z",
-      "primary_source_link": null,
-      "last_verified_at": null,
-      "exact_config": "iPhone 17 256GB, new",
-      "payable_price": null,
-      "renewal_or_long_term_cost": null,
-      "eligibility": null,
-      "limitations": "Check the reference price against Apple UK",
-      "provisional_rating": "Good",
-      "checks": {
-        "price": {
-          "verified": false,
-          "evidence": null,
-          "at": null
-        },
-        "exact_config": {
-          "verified": false,
-          "evidence": null,
-          "at": null
-        },
-        "stock_purchasable": {
-          "verified": false,
-          "evidence": null,
-          "at": null
-        },
-        "london_fulfilment": {
-          "verified": false,
-          "evidence": null,
-          "at": null
-        }
-      },
-      "alert_level": "none",
-      "recovery": {
-        "attempts": [
-          {
-            "at": "2026-11-26T14:00:00Z",
-            "result": "access_test",
-            "reason": "direct read refused by site bot protection: amazon.co.uk (empty 202)"
-          },
-          {
-            "at": "2026-11-27T19:46:19Z",
-            "result": "blocked",
-            "reason": "Amazon UK blocks automated reads; no bypass"
-          },
-          {
-            "at": "2026-11-28T04:46:30Z",
-            "result": "blocked",
-            "reason": "Amazon UK blocks automated reads; Apple UK page lists specs only (13in/15in M5 16GB/512GB) with no price"
-          }
-        ],
-        "last_result": "blocked",
-        "last_reason": "Amazon UK blocks automated reads; Apple UK page lists specs only (13in/15in M5 16GB/512GB) with no price",
-        "next_check_after": "2026-11-28T10:46:30Z",
-        "parked": false,
-        "alternatives_to_try": "WebFetch of the same page; manufacturer/official store page for the same item; another authorised UK retailer's product page; provider's official pricing, help, blog or newsroom page"
-      }
-    },
-    {
-      "section": "C",
-      "id": "apple-uk-giftcard",
-      "product": "Apple Store UK: £80 gift card with iPhone Air (smaller with iPhone 17/16)",
-      "provider": "Apple Store UK (Regent Street, Covent Garden, Battersea, Brompton Road)",
-      "normal_price": "Apple full price",
-      "current_price": "full price + gift card",
-      "discount_pct": null,
-      "final_cost": "full price",
-      "conditions": "27-30 Nov; gift card, not a price cut",
-      "rating": "Not worthwhile vs £799 retailer price",
-      "verification": "V1",
-      "links": [
-        "https://www.macworld.com/article/672787/apple-black-friday-2026.html"
-      ],
-      "deadline": "30 Nov 2026",
-      "status": "info",
-      "last_checked": "2026-11-28T00:46:00Z",
-      "primary_source_link": null,
-      "last_verified_at": null,
-      "exact_config": "Apple Store UK: £80 gift card with iPhone Air (smaller with iPhone 17/16)",
-      "payable_price": null,
-      "renewal_or_long_term_cost": null,
-      "eligibility": null,
-      "limitations": "27-30 Nov; gift card, not a price cut",
-      "checks": {
-        "price": {
-          "verified": false,
-          "evidence": null,
-          "at": null
-        },
-        "exact_config": {
-          "verified": false,
-          "evidence": null,
-          "at": null
-        },
-        "stock_purchasable": {
-          "verified": false,
-          "evidence": null,
-          "at": null
-        },
-        "london_fulfilment": {
-          "verified": false,
-          "evidence": null,
-          "at": null
-        }
-      },
-      "alert_level": "none"
-    },
-    {
-      "section": "D",
-      "id": "mba13-m5-amazon-uk",
-      "product": "MacBook Air 13in M5 (config not stated - verify)",
-      "provider": "Amazon UK",
-      "normal_price": "£1,299",
-      "current_price": "£1,149",
-      "discount_pct": 12,
-      "final_cost": "£1,149",
-      "conditions": "New",
-      "rating": "UNVERIFIED",
-      "verification": "V1",
-      "links": [
-        "https://www.techradar.com/seasonal-sales/black-friday-2026-laptop-deals-nov-24"
-      ],
-      "deadline": "not verified",
-      "status": "active",
-      "last_checked": "2026-11-28T00:46:00Z",
-      "primary_source_link": null,
-      "last_verified_at": null,
-      "exact_config": "MacBook Air 13in M5 (config not stated - verify)",
-      "payable_price": null,
-      "renewal_or_long_term_cost": null,
-      "eligibility": null,
-      "limitations": "New",
-      "provisional_rating": "Good",
-      "checks": {
-        "price": {
-          "verified": false,
-          "evidence": null,
-          "at": null
-        },
-        "exact_config": {
-          "verified": false,
-          "evidence": null,
-          "at": null
-        },
-        "stock_purchasable": {
-          "verified": false,
-          "evidence": null,
-          "at": null
-        },
-        "london_fulfilment": {
-          "verified": false,
-          "evidence": null,
-          "at": null
-        }
-      },
-      "alert_level": "none",
-      "recovery": {
-        "attempts": [
-          {
-            "at": "2026-11-26T14:00:00Z",
-            "result": "access_test",
-            "reason": "direct read refused by site bot protection: amazon.co.uk (empty 202)"
-          },
-          {
-            "at": "2026-11-27T19:46:19Z",
-            "result": "blocked",
-            "reason": "Amazon UK blocks automated reads; no bypass"
-          },
-          {
-            "at": "2026-11-28T04:46:30Z",
-            "result": "blocked",
-            "reason": "Amazon UK blocks automated reads; Apple UK page lists specs only (13in/15in M5 16GB/512GB) with no price"
-          },
-          {
-            "at": "2026-11-28T12:46:00Z",
-            "result": "no_new_info",
-            "reason": "Apple UK buy page lists configs but no prices; Amazon UK blocked"
-          },
-          {
-            "at": "2026-11-28T13:46:07Z",
-            "result": "no_new_info",
-            "reason": "Apple UK lists configs without prices; Amazon UK not read (bot protection)"
-          },
-          {
-            "at": "2026-11-28T14:46:04Z",
-            "result": "no_new_info",
-            "reason": "Apple UK page shows configs but no GBP price; Amazon UK blocks automated reads"
-          }
-        ],
-        "last_result": "no_new_info",
-        "last_reason": "Apple UK page shows configs but no GBP price; Amazon UK blocks automated reads",
-        "next_check_after": "2026-11-29T02:46:04Z",
-        "parked": false,
-        "alternatives_to_try": "WebFetch of the same page; manufacturer/official store page for the same item; another authorised UK retailer's product page; provider's official pricing, help, blog or newsroom page"
-      }
-    },
-    {
-      "section": "D",
-      "id": "mba15-m5",
-      "product": "MacBook Air 15in M5 (config not stated)",
-      "provider": "retailer unclear",
-      "normal_price": "£1,499",
-      "current_price": "£1,299",
-      "discount_pct": 13,
-      "final_cost": "£1,299",
-      "conditions": "Retailer to confirm",
-      "rating": "UNVERIFIED",
-      "verification": "V2",
-      "links": [
-        "https://www.tomsguide.com/computing/laptops/uk-black-friday-laptop-deals-november-19-2026"
-      ],
-      "deadline": "not verified",
-      "status": "needs-recheck",
-      "last_checked": "2026-11-28T00:46:00Z",
-      "primary_source_link": null,
-      "last_verified_at": null,
-      "exact_config": "MacBook Air 15in M5 (config not stated)",
-      "payable_price": null,
-      "renewal_or_long_term_cost": null,
-      "eligibility": null,
-      "limitations": "Retailer to confirm",
-      "provisional_rating": "Good",
-      "checks": {
-        "price": {
-          "verified": false,
-          "evidence": null,
-          "at": null
-        },
-        "exact_config": {
-          "verified": false,
-          "evidence": null,
-          "at": null
-        },
-        "stock_purchasable": {
-          "verified": false,
-          "evidence": null,
-          "at": null
-        },
-        "london_fulfilment": {
-          "verified": false,
-          "evidence": null,
-          "at": null
-        }
-      },
-      "alert_level": "none",
-      "recovery": {
-        "attempts": [
-          {
-            "at": "2026-11-27T19:46:19Z",
-            "result": "blocked",
-            "reason": "Amazon UK blocks automated reads; no bypass"
-          },
-          {
-            "at": "2026-11-28T04:46:30Z",
-            "result": "blocked",
-            "reason": "Amazon UK blocks automated reads; Apple UK page lists specs only (13in/15in M5 16GB/512GB) with no price"
-          },
-          {
-            "at": "2026-11-28T12:46:00Z",
-            "result": "no_new_info",
-            "reason": "Apple UK buy page lists configs but no prices; Amazon UK blocked"
-          },
-          {
-            "at": "2026-11-28T13:46:07Z",
-            "result": "no_new_info",
-            "reason": "Apple UK buy-mac page lists configs but no prices; no retailer price readable"
-          },
-          {
-            "at": "2026-11-28T14:46:04Z",
-            "result": "no_new_info",
-            "reason": "Apple UK buy-mac page lists M5 configs only, no GBP prices read; £160 gift card promo 27-30 Nov noted, no retailer price"
-          }
-        ],
-        "last_result": "no_new_info",
-        "last_reason": "Apple UK buy-mac page lists M5 configs only, no GBP prices read; £160 gift card promo 27-30 Nov noted, no retailer price",
-        "next_check_after": "2026-11-29T02:46:04Z",
-        "parked": false
-      }
-    },
-    {
-      "section": "D",
-      "id": "mbp14-m6-16-1tb-amazon-uk",
-      "product": "MacBook Pro 14in M6, 16GB/1TB",
-      "provider": "Amazon UK",
-      "normal_price": "£1,999 RRP",
-      "current_price": "£1,829.97",
-      "discount_pct": 8,
-      "final_cost": "£1,829.97",
-      "conditions": "New",
-      "rating": "UNVERIFIED",
-      "verification": "V1",
-      "links": [
-        "https://www.macworld.com/article/1375970/best-apple-black-friday-deals-2026-nov-25.html"
-      ],
-      "deadline": "not verified",
-      "status": "active",
-      "last_checked": "2026-11-28T00:46:00Z",
-      "primary_source_link": null,
-      "last_verified_at": null,
-      "exact_config": "MacBook Pro 14in M6, 16GB/1TB",
-      "payable_price": null,
-      "renewal_or_long_term_cost": null,
-      "eligibility": null,
-      "limitations": "New",
-      "provisional_rating": "Good",
-      "checks": {
-        "price": {
-          "verified": false,
-          "evidence": null,
-          "at": null
-        },
-        "exact_config": {
-          "verified": false,
-          "evidence": null,
-          "at": null
-        },
-        "stock_purchasable": {
-          "verified": false,
-          "evidence": null,
-          "at": null
-        },
-        "london_fulfilment": {
-          "verified": false,
-          "evidence": null,
-          "at": null
-        }
-      },
-      "alert_level": "none",
-      "recovery": {
-        "attempts": [
-          {
-            "at": "2026-11-26T14:00:00Z",
-            "result": "access_test",
-            "reason": "direct read refused by site bot protection: amazon.co.uk (empty 202)"
-          },
-          {
-            "at": "2026-11-27T16:46:05Z",
-            "result": "no_new_info",
-            "reason": "Apple UK page lists M6 14in 16GB/1TB but no prices shown; Amazon UK blocked"
-          },
-          {
-            "at": "2026-11-27T22:45:53Z",
-            "result": "blocked",
-            "reason": "Amazon UK blocks automated reads"
-          },
-          {
-            "at": "2026-11-28T07:46:21Z",
-            "result": "blocked",
-            "reason": "Amazon UK blocks automated reads; no Apple UK M6 listing found"
-          },
-          {
-            "at": "2026-11-28T10:45:57Z",
-            "result": "no_new_info",
-            "reason": "Amazon UK blocks reads; Apple UK lists M6 14in 16GB/1TB config but no price on listing page"
-          },
-          {
-            "at": "2026-11-28T12:46:00Z",
-            "result": "blocked",
-            "reason": "Amazon UK blocks automated reads"
-          },
-          {
-            "at": "2026-11-28T13:46:07Z",
-            "result": "blocked",
-            "reason": "Amazon UK blocks automated reads; not worked around"
-          },
-          {
-            "at": "2026-11-28T14:46:04Z",
-            "result": "blocked",
-            "reason": "Amazon UK blocks automated reads; not bypassed"
-          }
-        ],
-        "last_result": "blocked",
-        "last_reason": "Amazon UK blocks automated reads; not bypassed",
-        "next_check_after": "2026-11-29T02:46:04Z",
-        "parked": true,
-        "alternatives_to_try": "WebFetch of the same page; manufacturer/official store page for the same item; another authorised UK retailer's product page; provider's official pricing, help, blog or newsroom page",
-        "why_unverified": "Seller page repeatedly unreadable (Amazon UK blocks automated reads; not bypassed); no alternative primary source confirmed it. Rechecked every 12h or when discovery finds new evidence."
-      }
-    },
-    {
-      "section": "D",
-      "id": "mbp16-m5pro-amazon-uk",
-      "product": "MacBook Pro 16in M5 Pro (config not stated)",
-      "provider": "Amazon UK",
-      "normal_price": "£2,999",
-      "current_price": "£2,599",
-      "discount_pct": 13,
-      "final_cost": "£2,599",
-      "conditions": "New. Apple Store gives up to £240 gift card instead (27-30 Nov) at full price",
-      "rating": "UNVERIFIED",
-      "verification": "V1",
-      "links": [
-        "https://www.techradar.com/seasonal-sales/best-black-friday-macbook-deals-macbook-neo-macbook-air-m5-macbook-pro-m6-and-even-the-new-macbook-pro-proled-m5-pro-get-price-cuts"
-      ],
-      "deadline": "not verified",
-      "status": "active",
-      "last_checked": "2026-11-28T00:46:00Z",
-      "primary_source_link": null,
-      "last_verified_at": null,
-      "exact_config": "MacBook Pro 16in M5 Pro (config not stated)",
-      "payable_price": null,
-      "renewal_or_long_term_cost": null,
-      "eligibility": null,
-      "limitations": "New. Apple Store gives up to £240 gift card instead (27-30 Nov) at full price",
-      "provisional_rating": "Strong (for AI/dev workloads, if config is 24GB+)",
-      "checks": {
-        "price": {
-          "verified": false,
-          "evidence": null,
-          "at": null
-        },
-        "exact_config": {
-          "verified": false,
-          "evidence": null,
-          "at": null
-        },
-        "stock_purchasable": {
-          "verified": false,
-          "evidence": null,
-          "at": null
-        },
-        "london_fulfilment": {
-          "verified": false,
-          "evidence": null,
-          "at": null
-        }
-      },
-      "alert_level": "none",
-      "recovery": {
-        "attempts": [
-          {
-            "at": "2026-11-26T14:00:00Z",
-            "result": "access_test",
-            "reason": "direct read refused by site bot protection: amazon.co.uk (empty 202)"
-          },
-          {
-            "at": "2026-11-27T16:46:05Z",
-            "result": "no_new_info",
-            "reason": "Apple UK MacBook Pro page lists 16in M5 Pro 24GB/1TB but no prices; Amazon UK blocked"
-          },
-          {
-            "at": "2026-11-27T22:45:53Z",
-            "result": "blocked",
-            "reason": "Amazon UK blocks automated reads"
-          },
-          {
-            "at": "2026-11-28T07:46:21Z",
-            "result": "blocked",
-            "reason": "Amazon UK blocks automated reads; Apple UK listing page shows M5 Pro configs but no prices"
-          },
-          {
-            "at": "2026-11-28T10:45:57Z",
-            "result": "no_new_info",
-            "reason": "Amazon UK blocks reads; Apple UK 14in page shows no prices, M5 Pro 16in not listed there"
-          },
-          {
-            "at": "2026-11-28T12:46:00Z",
-            "result": "blocked",
-            "reason": "Amazon UK blocks automated reads"
-          },
-          {
-            "at": "2026-11-28T13:46:07Z",
-            "result": "blocked",
-            "reason": "Amazon UK blocks automated reads; not worked around"
-          },
-          {
-            "at": "2026-11-28T14:46:04Z",
-            "result": "blocked",
-            "reason": "Amazon UK blocks automated reads; not bypassed"
-          }
-        ],
-        "last_result": "blocked",
-        "last_reason": "Amazon UK blocks automated reads; not bypassed",
-        "next_check_after": "2026-11-29T02:46:04Z",
-        "parked": true,
-        "alternatives_to_try": "WebFetch of the same page; manufacturer/official store page for the same item; another authorised UK retailer's product page; provider's official pricing, help, blog or newsroom page",
-        "why_unverified": "Seller page repeatedly unreadable (Amazon UK blocks automated reads; not bypassed); no alternative primary source confirmed it. Rechecked every 12h or when discovery finds new evidence."
-      }
-    },
-    {
-      "section": "D",
-      "id": "backmarket-mbp14-m2pro",
-      "product": "MacBook Pro 14in M2 Pro, refurbished",
-      "provider": "Back Market UK",
-      "normal_price": "not verified",
-      "current_price": "£1,028 (extra 5% code BF5 on some models)",
-      "discount_pct": null,
-      "final_cost": "£1,028",
-      "conditions": "Refurbished, Back Market 1-yr warranty; seller grade varies",
-      "rating": "UNVERIFIED",
-      "verification": "V1",
-      "links": [
-        "https://www.backmarket.co.uk/en-gb/l/black-friday-macbook/6b0efa23-50d1-40b7-b838-358401d39515"
-      ],
-      "deadline": "30 Nov 2026",
-      "status": "active",
-      "last_checked": "2026-11-28T00:46:00Z",
-      "primary_source_link": null,
-      "last_verified_at": null,
-      "exact_config": "MacBook Pro 14in M2 Pro, refurbished",
-      "payable_price": null,
-      "renewal_or_long_term_cost": null,
-      "eligibility": null,
-      "limitations": "Refurbished, Back Market 1-yr warranty; seller grade varies",
-      "provisional_rating": "Good",
-      "checks": {
-        "price": {
-          "verified": false,
-          "evidence": null,
-          "at": null
-        },
-        "exact_config": {
-          "verified": false,
-          "evidence": null,
-          "at": null
-        },
-        "stock_purchasable": {
-          "verified": false,
-          "evidence": null,
-          "at": null
-        },
-        "london_fulfilment": {
-          "verified": false,
-          "evidence": null,
-          "at": null
-        }
-      },
-      "alert_level": "none",
-      "deadline_utc": "2026-11-30T23:59:00Z",
-      "recovery": {
-        "attempts": [
-          {
-            "at": "2026-11-27T16:46:05Z",
-            "result": "blocked",
-            "reason": "Back Market returned HTTP 403 to automated read; not bypassed"
-          },
-          {
-            "at": "2026-11-28T01:45:55Z",
-            "result": "blocked",
-            "reason": "Back Market UK 403 on direct fetch; no bypass"
-          },
-          {
-            "at": "2026-11-28T10:45:57Z",
-            "result": "blocked",
-            "reason": "Back Market UK returned HTTP 403; not bypassed"
-          },
-          {
-            "at": "2026-11-28T12:46:00Z",
-            "result": "blocked",
-            "reason": "Back Market 403 on WebFetch; no workaround"
-          },
-          {
-            "at": "2026-11-28T13:46:07Z",
-            "result": "blocked",
-            "reason": "Back Market category page returns HTTP 403"
-          },
-          {
-            "at": "2026-11-28T14:46:04Z",
-            "result": "blocked",
-            "reason": "Back Market UK category page HTTP 403 (bot protection); not bypassed"
-          }
-        ],
-        "last_result": "blocked",
-        "last_reason": "Back Market UK category page HTTP 403 (bot protection); not bypassed",
-        "next_check_after": "2026-11-29T02:46:04Z",
-        "parked": true,
-        "why_unverified": "Seller page repeatedly unreadable (Back Market UK category page HTTP 403 (bot protection); not bypassed); no alternative primary source confirmed it. Rechecked every 12h or when discovery finds new evidence."
-      }
-    },
-    {
-      "section": "D",
-      "id": "gigabyte-a16-5070-currys",
-      "product": "Gigabyte Gaming A16, RTX 5070 (CPU/RAM not stated)",
-      "provider": "Currys",
-      "normal_price": "not verified",
-      "current_price": "£1,399",
-      "discount_pct": null,
-      "final_cost": "£1,399",
-      "conditions": "Check RAM (16GB vs 32GB) for local AI use",
-      "rating": "UNVERIFIED",
-      "verification": "V1",
-      "links": [
-        "https://www.techradar.com/seasonal-sales/black-friday-2026-gaming-laptop-deals-nov-26"
-      ],
-      "deadline": "not verified",
-      "status": "active",
-      "last_checked": "2026-11-28T00:46:00Z",
-      "primary_source_link": null,
-      "last_verified_at": null,
-      "exact_config": "Gigabyte Gaming A16, RTX 5070 (CPU/RAM not stated)",
-      "payable_price": null,
-      "renewal_or_long_term_cost": null,
-      "eligibility": null,
-      "limitations": "Check RAM (16GB vs 32GB) for local AI use",
-      "provisional_rating": "Good",
-      "checks": {
-        "price": {
-          "verified": false,
-          "evidence": null,
-          "at": null
-        },
-        "exact_config": {
-          "verified": false,
-          "evidence": null,
-          "at": null
-        },
-        "stock_purchasable": {
-          "verified": false,
-          "evidence": null,
-          "at": null
-        },
-        "london_fulfilment": {
-          "verified": false,
-          "evidence": null,
-          "at": null
-        }
-      },
-      "alert_level": "none",
-      "recovery": {
-        "attempts": [
-          {
-            "at": "2026-11-26T14:00:00Z",
-            "result": "access_test",
-            "reason": "direct read refused by site bot protection: currys.co.uk (Cloudflare)"
-          },
-          {
-            "at": "2026-11-27T19:46:19Z",
-            "result": "no_new_info",
-            "reason": "No new seller-page evidence this cycle"
-          },
-          {
-            "at": "2026-11-28T04:46:31Z",
-            "result": "blocked",
-            "reason": "Currys blocks automated reads; no alternative retailer page found"
-          }
-        ],
-        "last_result": "blocked",
-        "last_reason": "Currys blocks automated reads; no alternative retailer page found",
-        "next_check_after": "2026-11-28T10:46:31Z",
-        "parked": false,
-        "alternatives_to_try": "WebFetch of the same page; manufacturer/official store page for the same item; another authorised UK retailer's product page; provider's official pricing, help, blog or newsroom page"
-      }
-    },
-    {
-      "section": "D",
-      "id": "gigabyte-a16pro-5080-amazon",
-      "product": "Gigabyte Gaming A16 Pro, RTX 5080",
-      "provider": "Amazon UK",
-      "normal_price": "not verified",
-      "current_price": "£2,199",
-      "discount_pct": null,
-      "final_cost": "£2,199",
-      "conditions": "RTX 5080 laptop GPU: 16GB VRAM (spec to verify) - strong for local LLMs",
-      "rating": "UNVERIFIED",
-      "verification": "V1",
-      "links": [
-        "https://www.techradar.com/seasonal-sales/black-friday-2026-gaming-laptop-deals-nov-26"
-      ],
-      "deadline": "not verified",
-      "status": "needs-recheck",
-      "last_checked": "2026-11-28T00:46:00Z",
-      "primary_source_link": null,
-      "last_verified_at": null,
-      "exact_config": "Gigabyte Gaming A16 Pro, RTX 5080",
-      "payable_price": null,
-      "renewal_or_long_term_cost": null,
-      "eligibility": null,
-      "limitations": "RTX 5080 laptop GPU: 16GB VRAM (spec to verify) - strong for local LLMs",
-      "provisional_rating": "Watch",
-      "checks": {
-        "price": {
-          "verified": false,
-          "evidence": null,
-          "at": null
-        },
-        "exact_config": {
-          "verified": false,
-          "evidence": null,
-          "at": null
-        },
-        "stock_purchasable": {
-          "verified": false,
-          "evidence": null,
-          "at": null
-        },
-        "london_fulfilment": {
-          "verified": false,
-          "evidence": null,
-          "at": null
-        }
-      },
-      "alert_level": "none",
-      "recovery": {
-        "attempts": [
-          {
-            "at": "2026-11-26T14:00:00Z",
-            "result": "access_test",
-            "reason": "direct read refused by site bot protection: amazon.co.uk (empty 202)"
-          },
-          {
-            "at": "2026-11-27T22:45:53Z",
-            "result": "blocked",
-            "reason": "Amazon UK blocks automated reads"
-          }
-        ],
-        "last_result": "blocked",
-        "last_reason": "Amazon UK blocks automated reads",
-        "next_check_after": "2026-11-28T04:45:53Z",
-        "parked": false,
-        "alternatives_to_try": "WebFetch of the same page; manufacturer/official store page for the same item; another authorised UK retailer's product page; provider's official pricing, help, blog or newsroom page"
-      }
-    },
-    {
-      "section": "D",
-      "id": "dell-14s-very",
-      "product": "Dell 14S (config not stated)",
-      "provider": "Very.co.uk",
-      "normal_price": "£999",
-      "current_price": "£699",
-      "discount_pct": 30,
-      "final_cost": "£699",
-      "conditions": "Verify CPU/RAM; Very delivers to London",
-      "rating": "UNVERIFIED",
-      "verification": "V1",
-      "links": [
-        "https://www.trustedreviews.com/black-friday/laptop-black-friday-deals-live"
-      ],
-      "deadline": "not verified",
-      "status": "needs-recheck",
-      "last_checked": "2026-11-28T00:46:00Z",
-      "primary_source_link": null,
-      "last_verified_at": null,
-      "exact_config": "Dell 14S (config not stated)",
-      "payable_price": null,
-      "renewal_or_long_term_cost": null,
-      "eligibility": null,
-      "limitations": "Verify CPU/RAM; Very delivers to London",
-      "provisional_rating": "Good (pending config)",
-      "checks": {
-        "price": {
-          "verified": false,
-          "evidence": null,
-          "at": null
-        },
-        "exact_config": {
-          "verified": false,
-          "evidence": null,
-          "at": null
-        },
-        "stock_purchasable": {
-          "verified": false,
-          "evidence": null,
-          "at": null
-        },
-        "london_fulfilment": {
-          "verified": false,
-          "evidence": null,
-          "at": null
-        }
-      },
-      "alert_level": "none",
-      "recovery": {
-        "attempts": [
-          {
-            "at": "2026-11-26T14:00:00Z",
-            "result": "access_test",
-            "reason": "direct read refused by site bot protection: dell.com (Akamai)"
-          },
-          {
-            "at": "2026-11-27T19:46:19Z",
-            "result": "no_new_info",
-            "reason": "No new seller-page evidence this cycle"
-          },
-          {
-            "at": "2026-11-28T07:46:21Z",
-            "result": "no_new_info",
-            "reason": "not re-read this run"
-          },
-          {
-            "at": "2026-11-28T10:45:57Z",
-            "result": "temporary",
-            "reason": "very.co.uk host not resolvable from session network"
-          }
-        ],
-        "last_result": "temporary",
-        "last_reason": "very.co.uk host not resolvable from session network",
-        "next_check_after": "2026-11-28T11:45:57Z",
-        "parked": false,
-        "alternatives_to_try": "WebFetch of the same page; manufacturer/official store page for the same item; another authorised UK retailer's product page; provider's official pricing, help, blog or newsroom page"
-      }
+    "historical_low_claim": {
+     "supported": false,
+     "note": "no price-history source recorded; do not claim a historical low"
     }
-  ],
-  "policy": "No Strong/Exceptional without a primary-source check (V3). Deal articles are for discovery only. Unconfirmed prices are UNVERIFIED and not ranked.",
-  "policy_cd": "C/D: four checks (price, exact_config, stock_purchasable, london_fulfilment). A category page is price discovery only. BUY NOW only when all four are verified and the rating is Exceptional.",
-  "last_checked": "2026-11-28T14:47:00Z",
-  "workflow": {
-    "last_deep_cycle_at": "2026-11-28T14:46:12Z",
-    "deep_cycles_done": 10,
-    "discovery_rotation": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "rules": "Every run: monitor V3 deals. Deep cycle (>=2h45m since the last one): recover up to 8 due leads, then discover new deals in all four sections. Run deal-intel/tools/dealstate.py plan."
+   }
   },
-  "alerts_log": [
-    {
-      "deal_id": "iphone-air-jl",
-      "level": "buy_now",
-      "amount": 799.0,
-      "at": "2026-11-26T16:46:04Z",
-      "note": "seeded from commit 5c60672; push delivery not independently confirmed"
+  {
+   "section": "A",
+   "id": "adobe-cc-pro-57",
+   "product": "Adobe Creative Cloud Pro (includes Firefly), individual",
+   "provider": "adobe.com",
+   "normal_price": "$839.99/yr",
+   "current_price": "$359.88 first year",
+   "discount_pct": 57,
+   "final_cost": "$359.88 + FX",
+   "conditions": "New subscribers only; first year; annual commitment with early-cancellation fee",
+   "rating": "Good",
+   "verification": "V3",
+   "links": [
+    "https://www.adobe.com/creativecloud/plans.html",
+    "https://www.macrumors.com/2026/11/16/adobes-black-friday-sale-2026/"
+   ],
+   "deadline": "27 Nov 2026 (page: offer ends Nov 27; confirmed 18:46Z)",
+   "status": "expired",
+   "last_checked": "2026-11-28T00:46:00Z",
+   "primary_source_link": "https://www.adobe.com/creativecloud/plans.html",
+   "last_verified_at": "2026-11-27T22:45:53Z",
+   "exact_config": "Adobe Creative Cloud Pro (includes Firefly), individual",
+   "payable_price": "US$29.99/mo first year (annual plan billed monthly)",
+   "renewal_or_long_term_cost": "Regular US$69.99/mo after year 1 (per Adobe page)",
+   "eligibility": "US store read; UK price and Bangladesh payment not verified",
+   "limitations": "Sale ends 27 Nov; UK price not read; annual commitment | 27 Nov 18:46Z: page still shows 57% off but says ends Nov 27 (deadline conflict resolved to 27 Nov). | 2026-11-27T22:45Z page still shows offer ending Nov 27; may have expired. | 23:46Z: page still states offer ends Nov 27; deadline passed, marked expired (Argentina-region view returned).",
+   "provisional_rating": "Strong (Exceptional only for existing heavy Adobe users)",
+   "recovery": {
+    "attempts": [
+     {
+      "at": "2026-11-26T14:00:00Z",
+      "result": "access_test",
+      "reason": "direct read refused by site bot protection: adobe.com (Akamai)"
+     },
+     {
+      "at": "2026-11-27T16:46:05Z",
+      "result": "verified",
+      "reason": "adobe.com plans page (US region) shows CC Pro 57% off first year, $29.99/mo vs $69.99 regular, ends Nov 27; UK price not read"
+     }
+    ],
+    "last_result": "verified",
+    "last_reason": "adobe.com plans page (US region) shows CC Pro 57% off first year, $29.99/mo vs $69.99 regular, ends Nov 27; UK price not read",
+    "parked": false,
+    "alternatives_to_try": "WebFetch of the same page; manufacturer/official store page for the same item; another authorised UK retailer's product page; provider's official pricing, help, blog or newsroom page"
+   },
+   "price_intel": {
+    "current_price": {
+     "amount": 29.99,
+     "currency": "USD",
+     "url": "https://www.adobe.com/creativecloud/plans.html",
+     "at": "2026-11-27T22:45:53Z",
+     "type": "seller_page"
+    },
+    "lowest_observed_by_us": {
+     "amount": 29.99,
+     "currency": "USD",
+     "at": "2026-11-27T16:46:05Z",
+     "since": "2026-11-27T16:46:05Z",
+     "observations": 7
+    },
+    "historical_low_claim": {
+     "supported": false,
+     "note": "no price-history source recorded; do not claim a historical low"
+    },
+    "rrp": {
+     "amount": 69.99,
+     "currency": "USD",
+     "url": "https://www.adobe.com/creativecloud/plans.html",
+     "at": "2026-11-27T16:46:05Z"
     }
-  ]
+   }
+  },
+  {
+   "section": "A",
+   "id": "adobe-firefly-pro-50",
+   "product": "Adobe Firefly Pro",
+   "provider": "adobe.com",
+   "normal_price": "not verified",
+   "current_price": "50% off for 6 months",
+   "discount_pct": 50,
+   "final_cost": "not determined",
+   "conditions": "First 6 months only",
+   "rating": "UNVERIFIED",
+   "verification": "V1",
+   "links": [
+    "https://contentstudio.io/blog/black-friday-software-deals"
+   ],
+   "deadline": "not verified",
+   "status": "active",
+   "last_checked": "2026-11-28T00:46:00Z",
+   "primary_source_link": null,
+   "last_verified_at": null,
+   "exact_config": "Adobe Firefly Pro",
+   "payable_price": null,
+   "renewal_or_long_term_cost": null,
+   "eligibility": null,
+   "limitations": "First 6 months only",
+   "provisional_rating": "Good",
+   "recovery": {
+    "attempts": [
+     {
+      "at": "2026-11-26T14:00:00Z",
+      "result": "access_test",
+      "reason": "direct read refused by site bot protection: adobe.com (Akamai)"
+     },
+     {
+      "at": "2026-11-27T22:45:53Z",
+      "result": "blocked",
+      "reason": "Adobe plans page read lacks Firefly Pro 50% detail"
+     },
+     {
+      "at": "2026-11-28T07:46:21Z",
+      "result": "blocked",
+      "reason": "Adobe blocks automated reads; not worked around"
+     }
+    ],
+    "last_result": "blocked",
+    "last_reason": "Adobe blocks automated reads; not worked around",
+    "next_check_after": "2026-11-28T13:46:21Z",
+    "parked": false,
+    "alternatives_to_try": "WebFetch of the same page; manufacturer/official store page for the same item; another authorised UK retailer's product page; provider's official pricing, help, blog or newsroom page"
+   }
+  },
+  {
+   "section": "A",
+   "id": "google-ai-pro-50",
+   "product": "Google AI Pro annual / AI Plus (existing Google One subscribers)",
+   "provider": "one.google.com",
+   "normal_price": "$19.99/mo",
+   "current_price": "up to 50% off (reported)",
+   "discount_pct": 50,
+   "final_cost": "not determined",
+   "conditions": "Existing subscribers only; sources conflict on whether it is live",
+   "rating": "UNVERIFIED",
+   "verification": "V1",
+   "links": [
+    "https://whichaitopay.com/guides/ai-subscription-black-friday-deals-2026"
+   ],
+   "deadline": "26 Nov 2026 (one source)",
+   "status": "needs-recheck",
+   "last_checked": "2026-11-28T00:46:00Z",
+   "primary_source_link": null,
+   "last_verified_at": null,
+   "exact_config": "Google AI Pro annual / AI Plus (existing Google One subscribers)",
+   "payable_price": null,
+   "renewal_or_long_term_cost": null,
+   "eligibility": null,
+   "limitations": "Existing subscribers only; sources conflict on whether it is live",
+   "provisional_rating": "Good (unconfirmed)",
+   "recovery": {
+    "attempts": [
+     {
+      "at": "2026-11-27T19:46:19Z",
+      "result": "no_new_info",
+      "reason": "No new seller-page evidence this cycle"
+     },
+     {
+      "at": "2026-11-28T01:45:55Z",
+      "result": "no_new_info",
+      "reason": "one.google.com plans page has no AI Pro price or promo"
+     }
+    ],
+    "last_result": "no_new_info",
+    "last_reason": "one.google.com plans page has no AI Pro price or promo",
+    "next_check_after": "2026-11-28T07:45:55Z",
+    "parked": false
+   }
+  },
+  {
+   "section": "A",
+   "id": "github-copilot-fusion-30",
+   "product": "GitHub Copilot: 30% off Fusion model usage",
+   "provider": "github.com",
+   "normal_price": "standard usage rates",
+   "current_price": "30% off usage",
+   "discount_pct": 30,
+   "final_cost": "depends on usage",
+   "conditions": "Paid plans only; plan prices unchanged",
+   "rating": "UNVERIFIED",
+   "verification": "V2",
+   "links": [
+    "https://github.com/features/copilot/plans",
+    "https://crawl4ai.com/blog/black-friday-2026-dev-deals/"
+   ],
+   "deadline": "conflicting: 30 Nov vs 31 Dec",
+   "status": "active",
+   "last_checked": "2026-11-28T00:46:00Z",
+   "primary_source_link": null,
+   "last_verified_at": null,
+   "exact_config": "GitHub Copilot: 30% off Fusion model usage",
+   "payable_price": null,
+   "renewal_or_long_term_cost": null,
+   "eligibility": null,
+   "limitations": "Paid plans only; plan prices unchanged",
+   "provisional_rating": "Good (heavy users only)",
+   "recovery": {
+    "attempts": [
+     {
+      "at": "2026-11-27T22:46:00Z",
+      "result": "no_new_info",
+      "reason": "No official page confirming this offer found in this run; deal articles are not V3"
+     },
+     {
+      "at": "2026-11-28T07:46:21Z",
+      "result": "no_new_info",
+      "reason": "not re-read this run"
+     }
+    ],
+    "last_result": "no_new_info",
+    "last_reason": "not re-read this run",
+    "next_check_after": "2026-11-28T13:46:21Z",
+    "parked": false
+   }
+  },
+  {
+   "section": "A",
+   "id": "runway-kling-25",
+   "product": "Runway: 25% off Kling 4.0 generations",
+   "provider": "runwayml.com",
+   "normal_price": "standard credit cost",
+   "current_price": "25% off Kling generations",
+   "discount_pct": 25,
+   "final_cost": "depends on usage",
+   "conditions": "Plan prices unchanged",
+   "rating": "UNVERIFIED",
+   "verification": "V1",
+   "links": [
+    "https://www.zemith.com/en/contents/ai-black-friday-deals"
+   ],
+   "deadline": "30 Nov 2026",
+   "status": "active",
+   "last_checked": "2026-11-28T00:46:00Z",
+   "primary_source_link": null,
+   "last_verified_at": null,
+   "exact_config": "Runway: 25% off Kling 4.0 generations",
+   "payable_price": null,
+   "renewal_or_long_term_cost": null,
+   "eligibility": null,
+   "limitations": "Plan prices unchanged",
+   "provisional_rating": "Good (video-gen users only)",
+   "deadline_utc": "2026-11-30T23:59:00Z",
+   "recovery": {
+    "attempts": [
+     {
+      "at": "2026-11-27T16:46:05Z",
+      "result": "no_new_info",
+      "reason": "Not retried beyond deal article; Runway page not read this run"
+     },
+     {
+      "at": "2026-11-27T22:46:00Z",
+      "result": "no_new_info",
+      "reason": "No official page confirming this offer found in this run; deal articles are not V3"
+     },
+     {
+      "at": "2026-11-28T07:46:21Z",
+      "result": "temporary",
+      "reason": "runwayml.com host not resolvable from session network"
+     },
+     {
+      "at": "2026-11-28T10:45:57Z",
+      "result": "temporary",
+      "reason": "runwayml.com host not resolvable from session network"
+     },
+     {
+      "at": "2026-11-28T12:46:00Z",
+      "result": "no_new_info",
+      "reason": "Not rechecked beyond prior; no official page read this cycle"
+     },
+     {
+      "at": "2026-11-28T13:46:07Z",
+      "result": "temporary",
+      "reason": "runwayml.com redirects to runway.com which does not resolve from session network"
+     },
+     {
+      "at": "2026-11-28T14:46:04Z",
+      "result": "temporary",
+      "reason": "runwayml.com redirects to runway.com, host not resolvable from session network"
+     }
+    ],
+    "last_result": "temporary",
+    "last_reason": "runwayml.com redirects to runway.com, host not resolvable from session network",
+    "next_check_after": "2026-11-28T17:46:04Z",
+    "parked": false
+   }
+  },
+  {
+   "section": "A",
+   "id": "perplexity-credits",
+   "product": "Perplexity Pro: $40 bonus Computer credits",
+   "provider": "perplexity.ai",
+   "normal_price": "$20/mo ($17/mo yearly)",
+   "current_price": "no price cut; $40 bonus credits",
+   "discount_pct": 0,
+   "final_cost": "$200/yr",
+   "conditions": "Bonus credits, not a discount",
+   "rating": "Not worthwhile as a deal",
+   "verification": "V1",
+   "links": [
+    "https://www.zemith.com/en/contents/ai-black-friday-deals"
+   ],
+   "deadline": "not verified",
+   "status": "info",
+   "last_checked": "2026-11-28T00:46:00Z",
+   "primary_source_link": null,
+   "last_verified_at": null,
+   "exact_config": "Perplexity Pro: $40 bonus Computer credits",
+   "payable_price": null,
+   "renewal_or_long_term_cost": null,
+   "eligibility": null,
+   "limitations": "Bonus credits, not a discount"
+  },
+  {
+   "section": "A",
+   "id": "appsumo-headroom",
+   "product": "Headroom lifetime deal (context compression for Claude Code/Codex)",
+   "provider": "AppSumo",
+   "normal_price": "not verified",
+   "current_price": "from $34 one-time",
+   "discount_pct": null,
+   "final_cost": "$34",
+   "conditions": "Lifetime-deal vendor risk; AppSumo 60-day refund (standard policy, verify)",
+   "rating": "UNVERIFIED",
+   "verification": "V1",
+   "links": [
+    "https://appsumo.com/collections/black-friday-2026-all-drops/"
+   ],
+   "deadline": "27 Nov 2026 (listing)",
+   "status": "needs-recheck",
+   "last_checked": "2026-11-28T00:46:00Z",
+   "primary_source_link": null,
+   "last_verified_at": null,
+   "exact_config": "Headroom lifetime deal (context compression for Claude Code/Codex)",
+   "payable_price": null,
+   "renewal_or_long_term_cost": null,
+   "eligibility": null,
+   "limitations": "Lifetime-deal vendor risk; AppSumo 60-day refund (standard policy, verify)",
+   "provisional_rating": "Good",
+   "deadline_utc": "2026-11-27T23:59:00Z",
+   "recovery": {
+    "attempts": [
+     {
+      "at": "2026-11-27T16:46:05Z",
+      "result": "blocked",
+      "reason": "appsumo.com not resolvable from session network"
+     },
+     {
+      "at": "2026-11-28T01:45:55Z",
+      "result": "temporary",
+      "reason": "appsumo.com not resolvable in session network"
+     },
+     {
+      "at": "2026-11-28T04:46:30Z",
+      "result": "blocked",
+      "reason": "host not resolvable in session network (not allowlisted); no alternative official page found"
+     }
+    ],
+    "last_result": "blocked",
+    "last_reason": "host not resolvable in session network (not allowlisted); no alternative official page found",
+    "next_check_after": "2026-11-28T10:46:30Z",
+    "parked": false
+   }
+  },
+  {
+   "section": "A",
+   "id": "cometapi-28",
+   "product": "CometAPI: up to 28% below official API price on 14 models",
+   "provider": "cometapi.com",
+   "normal_price": "official API list prices",
+   "current_price": "up to 28% off",
+   "discount_pct": 28,
+   "final_cost": "depends on usage",
+   "conditions": "Third-party API reseller: data-handling and reliability risk; not an official provider",
+   "rating": "UNVERIFIED",
+   "verification": "V1",
+   "links": [
+    "https://www.cometapi.com/cometapi-black-friday-2026-preview/"
+   ],
+   "deadline": "2 Dec 2026",
+   "status": "active",
+   "last_checked": "2026-11-28T00:46:00Z",
+   "primary_source_link": null,
+   "last_verified_at": null,
+   "exact_config": "CometAPI: up to 28% below official API price on 14 models",
+   "payable_price": null,
+   "renewal_or_long_term_cost": null,
+   "eligibility": null,
+   "limitations": "Third-party API reseller: data-handling and reliability risk; not an official provider",
+   "provisional_rating": "Good (with caution)",
+   "deadline_utc": "2026-12-02T23:59:00Z",
+   "recovery": {
+    "attempts": [
+     {
+      "at": "2026-11-27T16:46:05Z",
+      "result": "blocked",
+      "reason": "cometapi.com not resolvable from session network"
+     },
+     {
+      "at": "2026-11-28T01:45:55Z",
+      "result": "temporary",
+      "reason": "host cometapi.com not resolvable in session network (allowlist)"
+     },
+     {
+      "at": "2026-11-28T04:46:30Z",
+      "result": "blocked",
+      "reason": "host not resolvable in session network (not allowlisted); no alternative official page found"
+     },
+     {
+      "at": "2026-11-28T12:46:00Z",
+      "result": "no_new_info",
+      "reason": "Not rechecked beyond prior; no official page read this cycle"
+     },
+     {
+      "at": "2026-11-28T13:46:07Z",
+      "result": "temporary",
+      "reason": "www.cometapi.com does not resolve from session network; needs allowing in network settings"
+     },
+     {
+      "at": "2026-11-28T14:46:04Z",
+      "result": "temporary",
+      "reason": "cometapi.com host not resolvable from session network"
+     }
+    ],
+    "last_result": "temporary",
+    "last_reason": "cometapi.com host not resolvable from session network",
+    "next_check_after": "2026-11-28T17:46:04Z",
+    "parked": false
+   }
+  },
+  {
+   "section": "A",
+   "id": "llmgateway-50",
+   "product": "LLM Gateway: 50% off credits, code BLACKFRIDAY",
+   "provider": "llmgateway",
+   "normal_price": "face value",
+   "current_price": "50% bonus/discount on credits",
+   "discount_pct": 50,
+   "final_cost": "not determined",
+   "conditions": "No dates published; third-party gateway",
+   "rating": "UNVERIFIED",
+   "verification": "V1",
+   "links": [
+    "https://llm.svc-utility-belt.optimizely.com/blog/black-friday-llmgateway-credits"
+   ],
+   "deadline": "not verified",
+   "status": "watch",
+   "last_checked": "2026-11-28T00:46:00Z",
+   "primary_source_link": null,
+   "last_verified_at": null,
+   "exact_config": "LLM Gateway: 50% off credits, code BLACKFRIDAY",
+   "payable_price": null,
+   "renewal_or_long_term_cost": null,
+   "eligibility": null,
+   "limitations": "No dates published; third-party gateway",
+   "provisional_rating": "Watch"
+  },
+  {
+   "section": "A",
+   "id": "no-sale-major-ai",
+   "product": "Claude Pro/Max, ChatGPT Plus/Pro, Cursor, Midjourney, DeepSeek",
+   "provider": "official sites",
+   "normal_price": "Claude Pro $20/mo or $200/yr; Midjourney Basic $10/mo or $96/yr",
+   "current_price": "no Black Friday discount found",
+   "discount_pct": 0,
+   "final_cost": "-",
+   "conditions": "Annual billing is the only saving",
+   "rating": "n/a",
+   "verification": "V2",
+   "links": [
+    "https://whizi.io/resources/ai-black-friday-deals/",
+    "https://geotoolbox.ai/blog/black-friday-ai-deals"
+   ],
+   "deadline": "not verified",
+   "status": "info",
+   "last_checked": "2026-11-28T00:46:00Z",
+   "primary_source_link": null,
+   "last_verified_at": null,
+   "exact_config": "Claude Pro/Max, ChatGPT Plus/Pro, Cursor, Midjourney, DeepSeek",
+   "payable_price": null,
+   "renewal_or_long_term_cost": null,
+   "eligibility": null,
+   "limitations": "Annual billing is the only saving"
+  },
+  {
+   "section": "B",
+   "id": "ovhcloud-bf-2026",
+   "product": "OVHcloud Black Friday: VPS, dedicated (Kimsufi/So You Start), web, domains",
+   "provider": "ovhcloud.com",
+   "normal_price": "$42.10/mo",
+   "current_price": "Kimsufi KS-LE-1 $17/mo shown under a Black Friday label (page undated)",
+   "discount_pct": 20,
+   "final_cost": "not determined",
+   "conditions": "Check setup fees and minimum commitment per server",
+   "rating": "Good",
+   "verification": "V3",
+   "links": [
+    "https://www.ovhcloud.com/en/black-friday/",
+    "https://community.ovhcloud.com/t/offres-le-black-friday-ovhcloud-2026-est-lance-vps-serveurs-dedies-web-domaines-en-promo/54351",
+    "https://eco.us.ovhcloud.com/kimsufi/"
+   ],
+   "deadline": "1 Dec 2026 (pepper.pl)",
+   "status": "active",
+   "last_checked": "2026-11-28T07:46:10Z",
+   "primary_source_link": "https://www.ovhcloud.com/en/black-friday/",
+   "last_verified_at": "2026-11-28T13:46:00Z",
+   "exact_config": "OVHcloud SYS-2 dedicated: Xeon-D 2141I 8c/16t, 32-128GB DDR4 ECC, 2x512GB-2x1.92TB NVMe soft RAID, 1Gbps",
+   "payable_price": "$33.68/mo first year (was $42.10, 20% off); setup fee not stated on page",
+   "renewal_or_long_term_cost": "Reverts to ~$42.10/mo after first year (page list price)",
+   "eligibility": "Global; Bangladesh card/PayPal acceptance not verified",
+   "limitations": "Entry config price; RAM/storage options change price; end date not stated on page. Also VPS 2027 from $4.54/mo (up to 8 vCores/24GB/200GB NVMe, 28 locations, unlimited traffic). Rise-4 $177 (15% off). 27 Nov re-read: no setup fee listed for SYS-2. | 27 Nov 18:46Z: page re-read but showed VPS 2027 from $4.54/mo + free backups 3 months; Kimsufi $17 price not visible, so not re-confirmed (last_verified_at unchanged). | 23:46Z: page read truncated; Kimsufi/SYS-2 price not visible, not re-confirmed (last_verified_at unchanged). | 00:46Z: SYS-2 $33.68 (was $42.10) re-read; page truncated, Kimsufi KS-LE-1 not visible. | 01:46Z: SYS-2 $33.68 re-read, SYS-GAME-1 $47.01 (was $55.30); no Kimsufi listing visible; end date not on page. last_verified_at updated. | 04:50Z: SYS-2 $33.68/mo read again; end date not shown (page truncated), setup fees not stated. | 2026-11-28T07:46Z: SYS-2 $33.68/mo first year re-read (20% off $42.10), no setup fee stated, end date not shown on page; last_verified_at refreshed. [28 Nov 08:50Z re-read: page now lists VPS 2027 from $4.54/mo; $33.68 tier not re-confirmed, last_verified_at unchanged]",
+   "provisional_rating": "Good",
+   "deadline_utc": "2026-12-01T23:59:00Z",
+   "price_intel": {
+    "previous_retailer_price": {
+     "amount": 42.1,
+     "currency": "USD",
+     "url": "https://www.ovhcloud.com/en/black-friday/",
+     "at": "2026-11-27T14:50:00Z"
+    },
+    "current_price": {
+     "amount": 33.68,
+     "currency": "USD",
+     "url": "https://www.ovhcloud.com/en/black-friday/",
+     "at": "2026-11-28T15:45:52Z",
+     "type": "seller_page"
+    },
+    "lowest_observed_by_us": {
+     "amount": 33.68,
+     "currency": "USD",
+     "at": "2026-11-27T14:50:00Z",
+     "since": "2026-11-27T14:50:00Z",
+     "observations": 21
+    },
+    "historical_low_claim": {
+     "supported": false,
+     "note": "no price-history source recorded; do not claim a historical low"
+    }
+   }
+  },
+  {
+   "section": "B",
+   "id": "contabo-20",
+   "product": "Contabo Cloud VPS (Core/Performance)",
+   "provider": "contabo.com",
+   "normal_price": "not verified",
+   "current_price": "up to 20% off, from $5.28/mo",
+   "discount_pct": 20,
+   "final_cost": "not determined",
+   "conditions": "Discount reported tied to a 24-month term; Contabo is known for oversold CPU (reputation, check reviews)",
+   "rating": "UNVERIFIED",
+   "verification": "V1",
+   "links": [
+    "https://www.newcoupons.info/contabo-black-friday-2026-deals/",
+    "https://cybernews.com/best-web-hosting/vps-black-friday-deals/"
+   ],
+   "deadline": "not verified",
+   "status": "active",
+   "last_checked": "2026-11-28T00:46:00Z",
+   "primary_source_link": null,
+   "last_verified_at": null,
+   "exact_config": "Contabo Cloud VPS (Core/Performance)",
+   "payable_price": null,
+   "renewal_or_long_term_cost": null,
+   "eligibility": null,
+   "limitations": "Discount reported tied to a 24-month term; Contabo is known for oversold CPU (reputation, check reviews)",
+   "provisional_rating": "Good",
+   "recovery": {
+    "attempts": [
+     {
+      "at": "2026-11-26T14:00:00Z",
+      "result": "access_test",
+      "reason": "direct read refused by site bot protection: contabo.com (Cloudflare)"
+     },
+     {
+      "at": "2026-11-27T22:45:53Z",
+      "result": "blocked",
+      "reason": "Contabo blocks automated reads; not retried via bypass"
+     },
+     {
+      "at": "2026-11-28T07:46:20Z",
+      "result": "temporary",
+      "reason": "contabo.com host not resolvable from session network (not allowed domain)"
+     }
+    ],
+    "last_result": "temporary",
+    "last_reason": "contabo.com host not resolvable from session network (not allowed domain)",
+    "next_check_after": "2026-11-28T08:46:20Z",
+    "parked": false,
+    "alternatives_to_try": "WebFetch of the same page; manufacturer/official store page for the same item; another authorised UK retailer's product page; provider's official pricing, help, blog or newsroom page"
+   }
+  },
+  {
+   "section": "B",
+   "id": "hostinger-kvm1",
+   "product": "Hostinger KVM 1 VPS (4 GB RAM)",
+   "provider": "hostinger.com",
+   "normal_price": "$19.49/mo list; renews $11.99/mo",
+   "current_price": "$6.49/mo, 24mo",
+   "discount_pct": 67,
+   "final_cost": "not determined",
+   "conditions": "24-month prepaid term; renewal higher",
+   "rating": "Good",
+   "verification": "V3",
+   "links": [
+    "https://www.hostinger.com/black-friday-web-hosting-deals"
+   ],
+   "deadline": "14 Dec 2026 (FAQ)",
+   "status": "active",
+   "last_checked": "2026-11-28T07:46:10Z",
+   "primary_source_link": "https://www.hostinger.com/black-friday-vps-deals",
+   "last_verified_at": "2026-11-28T13:46:00Z",
+   "exact_config": "KVM 1: 1 vCPU, 4GB RAM, 50GB NVMe, 4TB bandwidth (KVM 2: 2 vCPU/8GB/100GB, $8.79/mo, renews $14.99)",
+   "payable_price": "$155.76 upfront for 24 months ($6.49/mo; list $19.49)",
+   "renewal_or_long_term_cost": "$11.99/mo after 24 months",
+   "eligibility": "Card/PayPal not verified for Bangladesh",
+   "limitations": "24-month prepay; 1 vCPU shared is small for n8n+DB; cancel-anytime per page, refund terms not read | 18:46Z: re-read, unchanged; page says campaign 19 Oct-14 Dec. | 2026-11-27T22:45Z page: renews $11.99/mo; offer runs to 14 Dec. | 00:46Z: re-read, unchanged; FAQ to 14 Dec, structured data says 2027-11-27 (conflict). | 01:46Z: FAQ end 14 Dec; JSON-LD says 27 Nov 2027 (conflict).",
+   "provisional_rating": "Good",
+   "deadline_utc": "2026-12-14T23:59:00Z",
+   "price_intel": {
+    "rrp": {
+     "amount": 19.49,
+     "currency": "USD",
+     "url": "https://www.hostinger.com/black-friday-vps-deals",
+     "at": "2026-11-26T15:55:00Z"
+    },
+    "current_price": {
+     "amount": 155.76,
+     "currency": "USD",
+     "url": "https://www.hostinger.com/black-friday-vps-deals",
+     "at": "2026-11-28T15:45:52Z",
+     "type": "seller_page"
+    },
+    "lowest_observed_by_us": {
+     "amount": 6.49,
+     "currency": "USD",
+     "at": "2026-11-26T15:55:00Z",
+     "since": "2026-11-26T15:55:00Z",
+     "observations": 25
+    },
+    "historical_low_claim": {
+     "supported": false,
+     "note": "no price-history source recorded; do not claim a historical low"
+    }
+   }
+  },
+  {
+   "section": "B",
+   "id": "hostinger-web-premium",
+   "product": "Hostinger Premium web hosting",
+   "provider": "hostinger.com",
+   "normal_price": "$10.99/mo renewal",
+   "current_price": "$1.99/mo",
+   "discount_pct": 82,
+   "final_cost": "$95.52 for 48 months, then $10.99/mo",
+   "conditions": "48-month prepay; renewal 5.5x the promo",
+   "rating": "Good",
+   "verification": "V3",
+   "links": [
+    "https://gauravtiwari.org/best-web-hosting-black-friday-deals/"
+   ],
+   "deadline": "14 Dec 2026",
+   "status": "active",
+   "last_checked": "2026-11-28T07:46:10Z",
+   "primary_source_link": "https://www.hostinger.com/web-hosting",
+   "last_verified_at": "2026-11-28T13:46:00Z",
+   "exact_config": "Hostinger Premium web hosting, 48-month term",
+   "payable_price": "$95.52 upfront for 48 months ($1.99/mo)",
+   "renewal_or_long_term_cost": "Renews $10.99/mo for the same term",
+   "eligibility": "Global; card/PayPal not verified; 30-day refund",
+   "limitations": "Shared web hosting, not suited to AI agents/n8n/DBs; offer countdown ~8d16h; Hostinger credits doubled to 500; why_unverified cleared 28 Nov.",
+   "provisional_rating": "Good (only if you need 4 years of shared hosting)",
+   "deadline_utc": "2026-12-14T23:59:00Z",
+   "recovery": {
+    "attempts": [
+     {
+      "at": "2026-11-27T16:46:05Z",
+      "result": "no_new_info",
+      "reason": "Not retried this run"
+     },
+     {
+      "at": "2026-11-27T22:46:00Z",
+      "result": "no_new_info",
+      "reason": "No official page confirming this offer found in this run; deal articles are not V3"
+     },
+     {
+      "at": "2026-11-28T07:46:20Z",
+      "result": "verified",
+      "reason": "hostinger.com/web-hosting read: Premium $1.99/mo 48mo, $95.52 upfront, renews $10.99/mo, 30-day refund"
+     },
+     {
+      "at": "2026-11-28T10:45:57Z",
+      "result": "verified",
+      "reason": "re-read ok"
+     },
+     {
+      "at": "2026-11-28T12:46:00Z",
+      "result": "no_new_info",
+      "reason": "Not rechecked beyond prior; no official page read this cycle"
+     },
+     {
+      "at": "2026-11-28T13:46:07Z",
+      "result": "verified",
+      "reason": "Re-read hostinger.com/web-hosting: Premium $1.99/mo 48mo, $95.52 upfront, renews $10.99/mo"
+     },
+     {
+      "at": "2026-11-28T14:46:04Z",
+      "result": "verified",
+      "reason": "re-read hostinger.com/web-hosting: Premium $1.99/mo 48mo, $95.52 upfront, renews $10.99/mo"
+     }
+    ],
+    "last_result": "verified",
+    "last_reason": "re-read hostinger.com/web-hosting: Premium $1.99/mo 48mo, $95.52 upfront, renews $10.99/mo",
+    "parked": false
+   },
+   "price_intel": {
+    "current_price": {
+     "amount": 95.52,
+     "currency": "USD",
+     "url": "https://www.hostinger.com/web-hosting",
+     "at": "2026-11-28T15:45:52Z",
+     "type": "seller_page"
+    },
+    "lowest_observed_by_us": {
+     "amount": 1.99,
+     "currency": "USD",
+     "at": "2026-11-28T09:45:51Z",
+     "since": "2026-11-28T07:46:20Z",
+     "observations": 8
+    },
+    "historical_low_claim": {
+     "supported": false,
+     "note": "no price-history source recorded; do not claim a historical low"
+    }
+   }
+  },
+  {
+   "section": "B",
+   "id": "hostinger-com-001",
+   "product": "Hostinger .com domain $0.01",
+   "provider": "hostinger.com",
+   "normal_price": "$19.99/yr renewal",
+   "current_price": "$0.01 first year",
+   "discount_pct": null,
+   "final_cost": "~$40 over 3 years (EST: $0.01 + 2 x $19.99)",
+   "conditions": "Requires a 3-year term; renewal $19.99 is above Cloudflare at-cost .com pricing",
+   "rating": "UNVERIFIED",
+   "verification": "V1",
+   "links": [
+    "https://gauravtiwari.org/deal/domain-black-friday-deals/"
+   ],
+   "deadline": "14 Dec 2026",
+   "status": "active",
+   "last_checked": "2026-11-28T00:46:00Z",
+   "primary_source_link": null,
+   "last_verified_at": null,
+   "exact_config": "Hostinger .com domain $0.01",
+   "payable_price": null,
+   "renewal_or_long_term_cost": null,
+   "eligibility": null,
+   "limitations": "Requires a 3-year term; renewal $19.99 is above Cloudflare at-cost .com pricing",
+   "provisional_rating": "Not worthwhile",
+   "deadline_utc": "2026-12-14T23:59:00Z"
+  },
+  {
+   "section": "B",
+   "id": "namecheap-com",
+   "product": "Namecheap .com first year",
+   "provider": "namecheap.com",
+   "normal_price": "~$16-18/yr renewal",
+   "current_price": "~$5.98-6.98 (pattern; not live per one source)",
+   "discount_pct": null,
+   "final_cost": "not determined",
+   "conditions": "First year only",
+   "rating": "UNVERIFIED",
+   "verification": "V1",
+   "links": [
+    "https://www.devtoolrank.com/review/black-friday-domain-server-deals-2026-namecheap-discount"
+   ],
+   "deadline": "not verified",
+   "status": "watch",
+   "last_checked": "2026-11-28T00:46:00Z",
+   "primary_source_link": null,
+   "last_verified_at": null,
+   "exact_config": "Namecheap .com first year",
+   "payable_price": null,
+   "renewal_or_long_term_cost": null,
+   "eligibility": null,
+   "limitations": "First year only",
+   "provisional_rating": "Watch",
+   "recovery": {
+    "attempts": [
+     {
+      "at": "2026-11-26T14:00:00Z",
+      "result": "access_test",
+      "reason": "direct read refused by site bot protection: namecheap.com (Cloudflare)"
+     },
+     {
+      "at": "2026-11-28T01:45:55Z",
+      "result": "blocked",
+      "reason": "Namecheap 403 on direct fetch; no bypass"
+     }
+    ],
+    "last_result": "blocked",
+    "last_reason": "Namecheap 403 on direct fetch; no bypass",
+    "next_check_after": "2026-11-28T07:45:55Z",
+    "parked": false,
+    "alternatives_to_try": "WebFetch of the same page; manufacturer/official store page for the same item; another authorised UK retailer's product page; provider's official pricing, help, blog or newsroom page"
+   }
+  },
+  {
+   "section": "B",
+   "id": "hetzner-auction",
+   "product": "Hetzner Server Auction (used dedicated servers)",
+   "provider": "hetzner.com",
+   "normal_price": "-",
+   "current_price": "Dutch-auction prices, no setup fee, no minimum term",
+   "discount_pct": null,
+   "final_cost": "varies",
+   "conditions": "Not a Black Friday sale; ID verification may be required for new accounts",
+   "rating": "Good (standing value, not a discount)",
+   "verification": "V2",
+   "links": [
+    "https://www.hetzner.com/sb/",
+    "https://docs.hetzner.com/robot/general/server-auction-faqs"
+   ],
+   "deadline": "not verified",
+   "status": "info",
+   "last_checked": "2026-11-28T00:46:00Z",
+   "primary_source_link": null,
+   "last_verified_at": null,
+   "exact_config": "Hetzner Server Auction (used dedicated servers)",
+   "payable_price": null,
+   "renewal_or_long_term_cost": null,
+   "eligibility": null,
+   "limitations": "Not a Black Friday sale; ID verification may be required for new accounts"
+  },
+  {
+   "section": "B",
+   "id": "no-sale-infra",
+   "product": "DigitalOcean, Vultr, Hetzner Cloud, RunPod, Vast.ai, Lambda",
+   "provider": "official sites",
+   "normal_price": "H100 ~$1.73/hr marketplace, Lambda $3.99, RunPod Secure ~$4.39",
+   "current_price": "no Black Friday sale found (RunPod/Vast checked 20 Nov)",
+   "discount_pct": 0,
+   "final_cost": "-",
+   "conditions": "-",
+   "rating": "n/a",
+   "verification": "V1",
+   "links": [
+    "https://aliteq.com/ai-black-friday-deals",
+    "https://neurohive.io/en/guides/cloud-gpu-pricing/"
+   ],
+   "deadline": "not verified",
+   "status": "info",
+   "last_checked": "2026-11-28T00:46:00Z",
+   "primary_source_link": null,
+   "last_verified_at": null,
+   "exact_config": "DigitalOcean, Vultr, Hetzner Cloud, RunPod, Vast.ai, Lambda",
+   "payable_price": null,
+   "renewal_or_long_term_cost": null,
+   "eligibility": null,
+   "limitations": "-"
+  },
+  {
+   "section": "C",
+   "id": "iphone-air-jl",
+   "product": "iPhone Air (storage not stated - verify), new",
+   "provider": "John Lewis / Amazon UK",
+   "normal_price": "£1,099 (Apple Store UK 256GB, verified)",
+   "current_price": "£799",
+   "discount_pct": 27,
+   "final_cost": "£799",
+   "conditions": "New, 1-yr Apple warranty (John Lewis adds 2-yr on some Apple; verify). John Lewis Oxford Street store, London delivery",
+   "rating": "Exceptional",
+   "verification": "V3",
+   "links": [
+    "https://www.techradar.com/phones/iphone/black-friday-iphone-deals-record-low-iphone-air-discounts-plus-big-savings-on-iphone-18-pro-iphone-duo-and-more",
+    "https://www.johnlewis.com/browse/black-friday/electrical-offers/mobile-phone-offers/apple/_/N-7du3Z1z13zz4"
+   ],
+   "deadline": "not stated by seller",
+   "status": "active",
+   "last_checked": "2026-11-28T07:46:10Z",
+   "primary_source_link": "https://www.johnlewis.com/apple-iphone-air-ios-6-5-5g-sim-free-256gb/sky-blue/p114323266",
+   "last_verified_at": "2026-11-28T13:46:00Z",
+   "exact_config": "iPhone Air 256GB, Sky Blue, new, eSIM-only",
+   "payable_price": "£799.00 (delivery promo code per page)",
+   "renewal_or_long_term_cost": "n/a; 2-year guarantee labelled at John Lewis",
+   "eligibility": "UK retail; London delivery/John Lewis Oxford St collection (store availability not checked); UK payment",
+   "limitations": "Light Gold out of stock; Sky Blue add-to-basket shown, no stock count; deadline not stated; London store C&C availability not named; eSIM-only 27 Nov 08:50Z recheck: page text truncated, price/stock not readable this run (prior V3 read stands). 27 Nov 12:50Z: page text again truncated (nav only); Apple UK ref £1,099 re-read. 2026-11-27T13:46Z: price £799, Sky Blue add-to-basket, London M25 delivery re-read (unchanged). | 2026-11-27T22:45Z re-read failed (page truncated, price not in extracted text); last_verified_at unchanged. | 23:46Z: price £799 re-read; live stock/London delivery not stated on page (Sky Blue shown; Light Gold out of stock). | 2026-11-28T00:46Z: re-read failed (page 279k chars, product details not in extracted text); last_verified_at unchanged. | 2026-11-28T01:46Z: re-read OK, £799, add-to-basket, London M25 delivery listed. | 2026-11-28 monitor read truncated (page 279k chars); not re-confirmed. [2026-11-28T05:45Z: JL page read truncated (279k chars); last_verified_at unchanged.] | 28 Nov 12:50Z re-read truncated (page 279k chars), not re-confirmed; stale.",
+   "provisional_rating": "Strong (record low per TechRadar)",
+   "checks": {
+    "price": {
+     "verified": true,
+     "evidence": "Product page £799.00 (re-read 01:46Z)",
+     "at": "2026-11-28T07:46:10Z"
+    },
+    "exact_config": {
+     "verified": true,
+     "evidence": "Product page: iPhone Air 256GB Sky Blue SIM free",
+     "at": "2026-11-28T07:46:10Z"
+    },
+    "stock_purchasable": {
+     "verified": true,
+     "evidence": "Sky Blue selected, Add to basket shown; Light Gold out of stock; no count (re-read 06:45Z)",
+     "at": "2026-11-28T07:46:10Z"
+    },
+    "london_fulfilment": {
+     "verified": true,
+     "evidence": "Page lists Evening Delivery within London M25 £9.95, free standard delivery, Click & Collect (John Lewis shops); no postcode checker read",
+     "at": "2026-11-28T07:46:10Z"
+    }
+   },
+   "alert_level": "buy_now",
+   "reference_price_primary": {
+    "price": "£1,099.00",
+    "what": "iPhone Air 256GB, new, Apple Store UK",
+    "link": "https://www.apple.com/uk/shop/buy-iphone/iphone-air",
+    "at": "2026-11-26T16:10:00Z"
+   },
+   "price_intel": {
+    "rrp": {
+     "amount": 1099,
+     "currency": "GBP",
+     "url": "https://www.apple.com/uk/shop/buy-iphone/iphone-air",
+     "at": "2026-11-26T16:10:00Z"
+    },
+    "current_price": {
+     "amount": 799.0,
+     "currency": "GBP",
+     "url": "https://www.johnlewis.com/apple-iphone-air-ios-6-5-5g-sim-free-256gb/sky-blue/p114323266",
+     "at": "2026-11-28T15:45:52Z",
+     "type": "seller_page"
+    },
+    "lowest_observed_by_us": {
+     "amount": 799,
+     "currency": "GBP",
+     "at": "2026-11-26T16:46:00Z",
+     "since": "2026-11-26T16:46:00Z",
+     "observations": 21
+    },
+    "historical_low_claim": {
+     "supported": false,
+     "note": "no price-history source recorded; do not claim a historical low"
+    }
+   }
+  },
+  {
+   "section": "C",
+   "id": "iphone-17-pro-256-currys",
+   "product": "iPhone 17 Pro 256GB, Silver only, new (previous generation)",
+   "provider": "Currys / Amazon UK",
+   "normal_price": "£1,099",
+   "current_price": "£999",
+   "discount_pct": 9,
+   "final_cost": "£999",
+   "conditions": "Previous gen (iPhone 18 Pro is current); limited stock",
+   "rating": "UNVERIFIED",
+   "verification": "V2",
+   "links": [
+    "https://www.techradar.com/seasonal-sales/not-a-drill-amazon-is-discounting-the-iphone-17-pro-for-black-friday-but-theres-a-better-deal-at-another-retailer",
+    "https://www.forbes.com/sites/jaymcgregor/2026/11/15/apple-iphone-17-black-friday-deals-prices-iphone-17-pro-max-discount/"
+   ],
+   "deadline": "not verified",
+   "status": "active",
+   "last_checked": "2026-11-28T00:46:00Z",
+   "primary_source_link": null,
+   "last_verified_at": null,
+   "exact_config": "iPhone 17 Pro 256GB, Silver only, new (previous generation)",
+   "payable_price": null,
+   "renewal_or_long_term_cost": null,
+   "eligibility": null,
+   "limitations": "Previous gen (iPhone 18 Pro is current); limited stock",
+   "provisional_rating": "Good",
+   "checks": {
+    "price": {
+     "verified": false,
+     "evidence": null,
+     "at": null
+    },
+    "exact_config": {
+     "verified": false,
+     "evidence": null,
+     "at": null
+    },
+    "stock_purchasable": {
+     "verified": false,
+     "evidence": null,
+     "at": null
+    },
+    "london_fulfilment": {
+     "verified": false,
+     "evidence": null,
+     "at": null
+    }
+   },
+   "alert_level": "none",
+   "recovery": {
+    "attempts": [
+     {
+      "at": "2026-11-26T14:00:00Z",
+      "result": "access_test",
+      "reason": "direct read refused by site bot protection: currys.co.uk (Cloudflare)"
+     },
+     {
+      "at": "2026-11-27T19:46:19Z",
+      "result": "blocked",
+      "reason": "Currys product page HTTP 403 via WebFetch; no bypass attempted"
+     },
+     {
+      "at": "2026-11-28T04:46:31Z",
+      "result": "no_new_info",
+      "reason": "Currys blocked; Apple UK iPhone page shows no 256GB price in extracted text"
+     },
+     {
+      "at": "2026-11-28T10:45:57Z",
+      "result": "blocked",
+      "reason": "Currys returned HTTP 403"
+     }
+    ],
+    "last_result": "blocked",
+    "last_reason": "Currys returned HTTP 403",
+    "next_check_after": "2026-11-28T16:45:57Z",
+    "parked": false,
+    "alternatives_to_try": "WebFetch of the same page; manufacturer/official store page for the same item; another authorised UK retailer's product page; provider's official pricing, help, blog or newsroom page"
+   }
+  },
+  {
+   "section": "C",
+   "id": "iphone-17-pro-max-256-currys",
+   "product": "iPhone 17 Pro Max 256GB, new (previous generation)",
+   "provider": "Currys",
+   "normal_price": "£1,199",
+   "current_price": "£1,099",
+   "discount_pct": 8,
+   "final_cost": "£1,099",
+   "conditions": "Forbes: out of stock in all colours at Currys",
+   "rating": "UNVERIFIED",
+   "verification": "V1",
+   "links": [
+    "https://www.forbes.com/sites/jaymcgregor/2026/11/15/apple-iphone-17-black-friday-deals-prices-iphone-17-pro-max-discount/"
+   ],
+   "deadline": "not verified",
+   "status": "needs-recheck",
+   "last_checked": "2026-11-28T00:46:00Z",
+   "primary_source_link": null,
+   "last_verified_at": null,
+   "exact_config": "iPhone 17 Pro Max 256GB, new (previous generation)",
+   "payable_price": null,
+   "renewal_or_long_term_cost": null,
+   "eligibility": null,
+   "limitations": "Forbes: out of stock in all colours at Currys",
+   "provisional_rating": "Good (if in stock)",
+   "checks": {
+    "price": {
+     "verified": false,
+     "evidence": null,
+     "at": null
+    },
+    "exact_config": {
+     "verified": false,
+     "evidence": null,
+     "at": null
+    },
+    "stock_purchasable": {
+     "verified": false,
+     "evidence": null,
+     "at": null
+    },
+    "london_fulfilment": {
+     "verified": false,
+     "evidence": null,
+     "at": null
+    }
+   },
+   "alert_level": "none",
+   "recovery": {
+    "attempts": [
+     {
+      "at": "2026-11-26T14:00:00Z",
+      "result": "access_test",
+      "reason": "direct read refused by site bot protection: currys.co.uk (Cloudflare)"
+     },
+     {
+      "at": "2026-11-27T19:46:19Z",
+      "result": "blocked",
+      "reason": "Currys product page HTTP 403 via WebFetch; no bypass attempted"
+     },
+     {
+      "at": "2026-11-28T04:46:31Z",
+      "result": "no_new_info",
+      "reason": "Currys blocked; Apple UK iPhone page shows no 256GB price in extracted text"
+     },
+     {
+      "at": "2026-11-28T10:45:57Z",
+      "result": "blocked",
+      "reason": "Currys returned HTTP 403"
+     }
+    ],
+    "last_result": "blocked",
+    "last_reason": "Currys returned HTTP 403",
+    "next_check_after": "2026-11-28T16:45:57Z",
+    "parked": false,
+    "alternatives_to_try": "WebFetch of the same page; manufacturer/official store page for the same item; another authorised UK retailer's product page; provider's official pricing, help, blog or newsroom page"
+   }
+  },
+  {
+   "section": "C",
+   "id": "iphone-17-256-amazon",
+   "product": "iPhone 17 256GB, new",
+   "provider": "Amazon UK",
+   "normal_price": "£899 (reference not verified against Apple UK)",
+   "current_price": "£799 (+ up to £23.98 off at checkout, some colours)",
+   "discount_pct": 11,
+   "final_cost": "£775-799",
+   "conditions": "Check the reference price against Apple UK",
+   "rating": "UNVERIFIED",
+   "verification": "V1",
+   "links": [
+    "https://www.forbes.com/sites/jaymcgregor/2026/11/17/iphone-black-friday-deals-iphone-17-pro-max-deal-vs-samsung-galaxy/"
+   ],
+   "deadline": "not verified",
+   "status": "active",
+   "last_checked": "2026-11-28T00:46:00Z",
+   "primary_source_link": null,
+   "last_verified_at": null,
+   "exact_config": "iPhone 17 256GB, new",
+   "payable_price": null,
+   "renewal_or_long_term_cost": null,
+   "eligibility": null,
+   "limitations": "Check the reference price against Apple UK",
+   "provisional_rating": "Good",
+   "checks": {
+    "price": {
+     "verified": false,
+     "evidence": null,
+     "at": null
+    },
+    "exact_config": {
+     "verified": false,
+     "evidence": null,
+     "at": null
+    },
+    "stock_purchasable": {
+     "verified": false,
+     "evidence": null,
+     "at": null
+    },
+    "london_fulfilment": {
+     "verified": false,
+     "evidence": null,
+     "at": null
+    }
+   },
+   "alert_level": "none",
+   "recovery": {
+    "attempts": [
+     {
+      "at": "2026-11-26T14:00:00Z",
+      "result": "access_test",
+      "reason": "direct read refused by site bot protection: amazon.co.uk (empty 202)"
+     },
+     {
+      "at": "2026-11-27T19:46:19Z",
+      "result": "blocked",
+      "reason": "Amazon UK blocks automated reads; no bypass"
+     },
+     {
+      "at": "2026-11-28T04:46:30Z",
+      "result": "blocked",
+      "reason": "Amazon UK blocks automated reads; Apple UK page lists specs only (13in/15in M5 16GB/512GB) with no price"
+     }
+    ],
+    "last_result": "blocked",
+    "last_reason": "Amazon UK blocks automated reads; Apple UK page lists specs only (13in/15in M5 16GB/512GB) with no price",
+    "next_check_after": "2026-11-28T10:46:30Z",
+    "parked": false,
+    "alternatives_to_try": "WebFetch of the same page; manufacturer/official store page for the same item; another authorised UK retailer's product page; provider's official pricing, help, blog or newsroom page"
+   }
+  },
+  {
+   "section": "C",
+   "id": "apple-uk-giftcard",
+   "product": "Apple Store UK: £80 gift card with iPhone Air (smaller with iPhone 17/16)",
+   "provider": "Apple Store UK (Regent Street, Covent Garden, Battersea, Brompton Road)",
+   "normal_price": "Apple full price",
+   "current_price": "full price + gift card",
+   "discount_pct": null,
+   "final_cost": "full price",
+   "conditions": "27-30 Nov; gift card, not a price cut",
+   "rating": "Not worthwhile vs £799 retailer price",
+   "verification": "V1",
+   "links": [
+    "https://www.macworld.com/article/672787/apple-black-friday-2026.html"
+   ],
+   "deadline": "30 Nov 2026",
+   "status": "info",
+   "last_checked": "2026-11-28T00:46:00Z",
+   "primary_source_link": null,
+   "last_verified_at": null,
+   "exact_config": "Apple Store UK: £80 gift card with iPhone Air (smaller with iPhone 17/16)",
+   "payable_price": null,
+   "renewal_or_long_term_cost": null,
+   "eligibility": null,
+   "limitations": "27-30 Nov; gift card, not a price cut",
+   "checks": {
+    "price": {
+     "verified": false,
+     "evidence": null,
+     "at": null
+    },
+    "exact_config": {
+     "verified": false,
+     "evidence": null,
+     "at": null
+    },
+    "stock_purchasable": {
+     "verified": false,
+     "evidence": null,
+     "at": null
+    },
+    "london_fulfilment": {
+     "verified": false,
+     "evidence": null,
+     "at": null
+    }
+   },
+   "alert_level": "none"
+  },
+  {
+   "section": "D",
+   "id": "mba13-m5-amazon-uk",
+   "product": "MacBook Air 13in M5 (config not stated - verify)",
+   "provider": "Amazon UK",
+   "normal_price": "£1,299",
+   "current_price": "£1,149",
+   "discount_pct": 12,
+   "final_cost": "£1,149",
+   "conditions": "New",
+   "rating": "UNVERIFIED",
+   "verification": "V1",
+   "links": [
+    "https://www.techradar.com/seasonal-sales/black-friday-2026-laptop-deals-nov-24"
+   ],
+   "deadline": "not verified",
+   "status": "active",
+   "last_checked": "2026-11-28T00:46:00Z",
+   "primary_source_link": null,
+   "last_verified_at": null,
+   "exact_config": "MacBook Air 13in M5 (config not stated - verify)",
+   "payable_price": null,
+   "renewal_or_long_term_cost": null,
+   "eligibility": null,
+   "limitations": "New",
+   "provisional_rating": "Good",
+   "checks": {
+    "price": {
+     "verified": false,
+     "evidence": null,
+     "at": null
+    },
+    "exact_config": {
+     "verified": false,
+     "evidence": null,
+     "at": null
+    },
+    "stock_purchasable": {
+     "verified": false,
+     "evidence": null,
+     "at": null
+    },
+    "london_fulfilment": {
+     "verified": false,
+     "evidence": null,
+     "at": null
+    }
+   },
+   "alert_level": "none",
+   "recovery": {
+    "attempts": [
+     {
+      "at": "2026-11-26T14:00:00Z",
+      "result": "access_test",
+      "reason": "direct read refused by site bot protection: amazon.co.uk (empty 202)"
+     },
+     {
+      "at": "2026-11-27T19:46:19Z",
+      "result": "blocked",
+      "reason": "Amazon UK blocks automated reads; no bypass"
+     },
+     {
+      "at": "2026-11-28T04:46:30Z",
+      "result": "blocked",
+      "reason": "Amazon UK blocks automated reads; Apple UK page lists specs only (13in/15in M5 16GB/512GB) with no price"
+     },
+     {
+      "at": "2026-11-28T12:46:00Z",
+      "result": "no_new_info",
+      "reason": "Apple UK buy page lists configs but no prices; Amazon UK blocked"
+     },
+     {
+      "at": "2026-11-28T13:46:07Z",
+      "result": "no_new_info",
+      "reason": "Apple UK lists configs without prices; Amazon UK not read (bot protection)"
+     },
+     {
+      "at": "2026-11-28T14:46:04Z",
+      "result": "no_new_info",
+      "reason": "Apple UK page shows configs but no GBP price; Amazon UK blocks automated reads"
+     }
+    ],
+    "last_result": "no_new_info",
+    "last_reason": "Apple UK page shows configs but no GBP price; Amazon UK blocks automated reads",
+    "next_check_after": "2026-11-29T02:46:04Z",
+    "parked": false,
+    "alternatives_to_try": "WebFetch of the same page; manufacturer/official store page for the same item; another authorised UK retailer's product page; provider's official pricing, help, blog or newsroom page"
+   }
+  },
+  {
+   "section": "D",
+   "id": "mba15-m5",
+   "product": "MacBook Air 15in M5 (config not stated)",
+   "provider": "retailer unclear",
+   "normal_price": "£1,499",
+   "current_price": "£1,299",
+   "discount_pct": 13,
+   "final_cost": "£1,299",
+   "conditions": "Retailer to confirm",
+   "rating": "UNVERIFIED",
+   "verification": "V2",
+   "links": [
+    "https://www.tomsguide.com/computing/laptops/uk-black-friday-laptop-deals-november-19-2026"
+   ],
+   "deadline": "not verified",
+   "status": "needs-recheck",
+   "last_checked": "2026-11-28T00:46:00Z",
+   "primary_source_link": null,
+   "last_verified_at": null,
+   "exact_config": "MacBook Air 15in M5 (config not stated)",
+   "payable_price": null,
+   "renewal_or_long_term_cost": null,
+   "eligibility": null,
+   "limitations": "Retailer to confirm",
+   "provisional_rating": "Good",
+   "checks": {
+    "price": {
+     "verified": false,
+     "evidence": null,
+     "at": null
+    },
+    "exact_config": {
+     "verified": false,
+     "evidence": null,
+     "at": null
+    },
+    "stock_purchasable": {
+     "verified": false,
+     "evidence": null,
+     "at": null
+    },
+    "london_fulfilment": {
+     "verified": false,
+     "evidence": null,
+     "at": null
+    }
+   },
+   "alert_level": "none",
+   "recovery": {
+    "attempts": [
+     {
+      "at": "2026-11-27T19:46:19Z",
+      "result": "blocked",
+      "reason": "Amazon UK blocks automated reads; no bypass"
+     },
+     {
+      "at": "2026-11-28T04:46:30Z",
+      "result": "blocked",
+      "reason": "Amazon UK blocks automated reads; Apple UK page lists specs only (13in/15in M5 16GB/512GB) with no price"
+     },
+     {
+      "at": "2026-11-28T12:46:00Z",
+      "result": "no_new_info",
+      "reason": "Apple UK buy page lists configs but no prices; Amazon UK blocked"
+     },
+     {
+      "at": "2026-11-28T13:46:07Z",
+      "result": "no_new_info",
+      "reason": "Apple UK buy-mac page lists configs but no prices; no retailer price readable"
+     },
+     {
+      "at": "2026-11-28T14:46:04Z",
+      "result": "no_new_info",
+      "reason": "Apple UK buy-mac page lists M5 configs only, no GBP prices read; £160 gift card promo 27-30 Nov noted, no retailer price"
+     }
+    ],
+    "last_result": "no_new_info",
+    "last_reason": "Apple UK buy-mac page lists M5 configs only, no GBP prices read; £160 gift card promo 27-30 Nov noted, no retailer price",
+    "next_check_after": "2026-11-29T02:46:04Z",
+    "parked": false
+   }
+  },
+  {
+   "section": "D",
+   "id": "mbp14-m6-16-1tb-amazon-uk",
+   "product": "MacBook Pro 14in M6, 16GB/1TB",
+   "provider": "Amazon UK",
+   "normal_price": "£1,999 RRP",
+   "current_price": "£1,829.97",
+   "discount_pct": 8,
+   "final_cost": "£1,829.97",
+   "conditions": "New",
+   "rating": "UNVERIFIED",
+   "verification": "V1",
+   "links": [
+    "https://www.macworld.com/article/1375970/best-apple-black-friday-deals-2026-nov-25.html"
+   ],
+   "deadline": "not verified",
+   "status": "active",
+   "last_checked": "2026-11-28T00:46:00Z",
+   "primary_source_link": null,
+   "last_verified_at": null,
+   "exact_config": "MacBook Pro 14in M6, 16GB/1TB",
+   "payable_price": null,
+   "renewal_or_long_term_cost": null,
+   "eligibility": null,
+   "limitations": "New",
+   "provisional_rating": "Good",
+   "checks": {
+    "price": {
+     "verified": false,
+     "evidence": null,
+     "at": null
+    },
+    "exact_config": {
+     "verified": false,
+     "evidence": null,
+     "at": null
+    },
+    "stock_purchasable": {
+     "verified": false,
+     "evidence": null,
+     "at": null
+    },
+    "london_fulfilment": {
+     "verified": false,
+     "evidence": null,
+     "at": null
+    }
+   },
+   "alert_level": "none",
+   "recovery": {
+    "attempts": [
+     {
+      "at": "2026-11-26T14:00:00Z",
+      "result": "access_test",
+      "reason": "direct read refused by site bot protection: amazon.co.uk (empty 202)"
+     },
+     {
+      "at": "2026-11-27T16:46:05Z",
+      "result": "no_new_info",
+      "reason": "Apple UK page lists M6 14in 16GB/1TB but no prices shown; Amazon UK blocked"
+     },
+     {
+      "at": "2026-11-27T22:45:53Z",
+      "result": "blocked",
+      "reason": "Amazon UK blocks automated reads"
+     },
+     {
+      "at": "2026-11-28T07:46:21Z",
+      "result": "blocked",
+      "reason": "Amazon UK blocks automated reads; no Apple UK M6 listing found"
+     },
+     {
+      "at": "2026-11-28T10:45:57Z",
+      "result": "no_new_info",
+      "reason": "Amazon UK blocks reads; Apple UK lists M6 14in 16GB/1TB config but no price on listing page"
+     },
+     {
+      "at": "2026-11-28T12:46:00Z",
+      "result": "blocked",
+      "reason": "Amazon UK blocks automated reads"
+     },
+     {
+      "at": "2026-11-28T13:46:07Z",
+      "result": "blocked",
+      "reason": "Amazon UK blocks automated reads; not worked around"
+     },
+     {
+      "at": "2026-11-28T14:46:04Z",
+      "result": "blocked",
+      "reason": "Amazon UK blocks automated reads; not bypassed"
+     }
+    ],
+    "last_result": "blocked",
+    "last_reason": "Amazon UK blocks automated reads; not bypassed",
+    "next_check_after": "2026-11-29T02:46:04Z",
+    "parked": true,
+    "alternatives_to_try": "WebFetch of the same page; manufacturer/official store page for the same item; another authorised UK retailer's product page; provider's official pricing, help, blog or newsroom page",
+    "why_unverified": "Seller page repeatedly unreadable (Amazon UK blocks automated reads; not bypassed); no alternative primary source confirmed it. Rechecked every 12h or when discovery finds new evidence."
+   }
+  },
+  {
+   "section": "D",
+   "id": "mbp16-m5pro-amazon-uk",
+   "product": "MacBook Pro 16in M5 Pro (config not stated)",
+   "provider": "Amazon UK",
+   "normal_price": "£2,999",
+   "current_price": "£2,599",
+   "discount_pct": 13,
+   "final_cost": "£2,599",
+   "conditions": "New. Apple Store gives up to £240 gift card instead (27-30 Nov) at full price",
+   "rating": "UNVERIFIED",
+   "verification": "V1",
+   "links": [
+    "https://www.techradar.com/seasonal-sales/best-black-friday-macbook-deals-macbook-neo-macbook-air-m5-macbook-pro-m6-and-even-the-new-macbook-pro-proled-m5-pro-get-price-cuts"
+   ],
+   "deadline": "not verified",
+   "status": "active",
+   "last_checked": "2026-11-28T00:46:00Z",
+   "primary_source_link": null,
+   "last_verified_at": null,
+   "exact_config": "MacBook Pro 16in M5 Pro (config not stated)",
+   "payable_price": null,
+   "renewal_or_long_term_cost": null,
+   "eligibility": null,
+   "limitations": "New. Apple Store gives up to £240 gift card instead (27-30 Nov) at full price",
+   "provisional_rating": "Strong (for AI/dev workloads, if config is 24GB+)",
+   "checks": {
+    "price": {
+     "verified": false,
+     "evidence": null,
+     "at": null
+    },
+    "exact_config": {
+     "verified": false,
+     "evidence": null,
+     "at": null
+    },
+    "stock_purchasable": {
+     "verified": false,
+     "evidence": null,
+     "at": null
+    },
+    "london_fulfilment": {
+     "verified": false,
+     "evidence": null,
+     "at": null
+    }
+   },
+   "alert_level": "none",
+   "recovery": {
+    "attempts": [
+     {
+      "at": "2026-11-26T14:00:00Z",
+      "result": "access_test",
+      "reason": "direct read refused by site bot protection: amazon.co.uk (empty 202)"
+     },
+     {
+      "at": "2026-11-27T16:46:05Z",
+      "result": "no_new_info",
+      "reason": "Apple UK MacBook Pro page lists 16in M5 Pro 24GB/1TB but no prices; Amazon UK blocked"
+     },
+     {
+      "at": "2026-11-27T22:45:53Z",
+      "result": "blocked",
+      "reason": "Amazon UK blocks automated reads"
+     },
+     {
+      "at": "2026-11-28T07:46:21Z",
+      "result": "blocked",
+      "reason": "Amazon UK blocks automated reads; Apple UK listing page shows M5 Pro configs but no prices"
+     },
+     {
+      "at": "2026-11-28T10:45:57Z",
+      "result": "no_new_info",
+      "reason": "Amazon UK blocks reads; Apple UK 14in page shows no prices, M5 Pro 16in not listed there"
+     },
+     {
+      "at": "2026-11-28T12:46:00Z",
+      "result": "blocked",
+      "reason": "Amazon UK blocks automated reads"
+     },
+     {
+      "at": "2026-11-28T13:46:07Z",
+      "result": "blocked",
+      "reason": "Amazon UK blocks automated reads; not worked around"
+     },
+     {
+      "at": "2026-11-28T14:46:04Z",
+      "result": "blocked",
+      "reason": "Amazon UK blocks automated reads; not bypassed"
+     }
+    ],
+    "last_result": "blocked",
+    "last_reason": "Amazon UK blocks automated reads; not bypassed",
+    "next_check_after": "2026-11-29T02:46:04Z",
+    "parked": true,
+    "alternatives_to_try": "WebFetch of the same page; manufacturer/official store page for the same item; another authorised UK retailer's product page; provider's official pricing, help, blog or newsroom page",
+    "why_unverified": "Seller page repeatedly unreadable (Amazon UK blocks automated reads; not bypassed); no alternative primary source confirmed it. Rechecked every 12h or when discovery finds new evidence."
+   }
+  },
+  {
+   "section": "D",
+   "id": "backmarket-mbp14-m2pro",
+   "product": "MacBook Pro 14in M2 Pro, refurbished",
+   "provider": "Back Market UK",
+   "normal_price": "not verified",
+   "current_price": "£1,028 (extra 5% code BF5 on some models)",
+   "discount_pct": null,
+   "final_cost": "£1,028",
+   "conditions": "Refurbished, Back Market 1-yr warranty; seller grade varies",
+   "rating": "UNVERIFIED",
+   "verification": "V1",
+   "links": [
+    "https://www.backmarket.co.uk/en-gb/l/black-friday-macbook/6b0efa23-50d1-40b7-b838-358401d39515"
+   ],
+   "deadline": "30 Nov 2026",
+   "status": "active",
+   "last_checked": "2026-11-28T00:46:00Z",
+   "primary_source_link": null,
+   "last_verified_at": null,
+   "exact_config": "MacBook Pro 14in M2 Pro, refurbished",
+   "payable_price": null,
+   "renewal_or_long_term_cost": null,
+   "eligibility": null,
+   "limitations": "Refurbished, Back Market 1-yr warranty; seller grade varies",
+   "provisional_rating": "Good",
+   "checks": {
+    "price": {
+     "verified": false,
+     "evidence": null,
+     "at": null
+    },
+    "exact_config": {
+     "verified": false,
+     "evidence": null,
+     "at": null
+    },
+    "stock_purchasable": {
+     "verified": false,
+     "evidence": null,
+     "at": null
+    },
+    "london_fulfilment": {
+     "verified": false,
+     "evidence": null,
+     "at": null
+    }
+   },
+   "alert_level": "none",
+   "deadline_utc": "2026-11-30T23:59:00Z",
+   "recovery": {
+    "attempts": [
+     {
+      "at": "2026-11-27T16:46:05Z",
+      "result": "blocked",
+      "reason": "Back Market returned HTTP 403 to automated read; not bypassed"
+     },
+     {
+      "at": "2026-11-28T01:45:55Z",
+      "result": "blocked",
+      "reason": "Back Market UK 403 on direct fetch; no bypass"
+     },
+     {
+      "at": "2026-11-28T10:45:57Z",
+      "result": "blocked",
+      "reason": "Back Market UK returned HTTP 403; not bypassed"
+     },
+     {
+      "at": "2026-11-28T12:46:00Z",
+      "result": "blocked",
+      "reason": "Back Market 403 on WebFetch; no workaround"
+     },
+     {
+      "at": "2026-11-28T13:46:07Z",
+      "result": "blocked",
+      "reason": "Back Market category page returns HTTP 403"
+     },
+     {
+      "at": "2026-11-28T14:46:04Z",
+      "result": "blocked",
+      "reason": "Back Market UK category page HTTP 403 (bot protection); not bypassed"
+     }
+    ],
+    "last_result": "blocked",
+    "last_reason": "Back Market UK category page HTTP 403 (bot protection); not bypassed",
+    "next_check_after": "2026-11-29T02:46:04Z",
+    "parked": true,
+    "why_unverified": "Seller page repeatedly unreadable (Back Market UK category page HTTP 403 (bot protection); not bypassed); no alternative primary source confirmed it. Rechecked every 12h or when discovery finds new evidence."
+   }
+  },
+  {
+   "section": "D",
+   "id": "gigabyte-a16-5070-currys",
+   "product": "Gigabyte Gaming A16, RTX 5070 (CPU/RAM not stated)",
+   "provider": "Currys",
+   "normal_price": "not verified",
+   "current_price": "£1,399",
+   "discount_pct": null,
+   "final_cost": "£1,399",
+   "conditions": "Check RAM (16GB vs 32GB) for local AI use",
+   "rating": "UNVERIFIED",
+   "verification": "V1",
+   "links": [
+    "https://www.techradar.com/seasonal-sales/black-friday-2026-gaming-laptop-deals-nov-26"
+   ],
+   "deadline": "not verified",
+   "status": "active",
+   "last_checked": "2026-11-28T00:46:00Z",
+   "primary_source_link": null,
+   "last_verified_at": null,
+   "exact_config": "Gigabyte Gaming A16, RTX 5070 (CPU/RAM not stated)",
+   "payable_price": null,
+   "renewal_or_long_term_cost": null,
+   "eligibility": null,
+   "limitations": "Check RAM (16GB vs 32GB) for local AI use",
+   "provisional_rating": "Good",
+   "checks": {
+    "price": {
+     "verified": false,
+     "evidence": null,
+     "at": null
+    },
+    "exact_config": {
+     "verified": false,
+     "evidence": null,
+     "at": null
+    },
+    "stock_purchasable": {
+     "verified": false,
+     "evidence": null,
+     "at": null
+    },
+    "london_fulfilment": {
+     "verified": false,
+     "evidence": null,
+     "at": null
+    }
+   },
+   "alert_level": "none",
+   "recovery": {
+    "attempts": [
+     {
+      "at": "2026-11-26T14:00:00Z",
+      "result": "access_test",
+      "reason": "direct read refused by site bot protection: currys.co.uk (Cloudflare)"
+     },
+     {
+      "at": "2026-11-27T19:46:19Z",
+      "result": "no_new_info",
+      "reason": "No new seller-page evidence this cycle"
+     },
+     {
+      "at": "2026-11-28T04:46:31Z",
+      "result": "blocked",
+      "reason": "Currys blocks automated reads; no alternative retailer page found"
+     }
+    ],
+    "last_result": "blocked",
+    "last_reason": "Currys blocks automated reads; no alternative retailer page found",
+    "next_check_after": "2026-11-28T10:46:31Z",
+    "parked": false,
+    "alternatives_to_try": "WebFetch of the same page; manufacturer/official store page for the same item; another authorised UK retailer's product page; provider's official pricing, help, blog or newsroom page"
+   }
+  },
+  {
+   "section": "D",
+   "id": "gigabyte-a16pro-5080-amazon",
+   "product": "Gigabyte Gaming A16 Pro, RTX 5080",
+   "provider": "Amazon UK",
+   "normal_price": "not verified",
+   "current_price": "£2,199",
+   "discount_pct": null,
+   "final_cost": "£2,199",
+   "conditions": "RTX 5080 laptop GPU: 16GB VRAM (spec to verify) - strong for local LLMs",
+   "rating": "UNVERIFIED",
+   "verification": "V1",
+   "links": [
+    "https://www.techradar.com/seasonal-sales/black-friday-2026-gaming-laptop-deals-nov-26"
+   ],
+   "deadline": "not verified",
+   "status": "needs-recheck",
+   "last_checked": "2026-11-28T00:46:00Z",
+   "primary_source_link": null,
+   "last_verified_at": null,
+   "exact_config": "Gigabyte Gaming A16 Pro, RTX 5080",
+   "payable_price": null,
+   "renewal_or_long_term_cost": null,
+   "eligibility": null,
+   "limitations": "RTX 5080 laptop GPU: 16GB VRAM (spec to verify) - strong for local LLMs",
+   "provisional_rating": "Watch",
+   "checks": {
+    "price": {
+     "verified": false,
+     "evidence": null,
+     "at": null
+    },
+    "exact_config": {
+     "verified": false,
+     "evidence": null,
+     "at": null
+    },
+    "stock_purchasable": {
+     "verified": false,
+     "evidence": null,
+     "at": null
+    },
+    "london_fulfilment": {
+     "verified": false,
+     "evidence": null,
+     "at": null
+    }
+   },
+   "alert_level": "none",
+   "recovery": {
+    "attempts": [
+     {
+      "at": "2026-11-26T14:00:00Z",
+      "result": "access_test",
+      "reason": "direct read refused by site bot protection: amazon.co.uk (empty 202)"
+     },
+     {
+      "at": "2026-11-27T22:45:53Z",
+      "result": "blocked",
+      "reason": "Amazon UK blocks automated reads"
+     }
+    ],
+    "last_result": "blocked",
+    "last_reason": "Amazon UK blocks automated reads",
+    "next_check_after": "2026-11-28T04:45:53Z",
+    "parked": false,
+    "alternatives_to_try": "WebFetch of the same page; manufacturer/official store page for the same item; another authorised UK retailer's product page; provider's official pricing, help, blog or newsroom page"
+   }
+  },
+  {
+   "section": "D",
+   "id": "dell-14s-very",
+   "product": "Dell 14S (config not stated)",
+   "provider": "Very.co.uk",
+   "normal_price": "£999",
+   "current_price": "£699",
+   "discount_pct": 30,
+   "final_cost": "£699",
+   "conditions": "Verify CPU/RAM; Very delivers to London",
+   "rating": "UNVERIFIED",
+   "verification": "V1",
+   "links": [
+    "https://www.trustedreviews.com/black-friday/laptop-black-friday-deals-live"
+   ],
+   "deadline": "not verified",
+   "status": "needs-recheck",
+   "last_checked": "2026-11-28T00:46:00Z",
+   "primary_source_link": null,
+   "last_verified_at": null,
+   "exact_config": "Dell 14S (config not stated)",
+   "payable_price": null,
+   "renewal_or_long_term_cost": null,
+   "eligibility": null,
+   "limitations": "Verify CPU/RAM; Very delivers to London",
+   "provisional_rating": "Good (pending config)",
+   "checks": {
+    "price": {
+     "verified": false,
+     "evidence": null,
+     "at": null
+    },
+    "exact_config": {
+     "verified": false,
+     "evidence": null,
+     "at": null
+    },
+    "stock_purchasable": {
+     "verified": false,
+     "evidence": null,
+     "at": null
+    },
+    "london_fulfilment": {
+     "verified": false,
+     "evidence": null,
+     "at": null
+    }
+   },
+   "alert_level": "none",
+   "recovery": {
+    "attempts": [
+     {
+      "at": "2026-11-26T14:00:00Z",
+      "result": "access_test",
+      "reason": "direct read refused by site bot protection: dell.com (Akamai)"
+     },
+     {
+      "at": "2026-11-27T19:46:19Z",
+      "result": "no_new_info",
+      "reason": "No new seller-page evidence this cycle"
+     },
+     {
+      "at": "2026-11-28T07:46:21Z",
+      "result": "no_new_info",
+      "reason": "not re-read this run"
+     },
+     {
+      "at": "2026-11-28T10:45:57Z",
+      "result": "temporary",
+      "reason": "very.co.uk host not resolvable from session network"
+     }
+    ],
+    "last_result": "temporary",
+    "last_reason": "very.co.uk host not resolvable from session network",
+    "next_check_after": "2026-11-28T11:45:57Z",
+    "parked": false,
+    "alternatives_to_try": "WebFetch of the same page; manufacturer/official store page for the same item; another authorised UK retailer's product page; provider's official pricing, help, blog or newsroom page"
+   }
+  }
+ ],
+ "policy": "No Strong/Exceptional without a primary-source check (V3). Deal articles are for discovery only. Unconfirmed prices are UNVERIFIED and not ranked.",
+ "policy_cd": "C/D: four checks (price, exact_config, stock_purchasable, london_fulfilment). A category page is price discovery only. BUY NOW only when all four are verified and the rating is Exceptional.",
+ "last_checked": "2026-11-28T14:47:00Z",
+ "workflow": {
+  "last_deep_cycle_at": "2026-11-28T14:46:12Z",
+  "deep_cycles_done": 10,
+  "discovery_rotation": [
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "rules": "Every run: monitor V3 deals. Deep cycle (>=2h45m since the last one): recover up to 8 due leads, then discover new deals in all four sections. Run deal-intel/tools/dealstate.py plan."
+ },
+ "alerts_log": [
+  {
+   "deal_id": "iphone-air-jl",
+   "level": "buy_now",
+   "amount": 799.0,
+   "at": "2026-11-26T16:46:04Z",
+   "note": "seeded from commit 5c60672; push delivery not independently confirmed"
+  }
+ ]
 }
