@@ -20,10 +20,10 @@
    ],
    "deadline": "1 Dec 2026 (seller page: until Dec 1)",
    "status": "active",
-   "last_checked": "2026-11-28T00:46:00Z",
+   "last_checked": "2026-11-28T01:47:00Z",
    "bd_access": "Card payment; BD availability not verified",
    "primary_source_link": "https://elevenlabs.io/pricing",
-   "last_verified_at": "2026-11-28T00:46:00Z",
+   "last_verified_at": "2026-11-28T01:47:00Z",
    "exact_config": "ElevenLabs Creator, annual billing, 121k credits/month, commercial licence included",
    "payable_price": "$99 first year (card FX extra)",
    "renewal_or_long_term_cost": "$220/yr from year 2 (list price)",
@@ -42,7 +42,7 @@
      "amount": 99.0,
      "currency": "USD",
      "url": "https://elevenlabs.io/pricing",
-     "at": "2026-11-28T00:45:54Z",
+     "at": "2026-11-28T01:45:36Z",
      "type": "seller_page"
     },
     "lowest_observed_by_us": {
@@ -50,7 +50,7 @@
      "currency": "USD",
      "at": "2026-11-26T15:55:00Z",
      "since": "2026-11-26T15:55:00Z",
-     "observations": 10
+     "observations": 11
     },
     "historical_low_claim": {
      "supported": false,
@@ -208,11 +208,16 @@
       "at": "2026-11-27T19:46:19Z",
       "result": "no_new_info",
       "reason": "No new seller-page evidence this cycle"
+     },
+     {
+      "at": "2026-11-28T01:45:55Z",
+      "result": "no_new_info",
+      "reason": "one.google.com plans page has no AI Pro price or promo"
      }
     ],
     "last_result": "no_new_info",
-    "last_reason": "No new seller-page evidence this cycle",
-    "next_check_after": "2026-11-27T22:46:19Z",
+    "last_reason": "one.google.com plans page has no AI Pro price or promo",
+    "next_check_after": "2026-11-28T07:45:55Z",
     "parked": false
    }
   },
@@ -362,11 +367,16 @@
       "at": "2026-11-27T16:46:05Z",
       "result": "blocked",
       "reason": "appsumo.com not resolvable from session network"
+     },
+     {
+      "at": "2026-11-28T01:45:55Z",
+      "result": "temporary",
+      "reason": "appsumo.com not resolvable in session network"
      }
     ],
-    "last_result": "blocked",
-    "last_reason": "appsumo.com not resolvable from session network",
-    "next_check_after": "2026-11-27T22:46:05Z",
+    "last_result": "temporary",
+    "last_reason": "appsumo.com not resolvable in session network",
+    "next_check_after": "2026-11-28T02:45:55Z",
     "parked": false
    }
   },
@@ -403,11 +413,16 @@
       "at": "2026-11-27T16:46:05Z",
       "result": "blocked",
       "reason": "cometapi.com not resolvable from session network"
+     },
+     {
+      "at": "2026-11-28T01:45:55Z",
+      "result": "temporary",
+      "reason": "host cometapi.com not resolvable in session network (allowlist)"
      }
     ],
-    "last_result": "blocked",
-    "last_reason": "cometapi.com not resolvable from session network",
-    "next_check_after": "2026-11-27T22:46:05Z",
+    "last_result": "temporary",
+    "last_reason": "host cometapi.com not resolvable in session network (allowlist)",
+    "next_check_after": "2026-11-28T02:45:55Z",
     "parked": false
    }
   },
@@ -484,14 +499,14 @@
    ],
    "deadline": "1 Dec 2026 (pepper.pl)",
    "status": "active",
-   "last_checked": "2026-11-28T00:46:00Z",
+   "last_checked": "2026-11-28T01:47:00Z",
    "primary_source_link": "https://www.ovhcloud.com/en/black-friday/",
-   "last_verified_at": "2026-11-28T00:46:00Z",
+   "last_verified_at": "2026-11-28T01:47:00Z",
    "exact_config": "OVHcloud SYS-2 dedicated: Xeon-D 2141I 8c/16t, 32-128GB DDR4 ECC, 2x512GB-2x1.92TB NVMe soft RAID, 1Gbps",
    "payable_price": "$33.68/mo first year (was $42.10, 20% off); setup fee not stated on page",
    "renewal_or_long_term_cost": "Reverts to ~$42.10/mo after first year (page list price)",
    "eligibility": "Global; Bangladesh card/PayPal acceptance not verified",
-   "limitations": "Entry config price; RAM/storage options change price; end date not stated on page. Also VPS 2027 from $4.54/mo (up to 8 vCores/24GB/200GB NVMe, 28 locations, unlimited traffic). Rise-4 $177 (15% off). 27 Nov re-read: no setup fee listed for SYS-2. | 27 Nov 18:46Z: page re-read but showed VPS 2027 from $4.54/mo + free backups 3 months; Kimsufi $17 price not visible, so not re-confirmed (last_verified_at unchanged). | 23:46Z: page read truncated; Kimsufi/SYS-2 price not visible, not re-confirmed (last_verified_at unchanged). | 00:46Z: SYS-2 $33.68 (was $42.10) re-read; page truncated, Kimsufi KS-LE-1 not visible.",
+   "limitations": "Entry config price; RAM/storage options change price; end date not stated on page. Also VPS 2027 from $4.54/mo (up to 8 vCores/24GB/200GB NVMe, 28 locations, unlimited traffic). Rise-4 $177 (15% off). 27 Nov re-read: no setup fee listed for SYS-2. | 27 Nov 18:46Z: page re-read but showed VPS 2027 from $4.54/mo + free backups 3 months; Kimsufi $17 price not visible, so not re-confirmed (last_verified_at unchanged). | 23:46Z: page read truncated; Kimsufi/SYS-2 price not visible, not re-confirmed (last_verified_at unchanged). | 00:46Z: SYS-2 $33.68 (was $42.10) re-read; page truncated, Kimsufi KS-LE-1 not visible. | 01:46Z: SYS-2 $33.68 re-read, SYS-GAME-1 $47.01 (was $55.30); no Kimsufi listing visible; end date not on page. last_verified_at updated.",
    "provisional_rating": "Good",
    "deadline_utc": "2026-12-01T23:59:00Z",
    "price_intel": {
@@ -505,7 +520,7 @@
      "amount": 33.68,
      "currency": "USD",
      "url": "https://www.ovhcloud.com/en/black-friday/",
-     "at": "2026-11-28T00:45:54Z",
+     "at": "2026-11-28T01:45:43Z",
      "type": "seller_page"
     },
     "lowest_observed_by_us": {
@@ -513,7 +528,7 @@
      "currency": "USD",
      "at": "2026-11-27T14:50:00Z",
      "since": "2026-11-27T14:50:00Z",
-     "observations": 7
+     "observations": 8
     },
     "historical_low_claim": {
      "supported": false,
@@ -585,14 +600,14 @@
    ],
    "deadline": "14 Dec 2026 (FAQ)",
    "status": "active",
-   "last_checked": "2026-11-28T00:46:00Z",
+   "last_checked": "2026-11-28T01:47:00Z",
    "primary_source_link": "https://www.hostinger.com/black-friday-vps-deals",
-   "last_verified_at": "2026-11-28T00:46:00Z",
+   "last_verified_at": "2026-11-28T01:47:00Z",
    "exact_config": "KVM 1: 1 vCPU, 4GB RAM, 50GB NVMe, 4TB bandwidth (KVM 2: 2 vCPU/8GB/100GB, $8.79/mo, renews $14.99)",
    "payable_price": "$155.76 upfront for 24 months ($6.49/mo; list $19.49)",
    "renewal_or_long_term_cost": "$11.99/mo after 24 months",
    "eligibility": "Card/PayPal not verified for Bangladesh",
-   "limitations": "24-month prepay; 1 vCPU shared is small for n8n+DB; cancel-anytime per page, refund terms not read | 18:46Z: re-read, unchanged; page says campaign 19 Oct-14 Dec. | 2026-11-27T22:45Z page: renews $11.99/mo; offer runs to 14 Dec. | 00:46Z: re-read, unchanged; FAQ to 14 Dec, structured data says 2027-11-27 (conflict).",
+   "limitations": "24-month prepay; 1 vCPU shared is small for n8n+DB; cancel-anytime per page, refund terms not read | 18:46Z: re-read, unchanged; page says campaign 19 Oct-14 Dec. | 2026-11-27T22:45Z page: renews $11.99/mo; offer runs to 14 Dec. | 00:46Z: re-read, unchanged; FAQ to 14 Dec, structured data says 2027-11-27 (conflict). | 01:46Z: FAQ end 14 Dec; JSON-LD says 27 Nov 2027 (conflict).",
    "provisional_rating": "Good",
    "deadline_utc": "2026-12-14T23:59:00Z",
    "price_intel": {
@@ -606,7 +621,7 @@
      "amount": 155.76,
      "currency": "USD",
      "url": "https://www.hostinger.com/black-friday-vps-deals",
-     "at": "2026-11-28T00:45:54Z",
+     "at": "2026-11-28T01:45:36Z",
      "type": "seller_page"
     },
     "lowest_observed_by_us": {
@@ -614,7 +629,7 @@
      "currency": "USD",
      "at": "2026-11-26T15:55:00Z",
      "since": "2026-11-26T15:55:00Z",
-     "observations": 10
+     "observations": 11
     },
     "historical_low_claim": {
      "supported": false,
@@ -728,11 +743,16 @@
       "at": "2026-11-26T14:00:00Z",
       "result": "access_test",
       "reason": "direct read refused by site bot protection: namecheap.com (Cloudflare)"
+     },
+     {
+      "at": "2026-11-28T01:45:55Z",
+      "result": "blocked",
+      "reason": "Namecheap 403 on direct fetch; no bypass"
      }
     ],
     "last_result": "blocked",
-    "last_reason": "site bot protection: namecheap.com (Cloudflare)",
-    "next_check_after": null,
+    "last_reason": "Namecheap 403 on direct fetch; no bypass",
+    "next_check_after": "2026-11-28T07:45:55Z",
     "parked": false,
     "alternatives_to_try": "WebFetch of the same page; manufacturer/official store page for the same item; another authorised UK retailer's product page; provider's official pricing, help, blog or newsroom page"
    }
@@ -809,35 +829,35 @@
    ],
    "deadline": "not stated by seller",
    "status": "active",
-   "last_checked": "2026-11-28T00:46:00Z",
+   "last_checked": "2026-11-28T01:47:00Z",
    "primary_source_link": "https://www.johnlewis.com/apple-iphone-air-ios-6-5-5g-sim-free-256gb/sky-blue/p114323266",
-   "last_verified_at": "2026-11-27T23:46:00Z",
+   "last_verified_at": "2026-11-28T01:47:00Z",
    "exact_config": "iPhone Air 256GB, Sky Blue, new, eSIM-only",
    "payable_price": "£799.00 (delivery promo code per page)",
    "renewal_or_long_term_cost": "n/a; 2-year guarantee labelled at John Lewis",
    "eligibility": "UK retail; London delivery/John Lewis Oxford St collection (store availability not checked); UK payment",
-   "limitations": "Light Gold out of stock; Sky Blue add-to-basket shown, no stock count; deadline not stated; London store C&C availability not named; eSIM-only 27 Nov 08:50Z recheck: page text truncated, price/stock not readable this run (prior V3 read stands). 27 Nov 12:50Z: page text again truncated (nav only); Apple UK ref £1,099 re-read. 2026-11-27T13:46Z: price £799, Sky Blue add-to-basket, London M25 delivery re-read (unchanged). | 2026-11-27T22:45Z re-read failed (page truncated, price not in extracted text); last_verified_at unchanged. | 23:46Z: price £799 re-read; live stock/London delivery not stated on page (Sky Blue shown; Light Gold out of stock). | 2026-11-28T00:46Z: re-read failed (page 279k chars, product details not in extracted text); last_verified_at unchanged.",
+   "limitations": "Light Gold out of stock; Sky Blue add-to-basket shown, no stock count; deadline not stated; London store C&C availability not named; eSIM-only 27 Nov 08:50Z recheck: page text truncated, price/stock not readable this run (prior V3 read stands). 27 Nov 12:50Z: page text again truncated (nav only); Apple UK ref £1,099 re-read. 2026-11-27T13:46Z: price £799, Sky Blue add-to-basket, London M25 delivery re-read (unchanged). | 2026-11-27T22:45Z re-read failed (page truncated, price not in extracted text); last_verified_at unchanged. | 23:46Z: price £799 re-read; live stock/London delivery not stated on page (Sky Blue shown; Light Gold out of stock). | 2026-11-28T00:46Z: re-read failed (page 279k chars, product details not in extracted text); last_verified_at unchanged. | 2026-11-28T01:46Z: re-read OK, £799, add-to-basket, London M25 delivery listed.",
    "provisional_rating": "Strong (record low per TechRadar)",
    "checks": {
     "price": {
      "verified": true,
-     "evidence": "Product page £799.00",
-     "at": "2026-11-26T16:46:00Z"
+     "evidence": "Product page £799.00 (re-read 01:46Z)",
+     "at": "2026-11-28T01:47:00Z"
     },
     "exact_config": {
      "verified": true,
-     "evidence": "Product page: iPhone Air 6.5\" 5G SIM Free 256GB Sky Blue",
-     "at": "2026-11-26T16:46:00Z"
+     "evidence": "Product page: iPhone Air 256GB Sky Blue SIM free",
+     "at": "2026-11-28T01:47:00Z"
     },
     "stock_purchasable": {
      "verified": true,
-     "evidence": "Add to basket shown for Sky Blue; no count",
-     "at": "2026-11-26T16:46:00Z"
+     "evidence": "Sky Blue selected, Add to basket shown; Light Gold out of stock; no count",
+     "at": "2026-11-28T01:47:00Z"
     },
     "london_fulfilment": {
      "verified": true,
-     "evidence": "Page lists Evening Delivery within London M25 (£9.95) and standard free delivery; no postcode checker read",
-     "at": "2026-11-26T16:46:00Z"
+     "evidence": "Page lists Evening Delivery within London M25 £9.95, free standard delivery, Click & Collect (John Lewis shops); no postcode checker read",
+     "at": "2026-11-28T01:47:00Z"
     }
    },
    "alert_level": "buy_now",
@@ -858,7 +878,7 @@
      "amount": 799.0,
      "currency": "GBP",
      "url": "https://www.johnlewis.com/apple-iphone-air-ios-6-5-5g-sim-free-256gb/sky-blue/p114323266",
-     "at": "2026-11-27T23:45:56Z",
+     "at": "2026-11-28T01:45:37Z",
      "type": "seller_page"
     },
     "lowest_observed_by_us": {
@@ -866,7 +886,7 @@
      "currency": "GBP",
      "at": "2026-11-26T16:46:00Z",
      "since": "2026-11-26T16:46:00Z",
-     "observations": 9
+     "observations": 10
     },
     "historical_low_claim": {
      "supported": false,
@@ -1467,11 +1487,16 @@
       "at": "2026-11-27T16:46:05Z",
       "result": "blocked",
       "reason": "Back Market returned HTTP 403 to automated read; not bypassed"
+     },
+     {
+      "at": "2026-11-28T01:45:55Z",
+      "result": "blocked",
+      "reason": "Back Market UK 403 on direct fetch; no bypass"
      }
     ],
     "last_result": "blocked",
-    "last_reason": "Back Market returned HTTP 403 to automated read; not bypassed",
-    "next_check_after": "2026-11-27T22:46:05Z",
+    "last_reason": "Back Market UK 403 on direct fetch; no bypass",
+    "next_check_after": "2026-11-28T07:45:55Z",
     "parked": false
    }
   },
@@ -1687,8 +1712,8 @@
  "policy_cd": "C/D: four checks (price, exact_config, stock_purchasable, london_fulfilment). A category page is price discovery only. BUY NOW only when all four are verified and the rating is Exceptional.",
  "last_checked": "2026-11-27T23:46:00Z",
  "workflow": {
-  "last_deep_cycle_at": "2026-11-27T22:46:00Z",
-  "deep_cycles_done": 3,
+  "last_deep_cycle_at": "2026-11-28T01:45:55Z",
+  "deep_cycles_done": 4,
   "discovery_rotation": [
    "A",
    "B",
