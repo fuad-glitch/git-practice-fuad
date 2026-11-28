@@ -23,7 +23,7 @@
    "last_checked": "2026-11-28T07:46:10Z",
    "bd_access": "Card payment; BD availability not verified",
    "primary_source_link": "https://elevenlabs.io/pricing",
-   "last_verified_at": "2026-11-28T12:46:00Z",
+   "last_verified_at": "2026-11-28T13:46:00Z",
    "exact_config": "ElevenLabs Creator, annual billing, 121k credits/month, commercial licence included",
    "payable_price": "$99 first year (card FX extra)",
    "renewal_or_long_term_cost": "$220/yr from year 2 (list price)",
@@ -42,7 +42,7 @@
      "amount": 99.0,
      "currency": "USD",
      "url": "https://elevenlabs.io/pricing",
-     "at": "2026-11-28T12:45:59Z",
+     "at": "2026-11-28T13:45:43Z",
      "type": "seller_page"
     },
     "lowest_observed_by_us": {
@@ -50,7 +50,7 @@
      "currency": "USD",
      "at": "2026-11-26T15:55:00Z",
      "since": "2026-11-26T15:55:00Z",
-     "observations": 22
+     "observations": 23
     },
     "historical_low_claim": {
      "supported": false,
@@ -325,11 +325,16 @@
       "at": "2026-11-28T12:46:00Z",
       "result": "no_new_info",
       "reason": "Not rechecked beyond prior; no official page read this cycle"
+     },
+     {
+      "at": "2026-11-28T13:46:07Z",
+      "result": "temporary",
+      "reason": "runwayml.com redirects to runway.com which does not resolve from session network"
      }
     ],
-    "last_result": "no_new_info",
-    "last_reason": "Not rechecked beyond prior; no official page read this cycle",
-    "next_check_after": "2026-11-29T00:46:00Z",
+    "last_result": "temporary",
+    "last_reason": "runwayml.com redirects to runway.com which does not resolve from session network",
+    "next_check_after": "2026-11-28T16:46:07Z",
     "parked": false
    }
   },
@@ -458,11 +463,16 @@
       "at": "2026-11-28T12:46:00Z",
       "result": "no_new_info",
       "reason": "Not rechecked beyond prior; no official page read this cycle"
+     },
+     {
+      "at": "2026-11-28T13:46:07Z",
+      "result": "temporary",
+      "reason": "www.cometapi.com does not resolve from session network; needs allowing in network settings"
      }
     ],
-    "last_result": "no_new_info",
-    "last_reason": "Not rechecked beyond prior; no official page read this cycle",
-    "next_check_after": "2026-11-28T15:46:00Z",
+    "last_result": "temporary",
+    "last_reason": "www.cometapi.com does not resolve from session network; needs allowing in network settings",
+    "next_check_after": "2026-11-28T16:46:07Z",
     "parked": false
    }
   },
@@ -541,7 +551,7 @@
    "status": "active",
    "last_checked": "2026-11-28T07:46:10Z",
    "primary_source_link": "https://www.ovhcloud.com/en/black-friday/",
-   "last_verified_at": "2026-11-28T12:46:00Z",
+   "last_verified_at": "2026-11-28T13:46:00Z",
    "exact_config": "OVHcloud SYS-2 dedicated: Xeon-D 2141I 8c/16t, 32-128GB DDR4 ECC, 2x512GB-2x1.92TB NVMe soft RAID, 1Gbps",
    "payable_price": "$33.68/mo first year (was $42.10, 20% off); setup fee not stated on page",
    "renewal_or_long_term_cost": "Reverts to ~$42.10/mo after first year (page list price)",
@@ -560,7 +570,7 @@
      "amount": 33.68,
      "currency": "USD",
      "url": "https://www.ovhcloud.com/en/black-friday/",
-     "at": "2026-11-28T12:45:59Z",
+     "at": "2026-11-28T13:45:43Z",
      "type": "seller_page"
     },
     "lowest_observed_by_us": {
@@ -568,7 +578,7 @@
      "currency": "USD",
      "at": "2026-11-27T14:50:00Z",
      "since": "2026-11-27T14:50:00Z",
-     "observations": 18
+     "observations": 19
     },
     "historical_low_claim": {
      "supported": false,
@@ -647,7 +657,7 @@
    "status": "active",
    "last_checked": "2026-11-28T07:46:10Z",
    "primary_source_link": "https://www.hostinger.com/black-friday-vps-deals",
-   "last_verified_at": "2026-11-28T12:46:00Z",
+   "last_verified_at": "2026-11-28T13:46:00Z",
    "exact_config": "KVM 1: 1 vCPU, 4GB RAM, 50GB NVMe, 4TB bandwidth (KVM 2: 2 vCPU/8GB/100GB, $8.79/mo, renews $14.99)",
    "payable_price": "$155.76 upfront for 24 months ($6.49/mo; list $19.49)",
    "renewal_or_long_term_cost": "$11.99/mo after 24 months",
@@ -666,7 +676,7 @@
      "amount": 155.76,
      "currency": "USD",
      "url": "https://www.hostinger.com/black-friday-vps-deals",
-     "at": "2026-11-28T12:45:59Z",
+     "at": "2026-11-28T13:45:43Z",
      "type": "seller_page"
     },
     "lowest_observed_by_us": {
@@ -674,7 +684,7 @@
      "currency": "USD",
      "at": "2026-11-26T15:55:00Z",
      "since": "2026-11-26T15:55:00Z",
-     "observations": 22
+     "observations": 23
     },
     "historical_low_claim": {
      "supported": false,
@@ -701,7 +711,7 @@
    "status": "active",
    "last_checked": "2026-11-28T07:46:10Z",
    "primary_source_link": "https://www.hostinger.com/web-hosting",
-   "last_verified_at": "2026-11-28T11:45:42Z",
+   "last_verified_at": "2026-11-28T13:46:00Z",
    "exact_config": "Hostinger Premium web hosting, 48-month term",
    "payable_price": "$95.52 upfront for 48 months ($1.99/mo)",
    "renewal_or_long_term_cost": "Renews $10.99/mo for the same term",
@@ -735,19 +745,23 @@
       "at": "2026-11-28T12:46:00Z",
       "result": "no_new_info",
       "reason": "Not rechecked beyond prior; no official page read this cycle"
+     },
+     {
+      "at": "2026-11-28T13:46:07Z",
+      "result": "verified",
+      "reason": "Re-read hostinger.com/web-hosting: Premium $1.99/mo 48mo, $95.52 upfront, renews $10.99/mo"
      }
     ],
-    "last_result": "no_new_info",
-    "last_reason": "Not rechecked beyond prior; no official page read this cycle",
-    "parked": false,
-    "next_check_after": "2026-11-29T00:46:00Z"
+    "last_result": "verified",
+    "last_reason": "Re-read hostinger.com/web-hosting: Premium $1.99/mo 48mo, $95.52 upfront, renews $10.99/mo",
+    "parked": false
    },
    "price_intel": {
     "current_price": {
      "amount": 95.52,
      "currency": "USD",
      "url": "https://www.hostinger.com/web-hosting",
-     "at": "2026-11-28T11:45:38Z",
+     "at": "2026-11-28T13:45:43Z",
      "type": "seller_page"
     },
     "lowest_observed_by_us": {
@@ -755,7 +769,7 @@
      "currency": "USD",
      "at": "2026-11-28T09:45:51Z",
      "since": "2026-11-28T07:46:20Z",
-     "observations": 5
+     "observations": 6
     },
     "historical_low_claim": {
      "supported": false,
@@ -911,7 +925,7 @@
    "status": "active",
    "last_checked": "2026-11-28T07:46:10Z",
    "primary_source_link": "https://www.johnlewis.com/apple-iphone-air-ios-6-5-5g-sim-free-256gb/sky-blue/p114323266",
-   "last_verified_at": "2026-11-28T11:45:42Z",
+   "last_verified_at": "2026-11-28T13:46:00Z",
    "exact_config": "iPhone Air 256GB, Sky Blue, new, eSIM-only",
    "payable_price": "£799.00 (delivery promo code per page)",
    "renewal_or_long_term_cost": "n/a; 2-year guarantee labelled at John Lewis",
@@ -958,7 +972,7 @@
      "amount": 799.0,
      "currency": "GBP",
      "url": "https://www.johnlewis.com/apple-iphone-air-ios-6-5-5g-sim-free-256gb/sky-blue/p114323266",
-     "at": "2026-11-28T11:45:38Z",
+     "at": "2026-11-28T13:45:43Z",
      "type": "seller_page"
     },
     "lowest_observed_by_us": {
@@ -966,7 +980,7 @@
      "currency": "GBP",
      "at": "2026-11-26T16:46:00Z",
      "since": "2026-11-26T16:46:00Z",
-     "observations": 18
+     "observations": 19
     },
     "historical_low_claim": {
      "supported": false,
@@ -1326,11 +1340,16 @@
       "at": "2026-11-28T12:46:00Z",
       "result": "no_new_info",
       "reason": "Apple UK buy page lists configs but no prices; Amazon UK blocked"
+     },
+     {
+      "at": "2026-11-28T13:46:07Z",
+      "result": "no_new_info",
+      "reason": "Apple UK lists configs without prices; Amazon UK not read (bot protection)"
      }
     ],
     "last_result": "no_new_info",
-    "last_reason": "Apple UK buy page lists configs but no prices; Amazon UK blocked",
-    "next_check_after": "2026-11-28T15:46:00Z",
+    "last_reason": "Apple UK lists configs without prices; Amazon UK not read (bot protection)",
+    "next_check_after": "2026-11-28T19:46:07Z",
     "parked": false,
     "alternatives_to_try": "WebFetch of the same page; manufacturer/official store page for the same item; another authorised UK retailer's product page; provider's official pricing, help, blog or newsroom page"
    }
@@ -1400,11 +1419,16 @@
       "at": "2026-11-28T12:46:00Z",
       "result": "no_new_info",
       "reason": "Apple UK buy page lists configs but no prices; Amazon UK blocked"
+     },
+     {
+      "at": "2026-11-28T13:46:07Z",
+      "result": "no_new_info",
+      "reason": "Apple UK buy-mac page lists configs but no prices; no retailer price readable"
      }
     ],
     "last_result": "no_new_info",
-    "last_reason": "Apple UK buy page lists configs but no prices; Amazon UK blocked",
-    "next_check_after": "2026-11-28T15:46:00Z",
+    "last_reason": "Apple UK buy-mac page lists configs but no prices; no retailer price readable",
+    "next_check_after": "2026-11-28T19:46:07Z",
     "parked": false
    }
   },
@@ -1488,14 +1512,19 @@
       "at": "2026-11-28T12:46:00Z",
       "result": "blocked",
       "reason": "Amazon UK blocks automated reads"
+     },
+     {
+      "at": "2026-11-28T13:46:07Z",
+      "result": "blocked",
+      "reason": "Amazon UK blocks automated reads; not worked around"
      }
     ],
     "last_result": "blocked",
-    "last_reason": "Amazon UK blocks automated reads",
-    "next_check_after": "2026-11-29T00:46:00Z",
+    "last_reason": "Amazon UK blocks automated reads; not worked around",
+    "next_check_after": "2026-11-29T01:46:07Z",
     "parked": true,
     "alternatives_to_try": "WebFetch of the same page; manufacturer/official store page for the same item; another authorised UK retailer's product page; provider's official pricing, help, blog or newsroom page",
-    "why_unverified": "Seller page repeatedly unreadable (Amazon UK blocks automated reads); no alternative primary source confirmed it. Rechecked every 12h or when discovery finds new evidence."
+    "why_unverified": "Seller page repeatedly unreadable (Amazon UK blocks automated reads; not worked around); no alternative primary source confirmed it. Rechecked every 12h or when discovery finds new evidence."
    }
   },
   {
@@ -1578,14 +1607,19 @@
       "at": "2026-11-28T12:46:00Z",
       "result": "blocked",
       "reason": "Amazon UK blocks automated reads"
+     },
+     {
+      "at": "2026-11-28T13:46:07Z",
+      "result": "blocked",
+      "reason": "Amazon UK blocks automated reads; not worked around"
      }
     ],
     "last_result": "blocked",
-    "last_reason": "Amazon UK blocks automated reads",
-    "next_check_after": "2026-11-29T00:46:00Z",
+    "last_reason": "Amazon UK blocks automated reads; not worked around",
+    "next_check_after": "2026-11-29T01:46:07Z",
     "parked": true,
     "alternatives_to_try": "WebFetch of the same page; manufacturer/official store page for the same item; another authorised UK retailer's product page; provider's official pricing, help, blog or newsroom page",
-    "why_unverified": "Seller page repeatedly unreadable (Amazon UK blocks automated reads); no alternative primary source confirmed it. Rechecked every 12h or when discovery finds new evidence."
+    "why_unverified": "Seller page repeatedly unreadable (Amazon UK blocks automated reads; not worked around); no alternative primary source confirmed it. Rechecked every 12h or when discovery finds new evidence."
    }
   },
   {
@@ -1659,13 +1693,18 @@
       "at": "2026-11-28T12:46:00Z",
       "result": "blocked",
       "reason": "Back Market 403 on WebFetch; no workaround"
+     },
+     {
+      "at": "2026-11-28T13:46:07Z",
+      "result": "blocked",
+      "reason": "Back Market category page returns HTTP 403"
      }
     ],
     "last_result": "blocked",
-    "last_reason": "Back Market 403 on WebFetch; no workaround",
-    "next_check_after": "2026-11-29T00:46:00Z",
+    "last_reason": "Back Market category page returns HTTP 403",
+    "next_check_after": "2026-11-29T01:46:07Z",
     "parked": true,
-    "why_unverified": "Seller page repeatedly unreadable (Back Market 403 on WebFetch; no workaround); no alternative primary source confirmed it. Rechecked every 12h or when discovery finds new evidence."
+    "why_unverified": "Seller page repeatedly unreadable (Back Market category page returns HTTP 403); no alternative primary source confirmed it. Rechecked every 12h or when discovery finds new evidence."
    }
   },
   {
@@ -1893,10 +1932,10 @@
  ],
  "policy": "No Strong/Exceptional without a primary-source check (V3). Deal articles are for discovery only. Unconfirmed prices are UNVERIFIED and not ranked.",
  "policy_cd": "C/D: four checks (price, exact_config, stock_purchasable, london_fulfilment). A category page is price discovery only. BUY NOW only when all four are verified and the rating is Exceptional.",
- "last_checked": "2026-11-28T12:46:00Z",
+ "last_checked": "2026-11-28T13:46:00Z",
  "workflow": {
-  "last_deep_cycle_at": "2026-11-28T12:46:00Z",
-  "deep_cycles_done": 8,
+  "last_deep_cycle_at": "2026-11-28T13:46:07Z",
+  "deep_cycles_done": 9,
   "discovery_rotation": [
    "A",
    "B",
